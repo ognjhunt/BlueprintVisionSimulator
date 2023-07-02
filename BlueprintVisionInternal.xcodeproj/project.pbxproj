@@ -1,0 +1,784 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
+		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
+		EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */; };
+		EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAE2A5092F10038EF61 /* ObjectView.swift */; };
+		EA37BDB12A50E81E0038EF61 /* Basketball.usdz in Resources */ = {isa = PBXBuildFile; fileRef = EA37BDB02A50E81D0038EF61 /* Basketball.usdz */; };
+		EA37BDB32A51C6B90038EF61 /* StylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB22A51C6B90038EF61 /* StylesView.swift */; };
+		EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB42A52165B0038EF61 /* HomeView.swift */; };
+		EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = EA84F0CB2A4E78B10068623C /* RealityKitContent */; };
+		EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */; };
+		EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0D12A4E78B10068623C /* ImmersiveView.swift */; };
+		EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA84F0D32A4E78B20068623C /* Assets.xcassets */; };
+		EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA84F0D62A4E78B20068623C /* Preview Assets.xcassets */; };
+		EA84F0E12A4E78B20068623C /* BlueprintVisionInternalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */; };
+		EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0F52A4E7A5A0068623C /* LaunchView.swift */; };
+		EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */; };
+		EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */; };
+		EA84F1092A4E7AB00068623C /* ConfirmPlacementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */; };
+		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
+		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
+		EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */; };
+		EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1042A4E7AB00068623C /* UserProfileView.swift */; };
+		EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */; };
+		EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1062A4E7AB00068623C /* LibraryView.swift */; };
+		EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */; };
+		EA84F1112A4E7AB00068623C /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1082A4E7AB00068623C /* SearchView.swift */; };
+		EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1132A4E7AC90068623C /* ForgotPasswordView.swift */; };
+		EA84F1192A4E7AC90068623C /* CreateAccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1142A4E7AC90068623C /* CreateAccountView.swift */; };
+		EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1152A4E7AC90068623C /* LogInView.swift */; };
+		EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1162A4E7AC90068623C /* CreateUsernameView.swift */; };
+		EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1172A4E7AC90068623C /* SignUpView.swift */; };
+		EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F11D2A4E7AD10068623C /* SubscriptionView.swift */; };
+		EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1202A4E7B040068623C /* FirebaseStorageHelper.swift */; };
+		EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1212A4E7B040068623C /* FirebaseAuthHelper.swift */; };
+		EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1222A4E7B040068623C /* FirestoreManager.swift */; };
+		EA84F1272A4E7B040068623C /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1232A4E7B040068623C /* StorageManager.swift */; };
+		EA84F12F2A4E7B250068623C /* Texture.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1292A4E7B250068623C /* Texture.swift */; };
+		EA84F1302A4E7B250068623C /* Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12A2A4E7B250068623C /* Style.swift */; };
+		EA84F1312A4E7B250068623C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12B2A4E7B250068623C /* Model.swift */; };
+		EA84F1322A4E7B250068623C /* Anchor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12C2A4E7B250068623C /* Anchor.swift */; };
+		EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12D2A4E7B250068623C /* Blueprint.swift */; };
+		EA84F1342A4E7B250068623C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12E2A4E7B250068623C /* User.swift */; };
+		EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1362A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift */; };
+		EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1372A4E7B5E0068623C /* DownloadContentTableViewCell.swift */; };
+		EA84F1482A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1382A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift */; };
+		EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1392A4E7B5E0068623C /* ObjectInfoTableViewCell.swift */; };
+		EA84F14A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift */; };
+		EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift */; };
+		EA84F14C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift */; };
+		EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift */; };
+		EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13E2A4E7B5E0068623C /* ModelCollectionViewCell.swift */; };
+		EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F13F2A4E7B5E0068623C /* CategoryTableViewCell.swift */; };
+		EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1402A4E7B5E0068623C /* AskToJoinTableViewCell.swift */; };
+		EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1412A4E7B5E0068623C /* ModelTableViewCell.swift */; };
+		EA84F1522A4E7B5E0068623C /* NetworkTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1422A4E7B5E0068623C /* NetworkTableViewCell.swift */; };
+		EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1432A4E7B5E0068623C /* UploadContentTableViewCell.swift */; };
+		EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1442A4E7B5E0068623C /* StyleTableViewCell.swift */; };
+		EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1452A4E7B5E0068623C /* BrowseTableViewCell.swift */; };
+		EA84F1572A4E7CBD0068623C /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1562A4E7CBD0068623C /* Module.swift */; };
+		EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1582A4E7CE70068623C /* ModuleCard.swift */; };
+		EA84F15B2A4F28A40068623C /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EA84F0DD2A4E78B20068623C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EA84F0BE2A4E78B10068623C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EA84F0C52A4E78B10068623C;
+			remoteInfo = BlueprintVisionInternal;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
+		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
+		EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacementGesturesModifier.swift; sourceTree = "<group>"; };
+		EA37BDAE2A5092F10038EF61 /* ObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectView.swift; sourceTree = "<group>"; };
+		EA37BDB02A50E81D0038EF61 /* Basketball.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Basketball.usdz; sourceTree = "<group>"; };
+		EA37BDB22A51C6B90038EF61 /* StylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylesView.swift; sourceTree = "<group>"; };
+		EA37BDB42A52165B0038EF61 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueprintVisionInternal.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA84F0CA2A4E78B10068623C /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
+		EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintVisionInternalApp.swift; sourceTree = "<group>"; };
+		EA84F0D12A4E78B10068623C /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
+		EA84F0D32A4E78B20068623C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EA84F0D62A4E78B20068623C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EA84F0DC2A4E78B20068623C /* BlueprintVisionInternalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlueprintVisionInternalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintVisionInternalTests.swift; sourceTree = "<group>"; };
+		EA84F0F52A4E7A5A0068623C /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
+		EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceBlueprintInstructionsView.swift; sourceTree = "<group>"; };
+		EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricBlueprintView.swift; sourceTree = "<group>"; };
+		EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmPlacementView.swift; sourceTree = "<group>"; };
+		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
+		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
+		EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingBlueprintView.swift; sourceTree = "<group>"; };
+		EA84F1042A4E7AB00068623C /* UserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
+		EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditUserProfileView.swift; sourceTree = "<group>"; };
+		EA84F1062A4E7AB00068623C /* LibraryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
+		EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditBlueprintView.swift; sourceTree = "<group>"; };
+		EA84F1082A4E7AB00068623C /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		EA84F1132A4E7AC90068623C /* ForgotPasswordView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
+		EA84F1142A4E7AC90068623C /* CreateAccountView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountView.swift; sourceTree = "<group>"; };
+		EA84F1152A4E7AC90068623C /* LogInView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
+		EA84F1162A4E7AC90068623C /* CreateUsernameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateUsernameView.swift; sourceTree = "<group>"; };
+		EA84F1172A4E7AC90068623C /* SignUpView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		EA84F11D2A4E7AD10068623C /* SubscriptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubscriptionView.swift; sourceTree = "<group>"; };
+		EA84F1202A4E7B040068623C /* FirebaseStorageHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirebaseStorageHelper.swift; sourceTree = "<group>"; };
+		EA84F1212A4E7B040068623C /* FirebaseAuthHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirebaseAuthHelper.swift; sourceTree = "<group>"; };
+		EA84F1222A4E7B040068623C /* FirestoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirestoreManager.swift; sourceTree = "<group>"; };
+		EA84F1232A4E7B040068623C /* StorageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
+		EA84F1292A4E7B250068623C /* Texture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Texture.swift; sourceTree = "<group>"; };
+		EA84F12A2A4E7B250068623C /* Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Style.swift; sourceTree = "<group>"; };
+		EA84F12B2A4E7B250068623C /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		EA84F12C2A4E7B250068623C /* Anchor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Anchor.swift; sourceTree = "<group>"; };
+		EA84F12D2A4E7B250068623C /* Blueprint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Blueprint.swift; sourceTree = "<group>"; };
+		EA84F12E2A4E7B250068623C /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		EA84F1362A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneratedContentImageTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1372A4E7B5E0068623C /* DownloadContentTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadContentTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1382A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatePersonalNetworkTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1392A4E7B5E0068623C /* ObjectInfoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectInfoTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F13A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProductLinkTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F13B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkConnectionTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F13C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectCreatorTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F13D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectDescriptionTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F13E2A4E7B5E0068623C /* ModelCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelCollectionViewCell.swift; sourceTree = "<group>"; };
+		EA84F13F2A4E7B5E0068623C /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1402A4E7B5E0068623C /* AskToJoinTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AskToJoinTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1412A4E7B5E0068623C /* ModelTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1422A4E7B5E0068623C /* NetworkTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1432A4E7B5E0068623C /* UploadContentTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UploadContentTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1442A4E7B5E0068623C /* StyleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StyleTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1452A4E7B5E0068623C /* BrowseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrowseTableViewCell.swift; sourceTree = "<group>"; };
+		EA84F1562A4E7CBD0068623C /* Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
+		EA84F1582A4E7CE70068623C /* ModuleCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModuleCard.swift; sourceTree = "<group>"; };
+		EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "César - Louvre Museum.usdz"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EA84F0C32A4E78B10068623C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA84F0D92A4E78B20068623C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EA37BDA72A508ABC0038EF61 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */,
+				EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */,
+				EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		EA84F0BD2A4E78B10068623C = {
+			isa = PBXGroup;
+			children = (
+				EA84F0C82A4E78B10068623C /* BlueprintVisionInternal */,
+				EA84F0C92A4E78B10068623C /* Packages */,
+				EA84F0DF2A4E78B20068623C /* BlueprintVisionInternalTests */,
+				EA84F0C72A4E78B10068623C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EA84F0C72A4E78B10068623C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */,
+				EA84F0DC2A4E78B20068623C /* BlueprintVisionInternalTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EA84F0C82A4E78B10068623C /* BlueprintVisionInternal */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
+				EA84F0F42A4E7A500068623C /* Shared Space */,
+				EA84F0FE2A4E7A9F0068623C /* Full Space */,
+				EA84F0D12A4E78B10068623C /* ImmersiveView.swift */,
+				EA37BDA72A508ABC0038EF61 /* Modifiers */,
+				EA84F1352A4E7B4A0068623C /* TableViewCells */,
+				EA84F1282A4E7B130068623C /* Model */,
+				EA84F11F2A4E7AF90068623C /* Firebase */,
+				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
+				EA37BDB02A50E81D0038EF61 /* Basketball.usdz */,
+				EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */,
+				EA84F0D52A4E78B20068623C /* Preview Content */,
+			);
+			path = BlueprintVisionInternal;
+			sourceTree = "<group>";
+		};
+		EA84F0C92A4E78B10068623C /* Packages */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0CA2A4E78B10068623C /* RealityKitContent */,
+			);
+			path = Packages;
+			sourceTree = "<group>";
+		};
+		EA84F0D52A4E78B20068623C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0D62A4E78B20068623C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EA84F0DF2A4E78B20068623C /* BlueprintVisionInternalTests */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */,
+			);
+			path = BlueprintVisionInternalTests;
+			sourceTree = "<group>";
+		};
+		EA84F0F42A4E7A500068623C /* Shared Space */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0F52A4E7A5A0068623C /* LaunchView.swift */,
+				EA84F0F92A4E7A740068623C /* Roam */,
+			);
+			path = "Shared Space";
+			sourceTree = "<group>";
+		};
+		EA84F0F92A4E7A740068623C /* Roam */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */,
+				EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */,
+			);
+			path = Roam;
+			sourceTree = "<group>";
+		};
+		EA84F0FE2A4E7A9F0068623C /* Full Space */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F11D2A4E7AD10068623C /* SubscriptionView.swift */,
+				EA84F1122A4E7ABA0068623C /* Sign Up */,
+				EA84F0FF2A4E7AA60068623C /* Edit */,
+			);
+			path = "Full Space";
+			sourceTree = "<group>";
+		};
+		EA84F0FF2A4E7AA60068623C /* Edit */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */,
+				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
+				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
+				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
+				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
+				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
+				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
+				EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */,
+				EA84F1082A4E7AB00068623C /* SearchView.swift */,
+				EA84F1042A4E7AB00068623C /* UserProfileView.swift */,
+				EA37BDB22A51C6B90038EF61 /* StylesView.swift */,
+				EA84F1022A4E7AB00068623C /* UserSettingsView.swift */,
+			);
+			path = Edit;
+			sourceTree = "<group>";
+		};
+		EA84F1122A4E7ABA0068623C /* Sign Up */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1142A4E7AC90068623C /* CreateAccountView.swift */,
+				EA84F1162A4E7AC90068623C /* CreateUsernameView.swift */,
+				EA84F1132A4E7AC90068623C /* ForgotPasswordView.swift */,
+				EA84F1152A4E7AC90068623C /* LogInView.swift */,
+				EA84F1172A4E7AC90068623C /* SignUpView.swift */,
+			);
+			path = "Sign Up";
+			sourceTree = "<group>";
+		};
+		EA84F11F2A4E7AF90068623C /* Firebase */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1212A4E7B040068623C /* FirebaseAuthHelper.swift */,
+				EA84F1202A4E7B040068623C /* FirebaseStorageHelper.swift */,
+				EA84F1222A4E7B040068623C /* FirestoreManager.swift */,
+				EA84F1232A4E7B040068623C /* StorageManager.swift */,
+			);
+			path = Firebase;
+			sourceTree = "<group>";
+		};
+		EA84F1282A4E7B130068623C /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F12C2A4E7B250068623C /* Anchor.swift */,
+				EA84F12D2A4E7B250068623C /* Blueprint.swift */,
+				EA84F12B2A4E7B250068623C /* Model.swift */,
+				EA84F12A2A4E7B250068623C /* Style.swift */,
+				EA84F1292A4E7B250068623C /* Texture.swift */,
+				EA84F12E2A4E7B250068623C /* User.swift */,
+				EA84F1562A4E7CBD0068623C /* Module.swift */,
+				EA84F1582A4E7CE70068623C /* ModuleCard.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		EA84F1352A4E7B4A0068623C /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1402A4E7B5E0068623C /* AskToJoinTableViewCell.swift */,
+				EA84F1452A4E7B5E0068623C /* BrowseTableViewCell.swift */,
+				EA84F13F2A4E7B5E0068623C /* CategoryTableViewCell.swift */,
+				EA84F1382A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift */,
+				EA84F1372A4E7B5E0068623C /* DownloadContentTableViewCell.swift */,
+				EA84F1362A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift */,
+				EA84F13E2A4E7B5E0068623C /* ModelCollectionViewCell.swift */,
+				EA84F1412A4E7B5E0068623C /* ModelTableViewCell.swift */,
+				EA84F13B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift */,
+				EA84F1422A4E7B5E0068623C /* NetworkTableViewCell.swift */,
+				EA84F13C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift */,
+				EA84F13D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift */,
+				EA84F1392A4E7B5E0068623C /* ObjectInfoTableViewCell.swift */,
+				EA84F13A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift */,
+				EA84F1442A4E7B5E0068623C /* StyleTableViewCell.swift */,
+				EA84F1432A4E7B5E0068623C /* UploadContentTableViewCell.swift */,
+			);
+			path = TableViewCells;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EA84F0C52A4E78B10068623C /* BlueprintVisionInternal */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA84F0E42A4E78B20068623C /* Build configuration list for PBXNativeTarget "BlueprintVisionInternal" */;
+			buildPhases = (
+				EA84F0C22A4E78B10068623C /* Sources */,
+				EA84F0C32A4E78B10068623C /* Frameworks */,
+				EA84F0C42A4E78B10068623C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BlueprintVisionInternal;
+			packageProductDependencies = (
+				EA84F0CB2A4E78B10068623C /* RealityKitContent */,
+			);
+			productName = BlueprintVisionInternal;
+			productReference = EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EA84F0DB2A4E78B20068623C /* BlueprintVisionInternalTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EA84F0E72A4E78B20068623C /* Build configuration list for PBXNativeTarget "BlueprintVisionInternalTests" */;
+			buildPhases = (
+				EA84F0D82A4E78B20068623C /* Sources */,
+				EA84F0D92A4E78B20068623C /* Frameworks */,
+				EA84F0DA2A4E78B20068623C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EA84F0DE2A4E78B20068623C /* PBXTargetDependency */,
+			);
+			name = BlueprintVisionInternalTests;
+			productName = BlueprintVisionInternalTests;
+			productReference = EA84F0DC2A4E78B20068623C /* BlueprintVisionInternalTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EA84F0BE2A4E78B10068623C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					EA84F0C52A4E78B10068623C = {
+						CreatedOnToolsVersion = 15.0;
+					};
+					EA84F0DB2A4E78B20068623C = {
+						CreatedOnToolsVersion = 15.0;
+						TestTargetID = EA84F0C52A4E78B10068623C;
+					};
+				};
+			};
+			buildConfigurationList = EA84F0C12A4E78B10068623C /* Build configuration list for PBXProject "BlueprintVisionInternal" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EA84F0BD2A4E78B10068623C;
+			productRefGroup = EA84F0C72A4E78B10068623C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EA84F0C52A4E78B10068623C /* BlueprintVisionInternal */,
+				EA84F0DB2A4E78B20068623C /* BlueprintVisionInternalTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EA84F0C42A4E78B10068623C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA37BDB12A50E81E0038EF61 /* Basketball.usdz in Resources */,
+				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
+				EA84F15B2A4F28A40068623C /* César - Louvre Museum.usdz in Resources */,
+				EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA84F0DA2A4E78B20068623C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EA84F0C22A4E78B10068623C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
+				EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */,
+				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
+				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
+				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
+				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
+				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
+				EA84F1342A4E7B250068623C /* User.swift in Sources */,
+				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
+				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
+				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
+				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
+				EA37BDB32A51C6B90038EF61 /* StylesView.swift in Sources */,
+				EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */,
+				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
+				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
+				EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */,
+				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
+				EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */,
+				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
+				EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */,
+				EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */,
+				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
+				EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */,
+				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
+				EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */,
+				EA84F1322A4E7B250068623C /* Anchor.swift in Sources */,
+				EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */,
+				EA84F12F2A4E7B250068623C /* Texture.swift in Sources */,
+				EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */,
+				EA84F1482A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift in Sources */,
+				EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */,
+				EA84F1572A4E7CBD0068623C /* Module.swift in Sources */,
+				EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */,
+				EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */,
+				EA84F1302A4E7B250068623C /* Style.swift in Sources */,
+				EA84F14A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift in Sources */,
+				EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */,
+				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
+				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
+				EA84F1522A4E7B5E0068623C /* NetworkTableViewCell.swift in Sources */,
+				EA84F1192A4E7AC90068623C /* CreateAccountView.swift in Sources */,
+				EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */,
+				EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */,
+				EA84F1112A4E7AB00068623C /* SearchView.swift in Sources */,
+				EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */,
+				EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */,
+				EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */,
+				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
+				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
+				EA84F1092A4E7AB00068623C /* ConfirmPlacementView.swift in Sources */,
+				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
+				EA84F14C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift in Sources */,
+				EA84F1272A4E7B040068623C /* StorageManager.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EA84F0D82A4E78B20068623C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EA84F0E12A4E78B20068623C /* BlueprintVisionInternalTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EA84F0DE2A4E78B20068623C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EA84F0C52A4E78B10068623C /* BlueprintVisionInternal */;
+			targetProxy = EA84F0DD2A4E78B20068623C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EA84F0E22A4E78B20068623C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = xros;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Debug;
+		};
+		EA84F0E32A4E78B20068623C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = xros;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Release;
+		};
+		EA84F0E52A4E78B20068623C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
+				DEVELOPMENT_TEAM = 6ZTS4C5F38;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+			};
+			name = Debug;
+		};
+		EA84F0E62A4E78B20068623C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
+				DEVELOPMENT_TEAM = 6ZTS4C5F38;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternal;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+			};
+			name = Release;
+		};
+		EA84F0E82A4E78B20068623C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6ZTS4C5F38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternalTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BlueprintVisionInternal.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BlueprintVisionInternal";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Debug;
+		};
+		EA84F0E92A4E78B20068623C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6ZTS4C5F38;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternalTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BlueprintVisionInternal.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BlueprintVisionInternal";
+				XROS_DEPLOYMENT_TARGET = 1.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA84F0C12A4E78B10068623C /* Build configuration list for PBXProject "BlueprintVisionInternal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA84F0E22A4E78B20068623C /* Debug */,
+				EA84F0E32A4E78B20068623C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA84F0E42A4E78B20068623C /* Build configuration list for PBXNativeTarget "BlueprintVisionInternal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA84F0E52A4E78B20068623C /* Debug */,
+				EA84F0E62A4E78B20068623C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EA84F0E72A4E78B20068623C /* Build configuration list for PBXNativeTarget "BlueprintVisionInternalTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA84F0E82A4E78B20068623C /* Debug */,
+				EA84F0E92A4E78B20068623C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		EA84F0CB2A4E78B10068623C /* RealityKitContent */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = RealityKitContent;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = EA84F0BE2A4E78B10068623C /* Project object */;
+}
