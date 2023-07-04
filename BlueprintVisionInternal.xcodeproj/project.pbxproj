@@ -67,6 +67,7 @@
 		EA84F1572A4E7CBD0068623C /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1562A4E7CBD0068623C /* Module.swift */; };
 		EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1582A4E7CE70068623C /* ModuleCard.swift */; };
 		EA84F15B2A4F28A40068623C /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */; };
+		EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -142,6 +143,7 @@
 		EA84F1562A4E7CBD0068623C /* Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
 		EA84F1582A4E7CE70068623C /* ModuleCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModuleCard.swift; sourceTree = "<group>"; };
 		EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "César - Louvre Museum.usdz"; sourceTree = "<group>"; };
+		EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBlueprintView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -269,6 +271,7 @@
 				EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */,
 				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
 				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
+				EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */,
 				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
 				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
 				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
@@ -455,6 +458,7 @@
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
+				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
