@@ -7,7 +7,7 @@
 
 def Xform "Root"
 {
-    reorder nameChildren = ["Sphere_Left", "Sphere_Right", "_PlainMaterial"]
+    reorder nameChildren = ["Sphere_Left", "Sphere_Right", "_PlainMaterial", "A_painting_about_Goat1", "Cube", "Light_Blue_Denim_Fabric"]
     def Sphere "Sphere_Right" (
         active = true
         prepend apiSchemas = ["MaterialBindingAPI"]
@@ -40,11 +40,102 @@ def Xform "Root"
 
     def "_PlainMaterial" (
         active = true
-        prepend references = @_PlainMaterial.usda@
+        references = @_PlainMaterial.usda@
     )
     {
         float3 xformOp:scale = (1, 1, 1)
         uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+    }
+
+    def "A_painting_about_Goat1" (
+        active = true
+        customData = {
+            float3 rotationEulerHint = (1.5707963, 0, 0)
+        }
+        references = @A_painting_about_Goat1.usdz@
+    )
+    {
+        quatf xformOp:orient = (0.70710677, 0.7071067, 0, 0)
+        float3 xformOp:scale = (1, 1, 1)
+        float3 xformOp:translate = (-0.024454676, 0.48221958, -2.8525302)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+    }
+
+    def Cube "Cube" (
+        active = true
+        prepend apiSchemas = ["MaterialBindingAPI"]
+        customData = {
+            float3 rotationEulerHint = (1.5707964, 7.105428e-15, 3.1415925)
+        }
+    )
+    {
+        reorder nameChildren = ["Light_Blue_Denim_Fabric", "DefaultMaterial"]
+        rel material:binding = </Root/Brown_Merino_Wool> (
+            bindMaterialAs = "weakerThanDescendants"
+        )
+        double size = 0.2
+        quatf xformOp:orient = (5.3385072e-8, 5.3385072e-8, 0.70710677, 0.7071067)
+        float3 xformOp:scale = (10, 10, 0.01)
+        float3 xformOp:translate = (-0.15381877, 0, -1.7613883)
+        uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
+
+        def Material "DefaultMaterial"
+        {
+            token outputs:mtlx:surface
+            token outputs:realitykit:vertex
+            prepend token outputs:surface.connect = </Root/Cube/DefaultMaterial/DefaultSurfaceShader.outputs:surface>
+
+            def Shader "DefaultSurfaceShader"
+            {
+                uniform token info:id = "UsdPreviewSurface"
+                color3f inputs:diffuseColor = (1, 1, 1)
+                float inputs:roughness = 0.75
+                token outputs:surface
+            }
+        }
+    }
+
+    def "Brown_Merino_Wool" (
+        active = true
+        prepend references = @BrownMerinoWool.usdz@
+    )
+    {
+        float2 ui:nodegraph:realitykit:subgraphOutputs:size = (181.5, 99)
+
+        over "Basecolor"
+        {
+            float2 ui:nodegraph:node:size = (148.5, 199)
+        }
+
+        over "Roughness"
+        {
+            float2 ui:nodegraph:node:size = (148.5, 199)
+        }
+
+        over "Metallic"
+        {
+            float2 ui:nodegraph:node:size = (148.5, 199)
+        }
+
+        over "MaterialXPreviewSurface"
+        {
+            float2 ui:nodegraph:node:size = (207.5, 199)
+        }
+
+        over "add"
+        {
+            float2 ui:nodegraph:node:size = (61.5, 36.5)
+        }
+
+        over "multiply"
+        {
+            float2 ui:nodegraph:node:size = (60, 36)
+        }
+
+        over "Normal"
+        {
+            float2 ui:nodegraph:node:size = (148.5, 199)
+        }
     }
 }
 

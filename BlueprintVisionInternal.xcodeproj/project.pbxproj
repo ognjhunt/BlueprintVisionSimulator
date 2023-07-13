@@ -7,11 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */; };
+		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
+		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
+		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
+		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
+		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
+		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
 		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
 		EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */; };
 		EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAE2A5092F10038EF61 /* ObjectView.swift */; };
-		EA37BDB12A50E81E0038EF61 /* Basketball.usdz in Resources */ = {isa = PBXBuildFile; fileRef = EA37BDB02A50E81D0038EF61 /* Basketball.usdz */; };
 		EA37BDB32A51C6B90038EF61 /* StylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB22A51C6B90038EF61 /* StylesView.swift */; };
 		EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB42A52165B0038EF61 /* HomeView.swift */; };
 		EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = EA84F0CB2A4E78B10068623C /* RealityKitContent */; };
@@ -23,7 +29,7 @@
 		EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0F52A4E7A5A0068623C /* LaunchView.swift */; };
 		EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */; };
 		EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */; };
-		EA84F1092A4E7AB00068623C /* ConfirmPlacementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */; };
+		EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */; };
 		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
 		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
 		EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */; };
@@ -66,8 +72,8 @@
 		EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1452A4E7B5E0068623C /* BrowseTableViewCell.swift */; };
 		EA84F1572A4E7CBD0068623C /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1562A4E7CBD0068623C /* Module.swift */; };
 		EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1582A4E7CE70068623C /* ModuleCard.swift */; };
-		EA84F15B2A4F28A40068623C /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */; };
 		EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */; };
+		EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,11 +87,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentsListView.swift; sourceTree = "<group>"; };
+		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		89B9233A2A579B8B00712970 /* RecommendedContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedContentView.swift; sourceTree = "<group>"; };
+		89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedObjectInfoView.swift; sourceTree = "<group>"; };
+		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
+		89B923452A585D5400712970 /* wall.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = wall.usdz; path = ../../wall.usdz; sourceTree = "<group>"; };
+		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
+		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
 		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
 		EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacementGesturesModifier.swift; sourceTree = "<group>"; };
 		EA37BDAE2A5092F10038EF61 /* ObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectView.swift; sourceTree = "<group>"; };
-		EA37BDB02A50E81D0038EF61 /* Basketball.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Basketball.usdz; sourceTree = "<group>"; };
 		EA37BDB22A51C6B90038EF61 /* StylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylesView.swift; sourceTree = "<group>"; };
 		EA37BDB42A52165B0038EF61 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueprintVisionInternal.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -99,7 +112,7 @@
 		EA84F0F52A4E7A5A0068623C /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
 		EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceBlueprintInstructionsView.swift; sourceTree = "<group>"; };
 		EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricBlueprintView.swift; sourceTree = "<group>"; };
-		EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmPlacementView.swift; sourceTree = "<group>"; };
+		EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmPlacementCard.swift; sourceTree = "<group>"; };
 		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
 		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
 		EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingBlueprintView.swift; sourceTree = "<group>"; };
@@ -142,8 +155,8 @@
 		EA84F1452A4E7B5E0068623C /* BrowseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrowseTableViewCell.swift; sourceTree = "<group>"; };
 		EA84F1562A4E7CBD0068623C /* Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
 		EA84F1582A4E7CE70068623C /* ModuleCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModuleCard.swift; sourceTree = "<group>"; };
-		EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBlueprintView.swift; sourceTree = "<group>"; };
+		EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAnchorCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +178,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		89B9233E2A58422500712970 /* Long Press */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */,
+				EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */,
+				89B9233A2A579B8B00712970 /* RecommendedContentView.swift */,
+				89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */,
+			);
+			path = "Long Press";
+			sourceTree = "<group>";
+		};
 		EA37BDA72A508ABC0038EF61 /* Modifiers */ = {
 			isa = PBXGroup;
 			children = (
@@ -197,17 +221,19 @@
 		EA84F0C82A4E78B10068623C /* BlueprintVisionInternal */ = {
 			isa = PBXGroup;
 			children = (
+				89A9F4012A5B0F4100339826 /* Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
 				EA84F0FE2A4E7A9F0068623C /* Full Space */,
 				EA84F0D12A4E78B10068623C /* ImmersiveView.swift */,
+				89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */,
 				EA37BDA72A508ABC0038EF61 /* Modifiers */,
 				EA84F1352A4E7B4A0068623C /* TableViewCells */,
 				EA84F1282A4E7B130068623C /* Model */,
 				EA84F11F2A4E7AF90068623C /* Firebase */,
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
-				EA37BDB02A50E81D0038EF61 /* Basketball.usdz */,
-				EA84F15A2A4F28A40068623C /* César - Louvre Museum.usdz */,
+				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
+				89B923452A585D5400712970 /* wall.usdz */,
 				EA84F0D52A4E78B20068623C /* Preview Content */,
 			);
 			path = BlueprintVisionInternal;
@@ -268,11 +294,12 @@
 		EA84F0FF2A4E7AA60068623C /* Edit */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F1002A4E7AB00068623C /* ConfirmPlacementView.swift */,
+				89B9233E2A58422500712970 /* Long Press */,
 				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
 				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
 				EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */,
 				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
+				894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */,
 				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
 				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
 				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
@@ -281,6 +308,7 @@
 				EA84F1042A4E7AB00068623C /* UserProfileView.swift */,
 				EA37BDB22A51C6B90038EF61 /* StylesView.swift */,
 				EA84F1022A4E7AB00068623C /* UserSettingsView.swift */,
+				89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */,
 			);
 			path = Edit;
 			sourceTree = "<group>";
@@ -430,9 +458,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA37BDB12A50E81E0038EF61 /* Basketball.usdz in Resources */,
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
-				EA84F15B2A4F28A40068623C /* César - Louvre Museum.usdz in Resources */,
+				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
+				89B923462A585D5400712970 /* wall.usdz in Resources */,
+				89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */,
 				EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -455,12 +484,14 @@
 				EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */,
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
+				89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */,
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
+				EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
 				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
@@ -469,9 +500,11 @@
 				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
 				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
 				EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */,
+				894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
 				EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */,
 				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
+				89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */,
 				EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */,
 				EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */,
 				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
@@ -502,7 +535,8 @@
 				EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */,
 				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
 				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
-				EA84F1092A4E7AB00068623C /* ConfirmPlacementView.swift in Sources */,
+				EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */,
+				89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */,
 				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
 				EA84F14C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift in Sources */,
 				EA84F1272A4E7B040068623C /* StorageManager.swift in Sources */,
@@ -658,8 +692,12 @@
 				DEVELOPMENT_TEAM = 6ZTS4C5F38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BlueprintVisionInternal/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -686,8 +724,12 @@
 				DEVELOPMENT_TEAM = 6ZTS4C5F38;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BlueprintVisionInternal/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
