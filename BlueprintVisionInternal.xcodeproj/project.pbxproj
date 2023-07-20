@@ -8,6 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */; };
+		897A9F882A69DCDF000838BA /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F872A69DCDF000838BA /* FirebaseFirestore */; };
+		897A9F8A2A69DCDF000838BA /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */; };
+		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
+		897A9F902A69E531000838BA /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F8F2A69E531000838BA /* FirebaseAuth */; };
+		897A9F922A69E531000838BA /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F912A69E531000838BA /* FirebaseStorage */; };
 		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
 		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
@@ -88,6 +93,8 @@
 
 /* Begin PBXFileReference section */
 		894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentsListView.swift; sourceTree = "<group>"; };
+		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BlueprintVisionInternal.entitlements; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		89B9233A2A579B8B00712970 /* RecommendedContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedContentView.swift; sourceTree = "<group>"; };
 		89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedObjectInfoView.swift; sourceTree = "<group>"; };
@@ -165,6 +172,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
+				897A9F882A69DCDF000838BA /* FirebaseFirestore in Frameworks */,
+				897A9F8A2A69DCDF000838BA /* FirebaseFirestoreSwift in Frameworks */,
+				897A9F922A69E531000838BA /* FirebaseStorage in Frameworks */,
+				897A9F902A69E531000838BA /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -178,6 +189,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		897A9F862A69DCDF000838BA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		89B9233E2A58422500712970 /* Long Press */ = {
 			isa = PBXGroup;
 			children = (
@@ -206,6 +224,7 @@
 				EA84F0C92A4E78B10068623C /* Packages */,
 				EA84F0DF2A4E78B20068623C /* BlueprintVisionInternalTests */,
 				EA84F0C72A4E78B10068623C /* Products */,
+				897A9F862A69DCDF000838BA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -221,7 +240,9 @@
 		EA84F0C82A4E78B10068623C /* BlueprintVisionInternal */ = {
 			isa = PBXGroup;
 			children = (
+				897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */,
 				89A9F4012A5B0F4100339826 /* Info.plist */,
+				897A9F8D2A69E288000838BA /* GoogleService-Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
 				EA84F0FE2A4E7A9F0068623C /* Full Space */,
@@ -392,6 +413,10 @@
 			name = BlueprintVisionInternal;
 			packageProductDependencies = (
 				EA84F0CB2A4E78B10068623C /* RealityKitContent */,
+				897A9F872A69DCDF000838BA /* FirebaseFirestore */,
+				897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */,
+				897A9F8F2A69E531000838BA /* FirebaseAuth */,
+				897A9F912A69E531000838BA /* FirebaseStorage */,
 			);
 			productName = BlueprintVisionInternal;
 			productReference = EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */;
@@ -443,6 +468,9 @@
 				Base,
 			);
 			mainGroup = EA84F0BD2A4E78B10068623C;
+			packageReferences = (
+				897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = EA84F0C72A4E78B10068623C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -459,6 +487,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
+				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
 				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
 				89B923462A585D5400712970 /* wall.usdz in Resources */,
 				89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */,
@@ -686,6 +715,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = BlueprintVisionInternal/BlueprintVisionInternal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
@@ -718,6 +748,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = BlueprintVisionInternal/BlueprintVisionInternal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
@@ -819,7 +850,38 @@
 		};
 /* End XCConfigurationList section */
 
+/* Begin XCRemoteSwiftPackageReference section */
+		897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.12.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
 /* Begin XCSwiftPackageProductDependency section */
+		897A9F872A69DCDF000838BA /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
+		};
+		897A9F8F2A69E531000838BA /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		897A9F912A69E531000838BA /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
 		EA84F0CB2A4E78B10068623C /* RealityKitContent */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = RealityKitContent;
