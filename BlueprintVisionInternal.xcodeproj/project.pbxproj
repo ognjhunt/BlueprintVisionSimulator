@@ -8,22 +8,26 @@
 
 /* Begin PBXBuildFile section */
 		894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */; };
-		897A9F882A69DCDF000838BA /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F872A69DCDF000838BA /* FirebaseFirestore */; };
-		897A9F8A2A69DCDF000838BA /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */; };
+		896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896254D92A7189CC00B448FC /* HomeModuleCard.swift */; };
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
-		897A9F902A69E531000838BA /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F8F2A69E531000838BA /* FirebaseAuth */; };
-		897A9F922A69E531000838BA /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 897A9F912A69E531000838BA /* FirebaseStorage */; };
 		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
 		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
 		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
+		89E67F642A718EED00EE00F5 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F632A718EED00EE00F5 /* FirebaseAuth */; };
+		89E67F662A718EED00EE00F5 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F652A718EED00EE00F5 /* FirebaseFirestore */; };
+		89E67F682A718EED00EE00F5 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */; };
+		89E67F6A2A718EED00EE00F5 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F692A718EED00EE00F5 /* FirebaseStorage */; };
+		89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */; };
+		89E67F6F2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */; };
+		89E67F732A71C08700EE00F5 /* EnvironmentProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */; };
+		89E67F772A71C2C800EE00F5 /* beach.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89E67F762A71C2C800EE00F5 /* beach.usdz */; };
 		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
 		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
 		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
 		EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */; };
 		EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAE2A5092F10038EF61 /* ObjectView.swift */; };
-		EA37BDB32A51C6B90038EF61 /* StylesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB22A51C6B90038EF61 /* StylesView.swift */; };
 		EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB42A52165B0038EF61 /* HomeView.swift */; };
 		EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = EA84F0CB2A4E78B10068623C /* RealityKitContent */; };
 		EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */; };
@@ -37,7 +41,6 @@
 		EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */; };
 		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
 		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
-		EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */; };
 		EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1042A4E7AB00068623C /* UserProfileView.swift */; };
 		EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */; };
 		EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1062A4E7AB00068623C /* LibraryView.swift */; };
@@ -93,6 +96,7 @@
 
 /* Begin PBXFileReference section */
 		894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentsListView.swift; sourceTree = "<group>"; };
+		896254D92A7189CC00B448FC /* HomeModuleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModuleCard.swift; sourceTree = "<group>"; };
 		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BlueprintVisionInternal.entitlements; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -100,13 +104,16 @@
 		89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedObjectInfoView.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
 		89B923452A585D5400712970 /* wall.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = wall.usdz; path = ../../wall.usdz; sourceTree = "<group>"; };
+		89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadEnvironmentGuideCard.swift; sourceTree = SOURCE_ROOT; };
+		89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadObjectGuideCard.swift; sourceTree = "<group>"; };
+		89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentProfileView.swift; sourceTree = "<group>"; };
+		89E67F762A71C2C800EE00F5 /* beach.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = beach.usdz; path = ../../beach.usdz; sourceTree = "<group>"; };
 		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
 		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
 		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
 		EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacementGesturesModifier.swift; sourceTree = "<group>"; };
 		EA37BDAE2A5092F10038EF61 /* ObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectView.swift; sourceTree = "<group>"; };
-		EA37BDB22A51C6B90038EF61 /* StylesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StylesView.swift; sourceTree = "<group>"; };
 		EA37BDB42A52165B0038EF61 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueprintVisionInternal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA84F0CA2A4E78B10068623C /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
@@ -122,7 +129,6 @@
 		EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmPlacementCard.swift; sourceTree = "<group>"; };
 		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
 		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
-		EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnboardingBlueprintView.swift; sourceTree = "<group>"; };
 		EA84F1042A4E7AB00068623C /* UserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
 		EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditUserProfileView.swift; sourceTree = "<group>"; };
 		EA84F1062A4E7AB00068623C /* LibraryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryView.swift; sourceTree = "<group>"; };
@@ -172,10 +178,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
-				897A9F882A69DCDF000838BA /* FirebaseFirestore in Frameworks */,
-				897A9F8A2A69DCDF000838BA /* FirebaseFirestoreSwift in Frameworks */,
-				897A9F922A69E531000838BA /* FirebaseStorage in Frameworks */,
-				897A9F902A69E531000838BA /* FirebaseAuth in Frameworks */,
+				89E67F642A718EED00EE00F5 /* FirebaseAuth in Frameworks */,
+				89E67F662A718EED00EE00F5 /* FirebaseFirestore in Frameworks */,
+				89E67F6A2A718EED00EE00F5 /* FirebaseStorage in Frameworks */,
+				89E67F682A718EED00EE00F5 /* FirebaseFirestoreSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -205,6 +211,82 @@
 				89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */,
 			);
 			path = "Long Press";
+			sourceTree = "<group>";
+		};
+		89E67F6B2A718FAE00EE00F5 /* User Guides */ = {
+			isa = PBXGroup;
+			children = (
+				89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */,
+				89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */,
+			);
+			path = "User Guides";
+			sourceTree = "<group>";
+		};
+		89E67F702A71C05700EE00F5 /* Object Profile */ = {
+			isa = PBXGroup;
+			children = (
+				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
+				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
+			);
+			path = "Object Profile";
+			sourceTree = "<group>";
+		};
+		89E67F712A71C07000EE00F5 /* Environment Profile */ = {
+			isa = PBXGroup;
+			children = (
+				89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */,
+			);
+			path = "Environment Profile";
+			sourceTree = "<group>";
+		};
+		89E67F782A71C4C900EE00F5 /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				89E67F792A71C52E00EE00F5 /* User */,
+				89E67F7A2A71C56C00EE00F5 /* Search */,
+				89E67F7B2A71C5C700EE00F5 /* Environments */,
+				89E67F7C2A71C5FE00EE00F5 /* Home */,
+			);
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		89E67F792A71C52E00EE00F5 /* User */ = {
+			isa = PBXGroup;
+			children = (
+				89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */,
+				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
+				EA84F1022A4E7AB00068623C /* UserSettingsView.swift */,
+				EA84F1042A4E7AB00068623C /* UserProfileView.swift */,
+			);
+			path = User;
+			sourceTree = "<group>";
+		};
+		89E67F7A2A71C56C00EE00F5 /* Search */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1082A4E7AB00068623C /* SearchView.swift */,
+				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
+				89E67F702A71C05700EE00F5 /* Object Profile */,
+			);
+			path = Search;
+			sourceTree = "<group>";
+		};
+		89E67F7B2A71C5C700EE00F5 /* Environments */ = {
+			isa = PBXGroup;
+			children = (
+				894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */,
+				89E67F712A71C07000EE00F5 /* Environment Profile */,
+			);
+			path = Environments;
+			sourceTree = "<group>";
+		};
+		89E67F7C2A71C5FE00EE00F5 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
+				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 		EA37BDA72A508ABC0038EF61 /* Modifiers */ = {
@@ -255,6 +337,7 @@
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
 				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
 				89B923452A585D5400712970 /* wall.usdz */,
+				89E67F762A71C2C800EE00F5 /* beach.usdz */,
 				EA84F0D52A4E78B20068623C /* Preview Content */,
 			);
 			path = BlueprintVisionInternal;
@@ -288,6 +371,7 @@
 			isa = PBXGroup;
 			children = (
 				EA84F0F52A4E7A5A0068623C /* LaunchView.swift */,
+				EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */,
 				EA84F0F92A4E7A740068623C /* Roam */,
 			);
 			path = "Shared Space";
@@ -316,20 +400,8 @@
 			isa = PBXGroup;
 			children = (
 				89B9233E2A58422500712970 /* Long Press */,
-				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
-				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
-				EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */,
-				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
-				894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */,
-				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
-				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
-				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
-				EA84F1032A4E7AB00068623C /* OnboardingBlueprintView.swift */,
-				EA84F1082A4E7AB00068623C /* SearchView.swift */,
-				EA84F1042A4E7AB00068623C /* UserProfileView.swift */,
-				EA37BDB22A51C6B90038EF61 /* StylesView.swift */,
-				EA84F1022A4E7AB00068623C /* UserSettingsView.swift */,
-				89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */,
+				89E67F782A71C4C900EE00F5 /* Tabs */,
+				89E67F6B2A718FAE00EE00F5 /* User Guides */,
 			);
 			path = Edit;
 			sourceTree = "<group>";
@@ -368,6 +440,7 @@
 				EA84F12E2A4E7B250068623C /* User.swift */,
 				EA84F1562A4E7CBD0068623C /* Module.swift */,
 				EA84F1582A4E7CE70068623C /* ModuleCard.swift */,
+				896254D92A7189CC00B448FC /* HomeModuleCard.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -413,10 +486,10 @@
 			name = BlueprintVisionInternal;
 			packageProductDependencies = (
 				EA84F0CB2A4E78B10068623C /* RealityKitContent */,
-				897A9F872A69DCDF000838BA /* FirebaseFirestore */,
-				897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */,
-				897A9F8F2A69E531000838BA /* FirebaseAuth */,
-				897A9F912A69E531000838BA /* FirebaseStorage */,
+				89E67F632A718EED00EE00F5 /* FirebaseAuth */,
+				89E67F652A718EED00EE00F5 /* FirebaseFirestore */,
+				89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */,
+				89E67F692A718EED00EE00F5 /* FirebaseStorage */,
 			);
 			productName = BlueprintVisionInternal;
 			productReference = EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */;
@@ -470,6 +543,7 @@
 			mainGroup = EA84F0BD2A4E78B10068623C;
 			packageReferences = (
 				897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				896254D02A70930C00B448FC /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = EA84F0C72A4E78B10068623C /* Products */;
 			projectDirPath = "";
@@ -487,6 +561,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
+				89E67F772A71C2C800EE00F5 /* beach.usdz in Resources */,
 				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
 				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
 				89B923462A585D5400712970 /* wall.usdz in Resources */,
@@ -517,6 +592,8 @@
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
+				89E67F6F2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift in Sources */,
+				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
@@ -524,18 +601,17 @@
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
 				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
-				EA37BDB32A51C6B90038EF61 /* StylesView.swift in Sources */,
 				EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */,
 				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
 				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
 				EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */,
+				89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */,
 				894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
 				EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */,
 				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
 				89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */,
 				EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */,
-				EA84F10C2A4E7AB00068623C /* OnboardingBlueprintView.swift in Sources */,
 				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
 				EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */,
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
@@ -562,6 +638,7 @@
 				EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */,
 				EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */,
 				EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */,
+				89E67F732A71C08700EE00F5 /* EnvironmentProfileView.swift in Sources */,
 				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
 				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
 				EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */,
@@ -851,6 +928,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		896254D02A70930C00B448FC /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.12.0;
+			};
+		};
 		897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
@@ -862,22 +947,22 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		897A9F872A69DCDF000838BA /* FirebaseFirestore */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFirestore;
-		};
-		897A9F892A69DCDF000838BA /* FirebaseFirestoreSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
-			productName = FirebaseFirestoreSwift;
-		};
-		897A9F8F2A69E531000838BA /* FirebaseAuth */ = {
+		89E67F632A718EED00EE00F5 /* FirebaseAuth */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseAuth;
 		};
-		897A9F912A69E531000838BA /* FirebaseStorage */ = {
+		89E67F652A718EED00EE00F5 /* FirebaseFirestore */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestore;
+		};
+		89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseFirestoreSwift;
+		};
+		89E67F692A718EED00EE00F5 /* FirebaseStorage */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
