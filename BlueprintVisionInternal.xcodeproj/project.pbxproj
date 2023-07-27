@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8933F6CD2A71D2A6007BF3A4 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 8933F6CC2A71D2A6007BF3A4 /* FirebaseAuth */; };
+		8933F6CF2A71D2A6007BF3A4 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 8933F6CE2A71D2A6007BF3A4 /* FirebaseFirestore */; };
+		8933F6D12A71D2A6007BF3A4 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 8933F6D02A71D2A6007BF3A4 /* FirebaseFirestoreSwift */; };
+		8933F6D32A71D2A6007BF3A4 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 8933F6D22A71D2A6007BF3A4 /* FirebaseStorage */; };
+		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
+		8933F6D72A71FF01007BF3A4 /* Forest_environnement (1).usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */; };
 		894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */; };
 		896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896254D92A7189CC00B448FC /* HomeModuleCard.swift */; };
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
@@ -14,14 +20,10 @@
 		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
 		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
-		89E67F642A718EED00EE00F5 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F632A718EED00EE00F5 /* FirebaseAuth */; };
-		89E67F662A718EED00EE00F5 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F652A718EED00EE00F5 /* FirebaseFirestore */; };
-		89E67F682A718EED00EE00F5 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */; };
-		89E67F6A2A718EED00EE00F5 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 89E67F692A718EED00EE00F5 /* FirebaseStorage */; };
 		89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */; };
 		89E67F6F2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */; };
 		89E67F732A71C08700EE00F5 /* EnvironmentProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */; };
-		89E67F772A71C2C800EE00F5 /* beach.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89E67F762A71C2C800EE00F5 /* beach.usdz */; };
+		89E67F822A71C86500EE00F5 /* EnvironmentPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* EnvironmentPortalView.swift */; };
 		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
 		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
@@ -95,6 +97,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
+		8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "Forest_environnement (1).usdz"; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentsListView.swift; sourceTree = "<group>"; };
 		896254D92A7189CC00B448FC /* HomeModuleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModuleCard.swift; sourceTree = "<group>"; };
 		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
@@ -107,7 +111,7 @@
 		89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadEnvironmentGuideCard.swift; sourceTree = SOURCE_ROOT; };
 		89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadObjectGuideCard.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentProfileView.swift; sourceTree = "<group>"; };
-		89E67F762A71C2C800EE00F5 /* beach.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = beach.usdz; path = ../../beach.usdz; sourceTree = "<group>"; };
+		89E67F812A71C86500EE00F5 /* EnvironmentPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentPortalView.swift; sourceTree = "<group>"; };
 		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
 		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
@@ -178,10 +182,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
-				89E67F642A718EED00EE00F5 /* FirebaseAuth in Frameworks */,
-				89E67F662A718EED00EE00F5 /* FirebaseFirestore in Frameworks */,
-				89E67F6A2A718EED00EE00F5 /* FirebaseStorage in Frameworks */,
-				89E67F682A718EED00EE00F5 /* FirebaseFirestoreSwift in Frameworks */,
+				8933F6CD2A71D2A6007BF3A4 /* FirebaseAuth in Frameworks */,
+				8933F6CF2A71D2A6007BF3A4 /* FirebaseFirestore in Frameworks */,
+				8933F6D32A71D2A6007BF3A4 /* FirebaseStorage in Frameworks */,
+				8933F6D12A71D2A6007BF3A4 /* FirebaseFirestoreSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +279,7 @@
 			isa = PBXGroup;
 			children = (
 				894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */,
+				89E67F812A71C86500EE00F5 /* EnvironmentPortalView.swift */,
 				89E67F712A71C07000EE00F5 /* Environment Profile */,
 			);
 			path = Environments;
@@ -336,8 +341,9 @@
 				EA84F11F2A4E7AF90068623C /* Firebase */,
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
 				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
+				8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */,
 				89B923452A585D5400712970 /* wall.usdz */,
-				89E67F762A71C2C800EE00F5 /* beach.usdz */,
+				8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */,
 				EA84F0D52A4E78B20068623C /* Preview Content */,
 			);
 			path = BlueprintVisionInternal;
@@ -486,10 +492,10 @@
 			name = BlueprintVisionInternal;
 			packageProductDependencies = (
 				EA84F0CB2A4E78B10068623C /* RealityKitContent */,
-				89E67F632A718EED00EE00F5 /* FirebaseAuth */,
-				89E67F652A718EED00EE00F5 /* FirebaseFirestore */,
-				89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */,
-				89E67F692A718EED00EE00F5 /* FirebaseStorage */,
+				8933F6CC2A71D2A6007BF3A4 /* FirebaseAuth */,
+				8933F6CE2A71D2A6007BF3A4 /* FirebaseFirestore */,
+				8933F6D02A71D2A6007BF3A4 /* FirebaseFirestoreSwift */,
+				8933F6D22A71D2A6007BF3A4 /* FirebaseStorage */,
 			);
 			productName = BlueprintVisionInternal;
 			productReference = EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */;
@@ -561,10 +567,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
-				89E67F772A71C2C800EE00F5 /* beach.usdz in Resources */,
 				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
 				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
+				8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */,
 				89B923462A585D5400712970 /* wall.usdz in Resources */,
+				8933F6D72A71FF01007BF3A4 /* Forest_environnement (1).usdz in Resources */,
 				89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */,
 				EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */,
 			);
@@ -596,6 +603,7 @@
 				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
+				89E67F822A71C86500EE00F5 /* EnvironmentPortalView.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
 				EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
@@ -947,22 +955,22 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		89E67F632A718EED00EE00F5 /* FirebaseAuth */ = {
+		8933F6CC2A71D2A6007BF3A4 /* FirebaseAuth */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseAuth;
 		};
-		89E67F652A718EED00EE00F5 /* FirebaseFirestore */ = {
+		8933F6CE2A71D2A6007BF3A4 /* FirebaseFirestore */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestore;
 		};
-		89E67F672A718EED00EE00F5 /* FirebaseFirestoreSwift */ = {
+		8933F6D02A71D2A6007BF3A4 /* FirebaseFirestoreSwift */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestoreSwift;
 		};
-		89E67F692A718EED00EE00F5 /* FirebaseStorage */ = {
+		8933F6D22A71D2A6007BF3A4 /* FirebaseStorage */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 897A9F852A69DC97000838BA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
