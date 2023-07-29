@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89245DC82A749DF100930D1D /* EnvironmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* EnvironmentView.swift */; };
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
 		8933F6D72A71FF01007BF3A4 /* Forest_environnement (1).usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */; };
 		894F98112A5C644C00E3E25D /* EnvironmentsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */; };
@@ -14,6 +15,8 @@
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
 		898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C72A746C4800D13B4A /* newbeach.usdz */; };
 		898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C92A746F5D00D13B4A /* beachcube.usdz */; };
+		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
+		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
 		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
 		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
@@ -95,6 +98,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		89245DC72A749DF100930D1D /* EnvironmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentView.swift; sourceTree = "<group>"; };
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
 		8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "Forest_environnement (1).usdz"; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* EnvironmentsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentsListView.swift; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 		898E76C72A746C4800D13B4A /* newbeach.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = newbeach.usdz; sourceTree = "<group>"; };
 		898E76C92A746F5D00D13B4A /* beachcube.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = beachcube.usdz; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
+		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
 		89B9233A2A579B8B00712970 /* RecommendedContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedContentView.swift; sourceTree = "<group>"; };
 		89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedObjectInfoView.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
@@ -235,6 +241,7 @@
 			isa = PBXGroup;
 			children = (
 				89E67F722A71C08700EE00F5 /* EnvironmentProfileView.swift */,
+				89245DC72A749DF100930D1D /* EnvironmentView.swift */,
 			);
 			path = "Environment Profile";
 			sourceTree = "<group>";
@@ -386,6 +393,8 @@
 			children = (
 				EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */,
 				EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */,
+				89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */,
+				89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */,
 			);
 			path = Roam;
 			sourceTree = "<group>";
@@ -590,6 +599,7 @@
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
 				EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */,
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
+				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
 				89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */,
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
@@ -599,6 +609,7 @@
 				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
+				89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */,
 				89E67F822A71C86500EE00F5 /* EnvironmentPortalView.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
 				EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */,
@@ -619,6 +630,7 @@
 				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
 				EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */,
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
+				89245DC82A749DF100930D1D /* EnvironmentView.swift in Sources */,
 				EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */,
 				EA84F1322A4E7B250068623C /* Anchor.swift in Sources */,
 				EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */,
