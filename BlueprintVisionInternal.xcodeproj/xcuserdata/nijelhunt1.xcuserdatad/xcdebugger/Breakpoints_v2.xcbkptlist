@@ -14,8 +14,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "155"
-            endingLineNumber = "155"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
             landmarkName = "logInAction()"
             landmarkType = "7">
             <Locations>
@@ -77,8 +77,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "158"
-            endingLineNumber = "158"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
             landmarkName = "logInAction()"
             landmarkType = "7">
             <Locations>
@@ -221,8 +221,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "157"
-            endingLineNumber = "157"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
             landmarkName = "logInAction()"
             landmarkType = "7">
             <Locations>
@@ -269,8 +269,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "164"
-            endingLineNumber = "164"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
             landmarkName = "logInAction()"
             landmarkType = "7">
             <Locations>
@@ -317,8 +317,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Edit/Tabs/Search/Object Profile/ObjectProfileView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "62"
-            endingLineNumber = "62"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
