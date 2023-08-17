@@ -10,13 +10,13 @@
 		89083D6A2A75E42C0077264F /* SubscriptionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89083D692A75E42C0077264F /* SubscriptionViewModel.swift */; };
 		89245DC82A749DF100930D1D /* PortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* PortalView.swift */; };
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
-		8933F6D72A71FF01007BF3A4 /* Forest_environnement (1).usdz in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */; };
 		894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* PortalsListView.swift */; };
 		8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */; };
 		896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */; };
 		896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */; };
 		896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F32A786609006A84C0 /* EditBlueprintNameView.swift */; };
 		896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896254D92A7189CC00B448FC /* HomeModuleCard.swift */; };
+		8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8971B4842A8D696D00F682F5 /* ChecklistView.swift */; };
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
 		898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898413BB2A8146A5007870FB /* EditContentNameView.swift */; };
 		898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898413CB2A847376007870FB /* Immersiveusdz.usdz */; };
@@ -27,13 +27,13 @@
 		898CE0E92A7C120200EF823C /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E82A7C120100EF823C /* Page.swift */; };
 		898CE0EB2A7C120900EF823C /* CustomSizeWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */; };
 		898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */; };
-		898CE0EF2A7C146100EF823C /* SampleWindowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EE2A7C146000EF823C /* SampleWindowView.swift */; };
 		898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C72A746C4800D13B4A /* newbeach.usdz */; };
 		898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C92A746F5D00D13B4A /* beachcube.usdz */; };
 		899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8991371F2A881A39005523FE /* InventoryFormVM.swift */; };
 		899137222A881A3D005523FE /* InventoryFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137202A881A3D005523FE /* InventoryFormView.swift */; };
 		899137242A881A51005523FE /* InventoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137232A881A51005523FE /* InventoryItem.swift */; };
 		899137262A881A61005523FE /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137252A881A61005523FE /* ImagePicker.swift */; };
+		899137282A89867F005523FE /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137272A89867F005523FE /* CreditsView.swift */; };
 		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
 		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
 		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
@@ -120,13 +120,13 @@
 		89083D692A75E42C0077264F /* SubscriptionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionViewModel.swift; sourceTree = "<group>"; };
 		89245DC72A749DF100930D1D /* PortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalView.swift; sourceTree = "<group>"; };
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
-		8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = "Forest_environnement (1).usdz"; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* PortalsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsListView.swift; sourceTree = "<group>"; };
 		8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegacyTextField.swift; sourceTree = "<group>"; };
 		896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F32A786609006A84C0 /* EditBlueprintNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintNameView.swift; sourceTree = "<group>"; };
 		896254D92A7189CC00B448FC /* HomeModuleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModuleCard.swift; sourceTree = "<group>"; };
+		8971B4842A8D696D00F682F5 /* ChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistView.swift; sourceTree = "<group>"; };
 		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BlueprintVisionInternal.entitlements; sourceTree = "<group>"; };
 		898413BB2A8146A5007870FB /* EditContentNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentNameView.swift; sourceTree = "<group>"; };
@@ -138,13 +138,13 @@
 		898CE0E82A7C120100EF823C /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSizeWindow.swift; sourceTree = "<group>"; };
 		898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrnamentAlignment.swift; sourceTree = "<group>"; };
-		898CE0EE2A7C146000EF823C /* SampleWindowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleWindowView.swift; sourceTree = "<group>"; };
 		898E76C72A746C4800D13B4A /* newbeach.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = newbeach.usdz; sourceTree = "<group>"; };
 		898E76C92A746F5D00D13B4A /* beachcube.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = beachcube.usdz; sourceTree = "<group>"; };
 		8991371F2A881A39005523FE /* InventoryFormVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormVM.swift; sourceTree = "<group>"; };
 		899137202A881A3D005523FE /* InventoryFormView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormView.swift; sourceTree = "<group>"; };
 		899137232A881A51005523FE /* InventoryItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryItem.swift; sourceTree = "<group>"; };
 		899137252A881A61005523FE /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		899137272A89867F005523FE /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
 		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
@@ -257,14 +257,6 @@
 			children = (
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		898413932A804B62007870FB /* Samples From Tutorials */ = {
-			isa = PBXGroup;
-			children = (
-				898CE0EE2A7C146000EF823C /* SampleWindowView.swift */,
-			);
-			path = "Samples From Tutorials";
 			sourceTree = "<group>";
 		};
 		8991371E2A8819E7005523FE /* Portal Upload */ = {
@@ -408,7 +400,6 @@
 				89A9F4012A5B0F4100339826 /* Info.plist */,
 				897A9F8D2A69E288000838BA /* GoogleService-Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
-				898413932A804B62007870FB /* Samples From Tutorials */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
 				EA84F0FE2A4E7A9F0068623C /* Full Space */,
 				EA84F0D12A4E78B10068623C /* ImmersiveView.swift */,
@@ -420,7 +411,6 @@
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
 				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
 				898413CB2A847376007870FB /* Immersiveusdz.usdz */,
-				8933F6D62A71FF01007BF3A4 /* Forest_environnement (1).usdz */,
 				898E76C92A746F5D00D13B4A /* beachcube.usdz */,
 				898E76C72A746C4800D13B4A /* newbeach.usdz */,
 				89B923452A585D5400712970 /* wall.usdz */,
@@ -479,6 +469,8 @@
 			isa = PBXGroup;
 			children = (
 				EA84F11D2A4E7AD10068623C /* SubscriptionView.swift */,
+				899137272A89867F005523FE /* CreditsView.swift */,
+				8971B4842A8D696D00F682F5 /* ChecklistView.swift */,
 				89083D692A75E42C0077264F /* SubscriptionViewModel.swift */,
 				EA84F1122A4E7ABA0068623C /* Sign Up */,
 				EA84F0FF2A4E7AA60068623C /* Edit */,
@@ -655,7 +647,6 @@
 				8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */,
 				898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */,
 				89B923462A585D5400712970 /* wall.usdz in Resources */,
-				8933F6D72A71FF01007BF3A4 /* Forest_environnement (1).usdz in Resources */,
 				898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */,
 				89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */,
 				EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */,
@@ -679,6 +670,7 @@
 				898CE0E72A7B30CE00EF823C /* EditContentPriceView.swift in Sources */,
 				8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */,
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
+				8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */,
 				EA84F10F2A4E7AB00068623C /* LibraryView.swift in Sources */,
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
 				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
@@ -712,7 +704,6 @@
 				89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */,
 				896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */,
 				898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */,
-				898CE0EF2A7C146100EF823C /* SampleWindowView.swift in Sources */,
 				894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */,
 				896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
@@ -739,6 +730,7 @@
 				EA84F14A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift in Sources */,
 				898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */,
 				EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */,
+				899137282A89867F005523FE /* CreditsView.swift in Sources */,
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
 				EA84F1522A4E7B5E0068623C /* NetworkTableViewCell.swift in Sources */,
@@ -915,7 +907,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BlueprintVisionInternal/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
@@ -948,7 +940,7 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = BlueprintVisionInternal/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = Blueprint;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.graphics-design";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
