@@ -11,6 +11,9 @@
 		89245DC82A749DF100930D1D /* PortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* PortalView.swift */; };
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
 		894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* PortalsListView.swift */; };
+		8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */; };
+		8950F3802A8F99500009D9EB /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8950F37F2A8F99500009D9EB /* audio.mp3 */; };
+		895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895343432A9B81140036B877 /* OnboardingFinishView.swift */; };
 		8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */; };
 		896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */; };
 		896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */; };
@@ -36,14 +39,25 @@
 		899137282A89867F005523FE /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137272A89867F005523FE /* CreditsView.swift */; };
 		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
 		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
-		89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233A2A579B8B00712970 /* RecommendedContentView.swift */; };
-		89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
 		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
-		89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */; };
-		89E67F6F2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */; };
+		89CE28AA2A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */; };
+		89D285E12A92E82600A3CCDC /* FinishedTutorialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D285E02A92E82600A3CCDC /* FinishedTutorialView.swift */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
+		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
+		89EB09572A97ABE10013211B /* MinimizedBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */; };
+		89EB09592A97C31F0013211B /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09582A97C31F0013211B /* OnboardingView.swift */; };
+		89EB095B2A97CF890013211B /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB095A2A97CF890013211B /* WelcomeView.swift */; };
+		89EB095F2A995E7D0013211B /* OnboardingPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB095E2A995E7D0013211B /* OnboardingPortalView.swift */; };
+		89EB09612A9A5DA30013211B /* OnboardingObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09602A9A5DA20013211B /* OnboardingObjectView.swift */; };
+		89F185B42A94ED9300B17D18 /* newocclusion.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F185B32A94ED9300B17D18 /* newocclusion.usdz */; };
+		89F185B62A950E3800B17D18 /* Portal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185B52A950E3800B17D18 /* Portal.swift */; };
+		89F185BC2A951A7B00B17D18 /* Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F185BB2A951A7B00B17D18 /* Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4 */; };
+		89F185C12A957C0200B17D18 /* BlueprintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C02A957C0200B17D18 /* BlueprintsView.swift */; };
+		89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C22A957C5D00B17D18 /* InventoryView.swift */; };
+		89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C42A96538A00B17D18 /* TabBarView.swift */; };
+		89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */; };
 		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
 		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
@@ -60,7 +74,6 @@
 		EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0F52A4E7A5A0068623C /* LaunchView.swift */; };
 		EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */; };
 		EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */; };
-		EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */; };
 		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
 		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
 		EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1042A4E7AB00068623C /* UserProfileView.swift */; };
@@ -103,7 +116,6 @@
 		EA84F1572A4E7CBD0068623C /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1562A4E7CBD0068623C /* Module.swift */; };
 		EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1582A4E7CE70068623C /* ModuleCard.swift */; };
 		EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */; };
-		EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -121,6 +133,9 @@
 		89245DC72A749DF100930D1D /* PortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalView.swift; sourceTree = "<group>"; };
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* PortalsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsListView.swift; sourceTree = "<group>"; };
+		8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
+		8950F37F2A8F99500009D9EB /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
+		895343432A9B81140036B877 /* OnboardingFinishView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFinishView.swift; sourceTree = "<group>"; };
 		8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegacyTextField.swift; sourceTree = "<group>"; };
 		896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterBlueprintPasswordView.swift; sourceTree = "<group>"; };
@@ -148,14 +163,25 @@
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
 		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
-		89B9233A2A579B8B00712970 /* RecommendedContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendedContentView.swift; sourceTree = "<group>"; };
-		89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedObjectInfoView.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
 		89B923452A585D5400712970 /* wall.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = wall.usdz; path = ../../wall.usdz; sourceTree = "<group>"; };
-		89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadEnvironmentGuideCard.swift; sourceTree = SOURCE_ROOT; };
-		89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadObjectGuideCard.swift; sourceTree = "<group>"; };
+		89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4"; sourceTree = "<group>"; };
+		89D285E02A92E82600A3CCDC /* FinishedTutorialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedTutorialView.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
+		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
+		89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedBlueprintView.swift; sourceTree = "<group>"; };
+		89EB09582A97C31F0013211B /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		89EB095A2A97CF890013211B /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		89EB095E2A995E7D0013211B /* OnboardingPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingPortalView.swift; sourceTree = "<group>"; };
+		89EB09602A9A5DA20013211B /* OnboardingObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingObjectView.swift; sourceTree = "<group>"; };
+		89F185B32A94ED9300B17D18 /* newocclusion.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = newocclusion.usdz; sourceTree = "<group>"; };
+		89F185B52A950E3800B17D18 /* Portal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Portal.swift; sourceTree = "<group>"; };
+		89F185BB2A951A7B00B17D18 /* Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4"; sourceTree = "<group>"; };
+		89F185C02A957C0200B17D18 /* BlueprintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintsView.swift; sourceTree = "<group>"; };
+		89F185C22A957C5D00B17D18 /* InventoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryView.swift; sourceTree = "<group>"; };
+		89F185C42A96538A00B17D18 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryView.swift; sourceTree = "<group>"; };
 		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
 		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
@@ -174,7 +200,6 @@
 		EA84F0F52A4E7A5A0068623C /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
 		EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceBlueprintInstructionsView.swift; sourceTree = "<group>"; };
 		EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricBlueprintView.swift; sourceTree = "<group>"; };
-		EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmPlacementCard.swift; sourceTree = "<group>"; };
 		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
 		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
 		EA84F1042A4E7AB00068623C /* UserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
@@ -217,7 +242,6 @@
 		EA84F1562A4E7CBD0068623C /* Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
 		EA84F1582A4E7CE70068623C /* ModuleCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModuleCard.swift; sourceTree = "<group>"; };
 		EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBlueprintView.swift; sourceTree = "<group>"; };
-		EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditAnchorCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -248,6 +272,7 @@
 				896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */,
 				89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */,
 				898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */,
+				89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */,
 			);
 			path = Blueprint;
 			sourceTree = "<group>";
@@ -266,26 +291,6 @@
 				8991371F2A881A39005523FE /* InventoryFormVM.swift */,
 			);
 			path = "Portal Upload";
-			sourceTree = "<group>";
-		};
-		89B9233E2A58422500712970 /* Long Press */ = {
-			isa = PBXGroup;
-			children = (
-				EA84F1002A4E7AB00068623C /* ConfirmPlacementCard.swift */,
-				EA91C3CD2A55A0CD00C629E5 /* EditAnchorCard.swift */,
-				89B9233A2A579B8B00712970 /* RecommendedContentView.swift */,
-				89B9233C2A583F5500712970 /* SelectedObjectInfoView.swift */,
-			);
-			path = "Long Press";
-			sourceTree = "<group>";
-		};
-		89E67F6B2A718FAE00EE00F5 /* User Guides */ = {
-			isa = PBXGroup;
-			children = (
-				89E67F6C2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift */,
-				89E67F6E2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift */,
-			);
-			path = "User Guides";
 			sourceTree = "<group>";
 		};
 		89E67F702A71C05700EE00F5 /* Object Profile */ = {
@@ -313,32 +318,31 @@
 		89E67F782A71C4C900EE00F5 /* Tabs */ = {
 			isa = PBXGroup;
 			children = (
-				89E67F792A71C52E00EE00F5 /* User */,
-				89E67F7A2A71C56C00EE00F5 /* Search */,
-				89E67F7B2A71C5C700EE00F5 /* Portals */,
-				89E67F7C2A71C5FE00EE00F5 /* Home */,
+				89F185BF2A957B5F00B17D18 /* Inventory */,
+				89E67F792A71C52E00EE00F5 /* Profile */,
+				89E67F7A2A71C56C00EE00F5 /* Store */,
+				89E67F7C2A71C5FE00EE00F5 /* Blueprints */,
 			);
 			path = Tabs;
 			sourceTree = "<group>";
 		};
-		89E67F792A71C52E00EE00F5 /* User */ = {
+		89E67F792A71C52E00EE00F5 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 				EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */,
 				EA84F1022A4E7AB00068623C /* UserSettingsView.swift */,
 				EA84F1042A4E7AB00068623C /* UserProfileView.swift */,
 			);
-			path = User;
+			path = Profile;
 			sourceTree = "<group>";
 		};
-		89E67F7A2A71C56C00EE00F5 /* Search */ = {
+		89E67F7A2A71C56C00EE00F5 /* Store */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F1082A4E7AB00068623C /* SearchView.swift */,
-				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
-				89E67F702A71C05700EE00F5 /* Object Profile */,
+				89E67F7B2A71C5C700EE00F5 /* Portals */,
+				89F185BD2A957AF500B17D18 /* Objects */,
 			);
-			path = Search;
+			path = Store;
 			sourceTree = "<group>";
 		};
 		89E67F7B2A71C5C700EE00F5 /* Portals */ = {
@@ -352,13 +356,43 @@
 			path = Portals;
 			sourceTree = "<group>";
 		};
-		89E67F7C2A71C5FE00EE00F5 /* Home */ = {
+		89E67F7C2A71C5FE00EE00F5 /* Blueprints */ = {
 			isa = PBXGroup;
 			children = (
-				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
 				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
+				89F185C02A957C0200B17D18 /* BlueprintsView.swift */,
 			);
-			path = Home;
+			path = Blueprints;
+			sourceTree = "<group>";
+		};
+		89EB09622A9A5DA90013211B /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				89EB09582A97C31F0013211B /* OnboardingView.swift */,
+				89EB095E2A995E7D0013211B /* OnboardingPortalView.swift */,
+				89EB09602A9A5DA20013211B /* OnboardingObjectView.swift */,
+				895343432A9B81140036B877 /* OnboardingFinishView.swift */,
+			);
+			path = Onboarding;
+			sourceTree = "<group>";
+		};
+		89F185BD2A957AF500B17D18 /* Objects */ = {
+			isa = PBXGroup;
+			children = (
+				EA84F1082A4E7AB00068623C /* SearchView.swift */,
+				89E67F702A71C05700EE00F5 /* Object Profile */,
+			);
+			path = Objects;
+			sourceTree = "<group>";
+		};
+		89F185BF2A957B5F00B17D18 /* Inventory */ = {
+			isa = PBXGroup;
+			children = (
+				89F185C22A957C5D00B17D18 /* InventoryView.swift */,
+				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
+				89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */,
+			);
+			path = Inventory;
 			sourceTree = "<group>";
 		};
 		EA37BDA72A508ABC0038EF61 /* Modifiers */ = {
@@ -400,6 +434,10 @@
 				89A9F4012A5B0F4100339826 /* Info.plist */,
 				897A9F8D2A69E288000838BA /* GoogleService-Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
+				89F185C42A96538A00B17D18 /* TabBarView.swift */,
+				89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */,
+				89EB09622A9A5DA90013211B /* Onboarding */,
+				89EB095A2A97CF890013211B /* WelcomeView.swift */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
 				EA84F0FE2A4E7A9F0068623C /* Full Space */,
 				EA84F0D12A4E78B10068623C /* ImmersiveView.swift */,
@@ -409,8 +447,12 @@
 				EA84F1282A4E7B130068623C /* Model */,
 				EA84F11F2A4E7AF90068623C /* Firebase */,
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
+				8950F37F2A8F99500009D9EB /* audio.mp3 */,
+				89F185BB2A951A7B00B17D18 /* Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4 */,
+				89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */,
 				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
 				898413CB2A847376007870FB /* Immersiveusdz.usdz */,
+				89F185B32A94ED9300B17D18 /* newocclusion.usdz */,
 				898E76C92A746F5D00D13B4A /* beachcube.usdz */,
 				898E76C72A746C4800D13B4A /* newbeach.usdz */,
 				89B923452A585D5400712970 /* wall.usdz */,
@@ -471,21 +513,13 @@
 				EA84F11D2A4E7AD10068623C /* SubscriptionView.swift */,
 				899137272A89867F005523FE /* CreditsView.swift */,
 				8971B4842A8D696D00F682F5 /* ChecklistView.swift */,
+				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
+				89D285E02A92E82600A3CCDC /* FinishedTutorialView.swift */,
 				89083D692A75E42C0077264F /* SubscriptionViewModel.swift */,
 				EA84F1122A4E7ABA0068623C /* Sign Up */,
-				EA84F0FF2A4E7AA60068623C /* Edit */,
+				89E67F782A71C4C900EE00F5 /* Tabs */,
 			);
 			path = "Full Space";
-			sourceTree = "<group>";
-		};
-		EA84F0FF2A4E7AA60068623C /* Edit */ = {
-			isa = PBXGroup;
-			children = (
-				89B9233E2A58422500712970 /* Long Press */,
-				89E67F782A71C4C900EE00F5 /* Tabs */,
-				89E67F6B2A718FAE00EE00F5 /* User Guides */,
-			);
-			path = Edit;
 			sourceTree = "<group>";
 		};
 		EA84F1122A4E7ABA0068623C /* Sign Up */ = {
@@ -517,6 +551,7 @@
 				EA84F12C2A4E7B250068623C /* Anchor.swift */,
 				EA84F12D2A4E7B250068623C /* Blueprint.swift */,
 				EA84F12B2A4E7B250068623C /* Model.swift */,
+				89F185B52A950E3800B17D18 /* Portal.swift */,
 				EA84F12A2A4E7B250068623C /* Style.swift */,
 				899137232A881A51005523FE /* InventoryItem.swift */,
 				EA84F1292A4E7B250068623C /* Texture.swift */,
@@ -527,6 +562,7 @@
 				898CE0E82A7C120100EF823C /* Page.swift */,
 				898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */,
 				898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */,
+				8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -640,11 +676,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8950F3802A8F99500009D9EB /* audio.mp3 in Resources */,
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
+				89F185B42A94ED9300B17D18 /* newocclusion.usdz in Resources */,
 				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
 				898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */,
 				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
+				89CE28AA2A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 in Resources */,
 				8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */,
+				89F185BC2A951A7B00B17D18 /* Virtual Nature 360° - 5.7K Nature Meditation for Oculus Quest.mp4 in Resources */,
 				898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */,
 				89B923462A585D5400712970 /* wall.usdz in Resources */,
 				898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */,
@@ -675,23 +715,24 @@
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
 				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
-				89B9233D2A583F5500712970 /* SelectedObjectInfoView.swift in Sources */,
 				898CE0E32A7B2D3300EF823C /* ObjectSettingsView.swift in Sources */,
 				899137222A881A3D005523FE /* InventoryFormView.swift in Sources */,
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
+				895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
-				89E67F6F2A71AE0200EE00F5 /* DownloadObjectGuideCard.swift in Sources */,
 				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
+				89D285E12A92E82600A3CCDC /* FinishedTutorialView.swift in Sources */,
 				898CE0E92A7C120200EF823C /* Page.swift in Sources */,
+				89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
 				89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */,
 				898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */,
 				89083D6A2A75E42C0077264F /* SubscriptionViewModel.swift in Sources */,
+				89EB09612A9A5DA30013211B /* OnboardingObjectView.swift in Sources */,
 				89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
-				EA91C3CE2A55A0CD00C629E5 /* EditAnchorCard.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
@@ -701,19 +742,20 @@
 				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
 				899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */,
 				EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */,
-				89E67F6D2A718FEA00EE00F5 /* DownloadEnvironmentGuideCard.swift in Sources */,
 				896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */,
 				898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */,
 				894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */,
 				896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
+				89F185B62A950E3800B17D18 /* Portal.swift in Sources */,
 				EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */,
+				89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */,
 				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
-				89B9233B2A579B8B00712970 /* RecommendedContentView.swift in Sources */,
 				EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */,
 				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
 				899137262A881A61005523FE /* ImagePicker.swift in Sources */,
 				EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */,
+				89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */,
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
 				89245DC82A749DF100930D1D /* PortalView.swift in Sources */,
 				EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */,
@@ -725,12 +767,15 @@
 				EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */,
 				EA84F1572A4E7CBD0068623C /* Module.swift in Sources */,
 				EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */,
+				89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */,
 				EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */,
 				EA84F1302A4E7B250068623C /* Style.swift in Sources */,
 				EA84F14A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift in Sources */,
 				898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */,
 				EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */,
+				89EB09592A97C31F0013211B /* OnboardingView.swift in Sources */,
 				899137282A89867F005523FE /* CreditsView.swift in Sources */,
+				8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */,
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
 				EA84F1522A4E7B5E0068623C /* NetworkTableViewCell.swift in Sources */,
@@ -742,14 +787,17 @@
 				EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */,
 				EA84F1552A4E7B5E0068623C /* BrowseTableViewCell.swift in Sources */,
 				898CE0EB2A7C120900EF823C /* CustomSizeWindow.swift in Sources */,
+				89EB095F2A995E7D0013211B /* OnboardingPortalView.swift in Sources */,
 				898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */,
 				89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */,
 				899137242A881A51005523FE /* InventoryItem.swift in Sources */,
 				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
 				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
-				EA84F1092A4E7AB00068623C /* ConfirmPlacementCard.swift in Sources */,
+				89F185C12A957C0200B17D18 /* BlueprintsView.swift in Sources */,
 				89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */,
+				89EB095B2A97CF890013211B /* WelcomeView.swift in Sources */,
 				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
+				89EB09572A97ABE10013211B /* MinimizedBlueprintView.swift in Sources */,
 				EA84F14C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift in Sources */,
 				EA84F1272A4E7B040068623C /* StorageManager.swift in Sources */,
 			);
