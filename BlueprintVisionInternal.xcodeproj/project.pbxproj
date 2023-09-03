@@ -14,6 +14,7 @@
 		8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */; };
 		8950F3802A8F99500009D9EB /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8950F37F2A8F99500009D9EB /* audio.mp3 */; };
 		895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895343432A9B81140036B877 /* OnboardingFinishView.swift */; };
+		895343462A9C16E20036B877 /* OnboardingNotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895343452A9C16E20036B877 /* OnboardingNotesView.swift */; };
 		8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */; };
 		896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */; };
 		896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */; };
@@ -43,6 +44,11 @@
 		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
 		89CE28AA2A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */; };
 		89D285E12A92E82600A3CCDC /* FinishedTutorialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D285E02A92E82600A3CCDC /* FinishedTutorialView.swift */; };
+		89D7447A2AA3DA03002C5318 /* StoreVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744792AA3DA03002C5318 /* StoreVM.swift */; };
+		89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447B2AA4D61A002C5318 /* NotesView.swift */; };
+		89D7447E2AA4D626002C5318 /* CreateNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447D2AA4D626002C5318 /* CreateNoteView.swift */; };
+		89D744812AA4D67A002C5318 /* GrowingTextInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447F2AA4D67A002C5318 /* GrowingTextInputView.swift */; };
+		89D744822AA4D67A002C5318 /* TextViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744802AA4D67A002C5318 /* TextViewWrapper.swift */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
@@ -136,6 +142,7 @@
 		8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
 		8950F37F2A8F99500009D9EB /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
 		895343432A9B81140036B877 /* OnboardingFinishView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFinishView.swift; sourceTree = "<group>"; };
+		895343452A9C16E20036B877 /* OnboardingNotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingNotesView.swift; sourceTree = "<group>"; };
 		8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegacyTextField.swift; sourceTree = "<group>"; };
 		896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterBlueprintPasswordView.swift; sourceTree = "<group>"; };
@@ -167,6 +174,12 @@
 		89B923452A585D5400712970 /* wall.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = wall.usdz; path = ../../wall.usdz; sourceTree = "<group>"; };
 		89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4"; sourceTree = "<group>"; };
 		89D285E02A92E82600A3CCDC /* FinishedTutorialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedTutorialView.swift; sourceTree = "<group>"; };
+		89D744782AA3D8A2002C5318 /* product.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = product.storekit; sourceTree = "<group>"; };
+		89D744792AA3DA03002C5318 /* StoreVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreVM.swift; sourceTree = "<group>"; };
+		89D7447B2AA4D61A002C5318 /* NotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesView.swift; sourceTree = "<group>"; };
+		89D7447D2AA4D626002C5318 /* CreateNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNoteView.swift; sourceTree = "<group>"; };
+		89D7447F2AA4D67A002C5318 /* GrowingTextInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GrowingTextInputView.swift; sourceTree = "<group>"; };
+		89D744802AA4D67A002C5318 /* TextViewWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewWrapper.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
@@ -371,6 +384,7 @@
 				89EB09582A97C31F0013211B /* OnboardingView.swift */,
 				89EB095E2A995E7D0013211B /* OnboardingPortalView.swift */,
 				89EB09602A9A5DA20013211B /* OnboardingObjectView.swift */,
+				895343452A9C16E20036B877 /* OnboardingNotesView.swift */,
 				895343432A9B81140036B877 /* OnboardingFinishView.swift */,
 			);
 			path = Onboarding;
@@ -391,6 +405,8 @@
 				89F185C22A957C5D00B17D18 /* InventoryView.swift */,
 				EA84F1062A4E7AB00068623C /* LibraryView.swift */,
 				89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */,
+				89D7447B2AA4D61A002C5318 /* NotesView.swift */,
+				89D7447D2AA4D626002C5318 /* CreateNoteView.swift */,
 			);
 			path = Inventory;
 			sourceTree = "<group>";
@@ -403,6 +419,8 @@
 				EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */,
 				8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */,
 				899137252A881A61005523FE /* ImagePicker.swift */,
+				89D7447F2AA4D67A002C5318 /* GrowingTextInputView.swift */,
+				89D744802AA4D67A002C5318 /* TextViewWrapper.swift */,
 			);
 			path = Modifiers;
 			sourceTree = "<group>";
@@ -410,6 +428,7 @@
 		EA84F0BD2A4E78B10068623C = {
 			isa = PBXGroup;
 			children = (
+				89D744782AA3D8A2002C5318 /* product.storekit */,
 				EA84F0C82A4E78B10068623C /* BlueprintVisionInternal */,
 				EA84F0C92A4E78B10068623C /* Packages */,
 				EA84F0DF2A4E78B20068623C /* BlueprintVisionInternalTests */,
@@ -436,6 +455,7 @@
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
 				89F185C42A96538A00B17D18 /* TabBarView.swift */,
 				89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */,
+				89D744792AA3DA03002C5318 /* StoreVM.swift */,
 				89EB09622A9A5DA90013211B /* Onboarding */,
 				89EB095A2A97CF890013211B /* WelcomeView.swift */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
@@ -721,6 +741,7 @@
 				895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
+				89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */,
 				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				89D285E12A92E82600A3CCDC /* FinishedTutorialView.swift in Sources */,
@@ -748,6 +769,7 @@
 				896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
 				89F185B62A950E3800B17D18 /* Portal.swift in Sources */,
+				895343462A9C16E20036B877 /* OnboardingNotesView.swift in Sources */,
 				EA84F14E2A4E7B5E0068623C /* ModelCollectionViewCell.swift in Sources */,
 				89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */,
 				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
@@ -759,6 +781,7 @@
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
 				89245DC82A749DF100930D1D /* PortalView.swift in Sources */,
 				EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */,
+				89D744812AA4D67A002C5318 /* GrowingTextInputView.swift in Sources */,
 				EA84F1322A4E7B250068623C /* Anchor.swift in Sources */,
 				EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */,
 				EA84F12F2A4E7B250068623C /* Texture.swift in Sources */,
@@ -770,6 +793,7 @@
 				89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */,
 				EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */,
 				EA84F1302A4E7B250068623C /* Style.swift in Sources */,
+				89D7447A2AA3DA03002C5318 /* StoreVM.swift in Sources */,
 				EA84F14A2A4E7B5E0068623C /* ObjectProductLinkTableViewCell.swift in Sources */,
 				898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */,
 				EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */,
@@ -793,9 +817,11 @@
 				899137242A881A51005523FE /* InventoryItem.swift in Sources */,
 				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
 				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
+				89D744822AA4D67A002C5318 /* TextViewWrapper.swift in Sources */,
 				89F185C12A957C0200B17D18 /* BlueprintsView.swift in Sources */,
 				89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */,
 				89EB095B2A97CF890013211B /* WelcomeView.swift in Sources */,
+				89D7447E2AA4D626002C5318 /* CreateNoteView.swift in Sources */,
 				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
 				89EB09572A97ABE10013211B /* MinimizedBlueprintView.swift in Sources */,
 				EA84F14C2A4E7B5E0068623C /* ObjectCreatorTableViewCell.swift in Sources */,
