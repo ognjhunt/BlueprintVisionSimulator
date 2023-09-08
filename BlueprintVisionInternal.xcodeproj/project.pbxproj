@@ -48,7 +48,7 @@
 		89D7447E2AA4D626002C5318 /* CreateNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447D2AA4D626002C5318 /* CreateNoteView.swift */; };
 		89D744812AA4D67A002C5318 /* GrowingTextInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447F2AA4D67A002C5318 /* GrowingTextInputView.swift */; };
 		89D744822AA4D67A002C5318 /* TextViewWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744802AA4D67A002C5318 /* TextViewWrapper.swift */; };
-		89D744862AA4FAE8002C5318 /* PhotoThumbnailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744852AA4FAE8002C5318 /* PhotoThumbnailView.swift */; };
+		89D744862AA4FAE8002C5318 /* SelectedPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744852AA4FAE8002C5318 /* SelectedPhotoView.swift */; };
 		89D744882AA7B106002C5318 /* UploadPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744872AA7B106002C5318 /* UploadPortalView.swift */; };
 		89D7448A2AA7B120002C5318 /* UploadPortalVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744892AA7B120002C5318 /* UploadPortalVM.swift */; };
 		89D7448C2AA7EE11002C5318 /* ObjectsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7448B2AA7EE11002C5318 /* ObjectsListView.swift */; };
@@ -72,6 +72,7 @@
 		89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */; };
 		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
 		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
+		89FBFE902AABD6F200570CEF /* EditTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
 		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
 		EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */; };
@@ -184,7 +185,7 @@
 		89D7447D2AA4D626002C5318 /* CreateNoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateNoteView.swift; sourceTree = "<group>"; };
 		89D7447F2AA4D67A002C5318 /* GrowingTextInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GrowingTextInputView.swift; sourceTree = "<group>"; };
 		89D744802AA4D67A002C5318 /* TextViewWrapper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextViewWrapper.swift; sourceTree = "<group>"; };
-		89D744852AA4FAE8002C5318 /* PhotoThumbnailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoThumbnailView.swift; sourceTree = "<group>"; };
+		89D744852AA4FAE8002C5318 /* SelectedPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedPhotoView.swift; sourceTree = "<group>"; };
 		89D744872AA7B106002C5318 /* UploadPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadPortalView.swift; sourceTree = "<group>"; };
 		89D744892AA7B120002C5318 /* UploadPortalVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadPortalVM.swift; sourceTree = "<group>"; };
 		89D7448B2AA7EE11002C5318 /* ObjectsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectsListView.swift; sourceTree = "<group>"; };
@@ -208,6 +209,7 @@
 		89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryView.swift; sourceTree = "<group>"; };
 		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
 		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
+		89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTabBarView.swift; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
 		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
 		EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacementGesturesModifier.swift; sourceTree = "<group>"; };
@@ -416,7 +418,7 @@
 			children = (
 				89F185C22A957C5D00B17D18 /* InventoryView.swift */,
 				89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */,
-				89D744852AA4FAE8002C5318 /* PhotoThumbnailView.swift */,
+				89D744852AA4FAE8002C5318 /* SelectedPhotoView.swift */,
 				89D7448F2AA7FE31002C5318 /* PortalsLibraryListView.swift */,
 				89D744912AA803E7002C5318 /* ObjectsLibraryListView.swift */,
 				89D7447B2AA4D61A002C5318 /* NotesView.swift */,
@@ -470,6 +472,7 @@
 				897A9F8D2A69E288000838BA /* GoogleService-Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
 				89F185C42A96538A00B17D18 /* TabBarView.swift */,
+				89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */,
 				89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */,
 				89D744792AA3DA03002C5318 /* StoreVM.swift */,
 				89EB09622A9A5DA90013211B /* Onboarding */,
@@ -743,6 +746,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				898CE0E72A7B30CE00EF823C /* EditContentPriceView.swift in Sources */,
+				89FBFE902AABD6F200570CEF /* EditTabBarView.swift in Sources */,
 				8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */,
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
 				8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */,
@@ -776,7 +780,7 @@
 				EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */,
 				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
 				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
-				89D744862AA4FAE8002C5318 /* PhotoThumbnailView.swift in Sources */,
+				89D744862AA4FAE8002C5318 /* SelectedPhotoView.swift in Sources */,
 				899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */,
 				EA84F14F2A4E7B5E0068623C /* CategoryTableViewCell.swift in Sources */,
 				89D7448A2AA7B120002C5318 /* UploadPortalVM.swift in Sources */,
