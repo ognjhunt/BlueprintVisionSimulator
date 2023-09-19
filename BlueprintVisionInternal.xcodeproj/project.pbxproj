@@ -93,7 +93,7 @@
 		EA84F0E12A4E78B20068623C /* BlueprintVisionInternalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */; };
 		EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0F52A4E7A5A0068623C /* LaunchView.swift */; };
 		EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */; };
-		EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */; };
+		EA84F0FD2A4E7A7E0068623C /* VolumetricObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */; };
 		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
 		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
 		EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1042A4E7AB00068623C /* UserProfileView.swift */; };
@@ -234,7 +234,7 @@
 		EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintVisionInternalTests.swift; sourceTree = "<group>"; };
 		EA84F0F52A4E7A5A0068623C /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
 		EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceBlueprintInstructionsView.swift; sourceTree = "<group>"; };
-		EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricBlueprintView.swift; sourceTree = "<group>"; };
+		EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricObjectView.swift; sourceTree = "<group>"; };
 		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
 		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
 		EA84F1042A4E7AB00068623C /* UserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
@@ -554,7 +554,7 @@
 			isa = PBXGroup;
 			children = (
 				EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */,
-				EA84F0FB2A4E7A7E0068623C /* VolumetricBlueprintView.swift */,
+				EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */,
 				89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */,
 				89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */,
 			);
@@ -850,7 +850,7 @@
 				89D7448C2AA7EE11002C5318 /* ObjectsListView.swift in Sources */,
 				EA84F1192A4E7AC90068623C /* CreateAccountView.swift in Sources */,
 				EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */,
-				EA84F0FD2A4E7A7E0068623C /* VolumetricBlueprintView.swift in Sources */,
+				EA84F0FD2A4E7A7E0068623C /* VolumetricObjectView.swift in Sources */,
 				EA84F1112A4E7AB00068623C /* SearchView.swift in Sources */,
 				EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */,
 				EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */,
