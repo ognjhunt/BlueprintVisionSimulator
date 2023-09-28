@@ -60,6 +60,15 @@
       [
         "AF09ED6F-1707-48FD-8720-65B998362C09",
         "Root",
+        "Sphere_Right"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "AF09ED6F-1707-48FD-8720-65B998362C09",
+        "Root",
         "Sphere_Left"
       ],
       {
@@ -70,15 +79,6 @@
         "AF09ED6F-1707-48FD-8720-65B998362C09",
         "Root",
         "Cube"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "AF09ED6F-1707-48FD-8720-65B998362C09",
-        "Root",
-        "Sphere_Right"
       ],
       {
         "isExpanded" : true,
@@ -149,6 +149,16 @@
       [
         "DB85CEC6-4165-4489-A56A-0F970CE413FC",
         "Root",
+        "anotherSpace",
+        "Geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
         "anotherSpace"
       ],
       {
@@ -158,16 +168,6 @@
       [
         "DB85CEC6-4165-4489-A56A-0F970CE413FC",
         "Root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom"
       ],
       {
         "isExpanded" : true,
