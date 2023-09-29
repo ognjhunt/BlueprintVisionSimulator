@@ -37,6 +37,8 @@
 		897E17FB2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */; };
 		897E17FD2AC4C9F6008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */; };
 		897E18002AC5C08B008CCFC3 /* InteractiveObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */; };
+		897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */; };
+		897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */; };
 		898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898413BB2A8146A5007870FB /* EditContentNameView.swift */; };
 		898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898413CB2A847376007870FB /* Immersiveusdz.usdz */; };
 		898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */; };
@@ -181,6 +183,8 @@
 		897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bryan-goff-IuyhXAia8EA-unsplash.jpg"; sourceTree = "<group>"; };
 		897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4"; sourceTree = "<group>"; };
 		897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveObject.swift; sourceTree = "<group>"; };
+		897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitSessionManager.swift; sourceTree = "<group>"; };
+		897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "simd_float4x4+Coordinate.swift"; sourceTree = "<group>"; };
 		898413BB2A8146A5007870FB /* EditContentNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentNameView.swift; sourceTree = "<group>"; };
 		898413CB2A847376007870FB /* Immersiveusdz.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Immersiveusdz.usdz; sourceTree = "<group>"; };
 		898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBlueprintsListView.swift; sourceTree = "<group>"; };
@@ -340,6 +344,7 @@
 		897E17FE2AC4FB1C008CCFC3 /* Immersive */ = {
 			isa = PBXGroup;
 			children = (
+				897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */,
 			);
 			path = Immersive;
 			sourceTree = "<group>";
@@ -470,6 +475,7 @@
 			children = (
 				EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */,
 				EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */,
+				897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */,
 				EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */,
 				8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */,
 				899137252A881A61005523FE /* ImagePicker.swift */,
@@ -826,6 +832,7 @@
 				89EB09612A9A5DA30013211B /* OnboardingObjectView.swift in Sources */,
 				89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */,
 				EA84F14B2A4E7B5E0068623C /* NetworkConnectionTableViewCell.swift in Sources */,
+				897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
@@ -866,6 +873,7 @@
 				EA84F1482A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift in Sources */,
 				EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */,
 				EA84F1572A4E7CBD0068623C /* Module.swift in Sources */,
+				897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */,
 				EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */,
 				89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */,
 				EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */,
