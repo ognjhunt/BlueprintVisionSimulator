@@ -730,8 +730,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "469"
-            endingLineNumber = "469"
+            startingLineNumber = "471"
+            endingLineNumber = "471"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -746,8 +746,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "480"
-            endingLineNumber = "480"
+            startingLineNumber = "482"
+            endingLineNumber = "482"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -970,8 +970,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "499"
-            endingLineNumber = "499"
+            startingLineNumber = "501"
+            endingLineNumber = "501"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -1367,8 +1367,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "603"
-            endingLineNumber = "603"
+            startingLineNumber = "605"
+            endingLineNumber = "605"
             landmarkName = "fetchUserBlueprintCount(completion:)"
             landmarkType = "7">
             <Locations>
@@ -1556,8 +1556,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "436"
-            endingLineNumber = "436"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -1619,8 +1619,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "442"
-            endingLineNumber = "442"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -1802,8 +1802,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "607"
-            endingLineNumber = "607"
+            startingLineNumber = "609"
+            endingLineNumber = "609"
             landmarkName = "fetchUserBlueprintCount(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1818,8 +1818,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "608"
-            endingLineNumber = "608"
+            startingLineNumber = "610"
+            endingLineNumber = "610"
             landmarkName = "fetchUserBlueprintCount(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1834,8 +1834,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "381"
-            endingLineNumber = "381"
+            startingLineNumber = "383"
+            endingLineNumber = "383"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -1930,8 +1930,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "439"
-            endingLineNumber = "439"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -1946,8 +1946,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "440"
-            endingLineNumber = "440"
+            startingLineNumber = "442"
+            endingLineNumber = "442"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2024,8 +2024,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "971"
-            endingLineNumber = "971"
+            startingLineNumber = "973"
+            endingLineNumber = "973"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2040,8 +2040,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "967"
-            endingLineNumber = "967"
+            startingLineNumber = "969"
+            endingLineNumber = "969"
             landmarkName = "loadData()"
             landmarkType = "7">
             <Locations>
@@ -2103,8 +2103,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "977"
-            endingLineNumber = "977"
+            startingLineNumber = "979"
+            endingLineNumber = "979"
             landmarkName = "loadData()"
             landmarkType = "7">
             <Locations>
@@ -2151,8 +2151,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "984"
-            endingLineNumber = "984"
+            startingLineNumber = "986"
+            endingLineNumber = "986"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2167,8 +2167,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "981"
-            endingLineNumber = "981"
+            startingLineNumber = "983"
+            endingLineNumber = "983"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2183,8 +2183,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "974"
-            endingLineNumber = "974"
+            startingLineNumber = "976"
+            endingLineNumber = "976"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2199,8 +2199,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "985"
-            endingLineNumber = "985"
+            startingLineNumber = "987"
+            endingLineNumber = "987"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2215,8 +2215,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "983"
-            endingLineNumber = "983"
+            startingLineNumber = "985"
+            endingLineNumber = "985"
             landmarkName = "loadData()"
             landmarkType = "7">
             <Locations>
@@ -2263,8 +2263,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1274"
-            endingLineNumber = "1274"
+            startingLineNumber = "1276"
+            endingLineNumber = "1276"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2326,8 +2326,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "441"
-            endingLineNumber = "441"
+            startingLineNumber = "443"
+            endingLineNumber = "443"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2404,8 +2404,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1291"
-            endingLineNumber = "1291"
+            startingLineNumber = "1293"
+            endingLineNumber = "1293"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2452,8 +2452,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1273"
-            endingLineNumber = "1273"
+            startingLineNumber = "1275"
+            endingLineNumber = "1275"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -2484,8 +2484,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "609"
-            endingLineNumber = "609"
+            startingLineNumber = "611"
+            endingLineNumber = "611"
             landmarkName = "fetchUserBlueprintCount(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2500,8 +2500,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "448"
-            endingLineNumber = "448"
+            startingLineNumber = "450"
+            endingLineNumber = "450"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -2516,8 +2516,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "444"
-            endingLineNumber = "444"
+            startingLineNumber = "446"
+            endingLineNumber = "446"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2993,8 +2993,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1117"
-            endingLineNumber = "1117"
+            startingLineNumber = "1119"
+            endingLineNumber = "1119"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3003,22 +3003,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "A8BA8154-D584-494B-B181-621801C54AF9"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1416"
-            endingLineNumber = "1416"
-            landmarkName = "calculateDistanceInMiles(from:to:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "48E2E882-6384-4419-A7D0-BE46A292175C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -3034,6 +3018,22 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "48E2E882-6384-4419-A7D0-BE46A292175C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1420"
+            endingLineNumber = "1420"
+            landmarkName = "calculateDistanceInMiles(from:to:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "FD356E1D-7F24-4540-BD37-58582D2F5B48"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -3041,8 +3041,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1120"
-            endingLineNumber = "1120"
+            startingLineNumber = "1122"
+            endingLineNumber = "1122"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3057,8 +3057,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1478"
-            endingLineNumber = "1478"
+            startingLineNumber = "1480"
+            endingLineNumber = "1480"
             landmarkName = "fetchUserLocation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -3073,28 +3073,13 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1473"
-            endingLineNumber = "1473"
+            startingLineNumber = "1475"
+            endingLineNumber = "1475"
             landmarkName = "fetchUserLocation()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "00463069-ECBC-4017-BFD5-EC0A2F13B299 - 1a91f6935f2b973a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;BlueprintVisionInternal.Blueprint&gt;) -&gt; () in BlueprintVisionInternal.BlueprintItem.calculateSpaceLeft(selectedBlueprintId: Swift.String, completion: () -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1472"
-                  endingLineNumber = "1472"
-                  offsetFromSymbolStart = "1052">
-               </Location>
-               <Location
-                  uuid = "00463069-ECBC-4017-BFD5-EC0A2F13B299 - ebf0ea1bca63057c"
+                  uuid = "00463069-ECBC-4017-BFD5-EC0A2F13B299 - ebf0ea1bca63053e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -3104,8 +3089,23 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1473"
-                  endingLineNumber = "1473"
+                  startingLineNumber = "1475"
+                  endingLineNumber = "1475"
+                  offsetFromSymbolStart = "1524">
+               </Location>
+               <Location
+                  uuid = "00463069-ECBC-4017-BFD5-EC0A2F13B299 - ebf0ea1bca63053e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BlueprintVisionInternal.User&gt;) -&gt; () in BlueprintVisionInternal.BlueprintItem.fetchUserLocation() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1475"
+                  endingLineNumber = "1475"
                   offsetFromSymbolStart = "1308">
                </Location>
             </Locations>
@@ -3121,8 +3121,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1251"
-            endingLineNumber = "1251"
+            startingLineNumber = "1253"
+            endingLineNumber = "1253"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3137,8 +3137,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1235"
-            endingLineNumber = "1235"
+            startingLineNumber = "1237"
+            endingLineNumber = "1237"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3185,8 +3185,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1171"
-            endingLineNumber = "1171"
+            startingLineNumber = "1173"
+            endingLineNumber = "1173"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3233,8 +3233,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1170"
-            endingLineNumber = "1170"
+            startingLineNumber = "1172"
+            endingLineNumber = "1172"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3311,8 +3311,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1146"
-            endingLineNumber = "1146"
+            startingLineNumber = "1148"
+            endingLineNumber = "1148"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3327,8 +3327,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1145"
-            endingLineNumber = "1145"
+            startingLineNumber = "1147"
+            endingLineNumber = "1147"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3375,8 +3375,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1160"
-            endingLineNumber = "1160"
+            startingLineNumber = "1162"
+            endingLineNumber = "1162"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3423,8 +3423,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1175"
-            endingLineNumber = "1175"
+            startingLineNumber = "1177"
+            endingLineNumber = "1177"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3439,8 +3439,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1169"
-            endingLineNumber = "1169"
+            startingLineNumber = "1171"
+            endingLineNumber = "1171"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -3455,28 +3455,13 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1499"
-            endingLineNumber = "1499"
+            startingLineNumber = "1501"
+            endingLineNumber = "1501"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "76B9F676-97E9-48D1-A13B-69DDFB274087 - 3b6c4dc057507812"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.BlueprintItem.updateBlueprintSessions(selectedBlueprintId: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1498"
-                  endingLineNumber = "1498"
-                  offsetFromSymbolStart = "76">
-               </Location>
-               <Location
-                  uuid = "76B9F676-97E9-48D1-A13B-69DDFB274087 - 1a91f6935f2b93b1"
+                  uuid = "76B9F676-97E9-48D1-A13B-69DDFB274087 - 1a91f6935f2b937f"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -3486,8 +3471,23 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "1499"
-                  endingLineNumber = "1499"
+                  startingLineNumber = "1501"
+                  endingLineNumber = "1501"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "76B9F676-97E9-48D1-A13B-69DDFB274087 - 1a91f6935f2b937f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BlueprintVisionInternal.Blueprint&gt;) -&gt; () in BlueprintVisionInternal.BlueprintItem.calculateSpaceLeft(selectedBlueprintId: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1501"
+                  endingLineNumber = "1501"
                   offsetFromSymbolStart = "248">
                </Location>
             </Locations>
@@ -3503,8 +3503,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1494"
-            endingLineNumber = "1494"
+            startingLineNumber = "1496"
+            endingLineNumber = "1496"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -5163,8 +5163,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "445"
-            endingLineNumber = "445"
+            startingLineNumber = "447"
+            endingLineNumber = "447"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -5226,8 +5226,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "466"
-            endingLineNumber = "466"
+            startingLineNumber = "468"
+            endingLineNumber = "468"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -5274,8 +5274,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "965"
-            endingLineNumber = "965"
+            startingLineNumber = "967"
+            endingLineNumber = "967"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -5464,8 +5464,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "972"
-            endingLineNumber = "972"
+            startingLineNumber = "974"
+            endingLineNumber = "974"
             landmarkName = "loadData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10402,8 +10402,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1315"
-            endingLineNumber = "1315"
+            startingLineNumber = "1317"
+            endingLineNumber = "1317"
             landmarkName = "startTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -11277,8 +11277,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1208"
-            endingLineNumber = "1208"
+            startingLineNumber = "1210"
+            endingLineNumber = "1210"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -11325,8 +11325,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1332"
-            endingLineNumber = "1332"
+            startingLineNumber = "1334"
+            endingLineNumber = "1334"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -11341,8 +11341,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1343"
-            endingLineNumber = "1343"
+            startingLineNumber = "1345"
+            endingLineNumber = "1345"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -11357,8 +11357,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1344"
-            endingLineNumber = "1344"
+            startingLineNumber = "1346"
+            endingLineNumber = "1346"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -11527,7 +11527,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "DFD4A116-DD42-4744-96A8-CAFEC634369C"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/NotesView.swift"
@@ -11755,8 +11755,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "681"
-            endingLineNumber = "681"
+            startingLineNumber = "683"
+            endingLineNumber = "683"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -11771,8 +11771,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "691"
-            endingLineNumber = "691"
+            startingLineNumber = "693"
+            endingLineNumber = "693"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
             <Locations>
@@ -11819,8 +11819,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "637"
-            endingLineNumber = "637"
+            startingLineNumber = "639"
+            endingLineNumber = "639"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
             <Locations>
@@ -11867,13 +11867,13 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "640"
-            endingLineNumber = "640"
+            startingLineNumber = "642"
+            endingLineNumber = "642"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "90812F82-C572-4013-9C5B-1C2E8B83254F - 8ef5198bdba29bd9"
+                  uuid = "90812F82-C572-4013-9C5B-1C2E8B83254F - 8ef5198bdba29b5d"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -11883,12 +11883,12 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "638"
-                  endingLineNumber = "638"
-                  offsetFromSymbolStart = "3436">
+                  startingLineNumber = "642"
+                  endingLineNumber = "642"
+                  offsetFromSymbolStart = "1416">
                </Location>
                <Location
-                  uuid = "90812F82-C572-4013-9C5B-1C2E8B83254F - 8ef5198bdba29b1f"
+                  uuid = "90812F82-C572-4013-9C5B-1C2E8B83254F - 8ef5198bdba29b5d"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -11898,8 +11898,8 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "640"
-                  endingLineNumber = "640"
+                  startingLineNumber = "642"
+                  endingLineNumber = "642"
                   offsetFromSymbolStart = "1296">
                </Location>
             </Locations>
@@ -11915,8 +11915,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "643"
-            endingLineNumber = "643"
+            startingLineNumber = "645"
+            endingLineNumber = "645"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -11931,8 +11931,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "680"
-            endingLineNumber = "680"
+            startingLineNumber = "682"
+            endingLineNumber = "682"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -11947,8 +11947,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "832"
-            endingLineNumber = "832"
+            startingLineNumber = "834"
+            endingLineNumber = "834"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -11963,8 +11963,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "837"
-            endingLineNumber = "837"
+            startingLineNumber = "839"
+            endingLineNumber = "839"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -11979,8 +11979,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "841"
-            endingLineNumber = "841"
+            startingLineNumber = "843"
+            endingLineNumber = "843"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12027,8 +12027,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "849"
-            endingLineNumber = "849"
+            startingLineNumber = "851"
+            endingLineNumber = "851"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12075,8 +12075,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "859"
-            endingLineNumber = "859"
+            startingLineNumber = "861"
+            endingLineNumber = "861"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12138,8 +12138,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "857"
-            endingLineNumber = "857"
+            startingLineNumber = "859"
+            endingLineNumber = "859"
             landmarkName = "updateCreatedBlueprintIDs(for:with:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12186,8 +12186,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "649"
-            endingLineNumber = "649"
+            startingLineNumber = "651"
+            endingLineNumber = "651"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
             <Locations>
@@ -12234,8 +12234,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "639"
-            endingLineNumber = "639"
+            startingLineNumber = "641"
+            endingLineNumber = "641"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12378,8 +12378,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1255"
-            endingLineNumber = "1255"
+            startingLineNumber = "1257"
+            endingLineNumber = "1257"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12394,13 +12394,13 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "353"
-            endingLineNumber = "353"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - 9eaadec71cb7e743"
+                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - 9eaadec71cb7e7c7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -12410,12 +12410,12 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "351"
-                  endingLineNumber = "351"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
                   offsetFromSymbolStart = "636">
                </Location>
                <Location
-                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - d314057e7c0b3383"
+                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - d314057e7c0b3307"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -12425,12 +12425,12 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "351"
-                  endingLineNumber = "351"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
                   offsetFromSymbolStart = "36">
                </Location>
                <Location
-                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - 9eaadec71cb7e785"
+                  uuid = "8670F93E-D455-4725-8A09-9B83FC84765D - 9eaadec71cb7e7c7"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -12440,8 +12440,8 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "353"
-                  endingLineNumber = "353"
+                  startingLineNumber = "355"
+                  endingLineNumber = "355"
                   offsetFromSymbolStart = "436">
                </Location>
             </Locations>
@@ -12457,8 +12457,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1163"
-            endingLineNumber = "1163"
+            startingLineNumber = "1165"
+            endingLineNumber = "1165"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -12520,8 +12520,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1258"
-            endingLineNumber = "1258"
+            startingLineNumber = "1260"
+            endingLineNumber = "1260"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12536,8 +12536,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "521"
-            endingLineNumber = "521"
+            startingLineNumber = "523"
+            endingLineNumber = "523"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -12614,8 +12614,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "505"
-            endingLineNumber = "505"
+            startingLineNumber = "507"
+            endingLineNumber = "507"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -12692,8 +12692,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "509"
-            endingLineNumber = "509"
+            startingLineNumber = "511"
+            endingLineNumber = "511"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -12740,13 +12740,13 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "512"
-            endingLineNumber = "512"
+            startingLineNumber = "514"
+            endingLineNumber = "514"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "E14F417F-3CA5-4F6C-8EE7-D9ECFE0813D6 - db49849b3a6ae4a5"
+                  uuid = "E14F417F-3CA5-4F6C-8EE7-D9ECFE0813D6 - db49849b3a6ae702"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -12756,12 +12756,27 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "510"
-                  endingLineNumber = "510"
+                  startingLineNumber = "513"
+                  endingLineNumber = "513"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "E14F417F-3CA5-4F6C-8EE7-D9ECFE0813D6 - db49849b3a6ae721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; () in closure #10 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Button&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0)&gt; in BlueprintVisionInternal.BlueprintsView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "514"
+                  endingLineNumber = "514"
                   offsetFromSymbolStart = "500">
                </Location>
                <Location
-                  uuid = "E14F417F-3CA5-4F6C-8EE7-D9ECFE0813D6 - db49849b3a6ae763"
+                  uuid = "E14F417F-3CA5-4F6C-8EE7-D9ECFE0813D6 - db49849b3a6ae721"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -12771,8 +12786,8 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "512"
-                  endingLineNumber = "512"
+                  startingLineNumber = "514"
+                  endingLineNumber = "514"
                   offsetFromSymbolStart = "220">
                </Location>
             </Locations>
@@ -12788,8 +12803,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "870"
-            endingLineNumber = "870"
+            startingLineNumber = "872"
+            endingLineNumber = "872"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12866,8 +12881,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "876"
-            endingLineNumber = "876"
+            startingLineNumber = "878"
+            endingLineNumber = "878"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
             <Locations>
@@ -12929,8 +12944,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "880"
-            endingLineNumber = "880"
+            startingLineNumber = "882"
+            endingLineNumber = "882"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13009,8 +13024,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1238"
-            endingLineNumber = "1238"
+            startingLineNumber = "1240"
+            endingLineNumber = "1240"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13025,8 +13040,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1239"
-            endingLineNumber = "1239"
+            startingLineNumber = "1241"
+            endingLineNumber = "1241"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13041,8 +13056,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "635"
-            endingLineNumber = "635"
+            startingLineNumber = "637"
+            endingLineNumber = "637"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13057,8 +13072,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "523"
-            endingLineNumber = "523"
+            startingLineNumber = "525"
+            endingLineNumber = "525"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -13120,8 +13135,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "614"
-            endingLineNumber = "614"
+            startingLineNumber = "616"
+            endingLineNumber = "616"
             landmarkName = "createAction()"
             landmarkType = "7">
             <Locations>
@@ -13183,8 +13198,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "651"
-            endingLineNumber = "651"
+            startingLineNumber = "653"
+            endingLineNumber = "653"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
             <Locations>
@@ -13231,8 +13246,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "519"
-            endingLineNumber = "519"
+            startingLineNumber = "521"
+            endingLineNumber = "521"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -13309,8 +13324,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1302"
-            endingLineNumber = "1302"
+            startingLineNumber = "1304"
+            endingLineNumber = "1304"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -13372,8 +13387,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "652"
-            endingLineNumber = "652"
+            startingLineNumber = "654"
+            endingLineNumber = "654"
             landmarkName = "createBlueprint(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13382,6 +13397,22 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "585BF833-05B8-4420-8ED0-B4783444C7FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "821"
+            endingLineNumber = "821"
+            landmarkName = "fetchUserLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8FC04CBF-019C-44F3-B79D-7EDB323F69E5"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -13397,22 +13428,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "8FC04CBF-019C-44F3-B79D-7EDB323F69E5"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "817"
-            endingLineNumber = "817"
-            landmarkName = "fetchUserLocation()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "C6769253-9C95-47E9-B617-795870CFC082"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -13420,8 +13435,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "464"
-            endingLineNumber = "464"
+            startingLineNumber = "466"
+            endingLineNumber = "466"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -13468,8 +13483,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "446"
-            endingLineNumber = "446"
+            startingLineNumber = "448"
+            endingLineNumber = "448"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -14726,8 +14741,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "566"
-            endingLineNumber = "566"
+            startingLineNumber = "568"
+            endingLineNumber = "568"
             landmarkName = "createBlueprintButton"
             landmarkType = "24">
             <Locations>
@@ -15471,258 +15486,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "AA85845C-6D37-47CF-AB4C-B1D0A6446CC7"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "69943D44-4827-49E4-A118-3E35A689D109"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "69943D44-4827-49E4-A118-3E35A689D109 - b8424e56a2293fd9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "160">
-               </Location>
-               <Location
-                  uuid = "69943D44-4827-49E4-A118-3E35A689D109 - fc4c0be633f730c7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "36">
-               </Location>
-               <Location
-                  uuid = "69943D44-4827-49E4-A118-3E35A689D109 - 148e0d5dcf9673d7"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "28">
-               </Location>
-               <Location
-                  uuid = "69943D44-4827-49E4-A118-3E35A689D109 - 3d54eddf7a42d5d6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "39"
-                  endingLineNumber = "39"
-                  offsetFromSymbolStart = "60">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "493ABA1F-4973-472B-82A2-7295FF1CA5AE"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "48"
-            endingLineNumber = "48"
-            landmarkName = "stopSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "BF0F8BBF-64FA-4F34-89E0-F86626175D5A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "41"
-            endingLineNumber = "41"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "42496B26-28C4-4F65-ABA1-D35AAB432164"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "42496B26-28C4-4F65-ABA1-D35AAB432164 - b8424e56a2293f64"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "360">
-               </Location>
-               <Location
-                  uuid = "42496B26-28C4-4F65-ABA1-D35AAB432164 - 148e0d5dcf96736a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "42496B26-28C4-4F65-ABA1-D35AAB432164 - 3d54eddf7a42d56b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "268">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C7EA168C-6574-4FBF-8F51-FB3AC63D4ECA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "C7EA168C-6574-4FBF-8F51-FB3AC63D4ECA - b8424e56a2293f64"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "360">
-               </Location>
-               <Location
-                  uuid = "C7EA168C-6574-4FBF-8F51-FB3AC63D4ECA - 148e0d5dcf96736a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "84">
-               </Location>
-               <Location
-                  uuid = "C7EA168C-6574-4FBF-8F51-FB3AC63D4ECA - 3d54eddf7a42d56b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(4) suspend resume partial function for closure #2 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "44"
-                  endingLineNumber = "44"
-                  offsetFromSymbolStart = "268">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "26C92DCB-DD20-471A-A08C-4C168E12E732"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -15771,260 +15534,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "EEDA7639-3075-4EAB-BE9B-892620026CA2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "EEDA7639-3075-4EAB-BE9B-892620026CA2 - b8424e56a2293a0e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "104">
-               </Location>
-               <Location
-                  uuid = "EEDA7639-3075-4EAB-BE9B-892620026CA2 - fc4c0be633f73510"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "44">
-               </Location>
-               <Location
-                  uuid = "EEDA7639-3075-4EAB-BE9B-892620026CA2 - 148e0d5dcf967600"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "108">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "75525BAB-F694-4FAC-BE89-17ED895A9F91"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "06709BDC-FD12-477C-88E9-1B76C220D406"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "27"
-            endingLineNumber = "27"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B080D510-9845-455A-8646-033B69794325"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "78CB8BC1-5514-4CD3-829F-52B6D9D7B5F0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CF17F755-E097-4592-B690-490EFBE12FD0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F44F22AC-C3A4-42D3-8743-BA5DAFCE8889"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "F44F22AC-C3A4-42D3-8743-BA5DAFCE8889 - eafd30e690a855ea"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "1568">
-               </Location>
-               <Location
-                  uuid = "F44F22AC-C3A4-42D3-8743-BA5DAFCE8889 - 20a33221b8959f60"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "300">
-               </Location>
-               <Location
-                  uuid = "F44F22AC-C3A4-42D3-8743-BA5DAFCE8889 - b8424e56a2293aef"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "36">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4BA3935B-A6B9-4D98-996E-EE56D31D9819"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "startSession()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "4BA3935B-A6B9-4D98-996E-EE56D31D9819 - 148e0d5dcf967642"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "192">
-               </Location>
-               <Location
-                  uuid = "4BA3935B-A6B9-4D98-996E-EE56D31D9819 - 148e0d5dcf967642"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "612">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "2CF70575-D188-40E0-B2A9-B65AB59757BF"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -16032,8 +15541,8 @@
             filePath = "BlueprintVisionInternal/ImmersiveView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -16080,106 +15589,10 @@
             filePath = "BlueprintVisionInternal/ImmersiveView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "79"
-            endingLineNumber = "79"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
             landmarkName = "body"
             landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "FBBDA858-077D-4D3A-94AE-21ECEB80B675"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "85"
-            endingLineNumber = "85"
-            landmarkName = "addNull(name:value:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "10F5E254-D24C-41DC-B8B7-2F3888758813"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
-            landmarkName = "addNull(name:value:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C0775B0F-6A22-4922-8CB2-B2238D8E3991"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "86"
-            endingLineNumber = "86"
-            landmarkName = "addNull(name:value:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5549089E-BC56-4368-B44C-B8D58A5D98EF"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
-            landmarkName = "addNull(name:value:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5549089E-BC56-4368-B44C-B8D58A5D98EF - 3603d956e9725d6b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.ImmersiveView.addNull(name: Swift.String, value: Swift.Optional&lt;_RealityKit_SwiftUI.EntityTargetValue&lt;SwiftUI.SpatialTapGesture.Value&gt;&gt;) -&gt; RealityKit.ModelEntity"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "101"
-                  endingLineNumber = "101"
-                  offsetFromSymbolStart = "1128">
-               </Location>
-               <Location
-                  uuid = "5549089E-BC56-4368-B44C-B8D58A5D98EF - 3603d956e9725d48"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.ImmersiveView.addNull(name: Swift.String, value: Swift.Optional&lt;_RealityKit_SwiftUI.EntityTargetValue&lt;SwiftUI.SpatialTapGesture.Value&gt;&gt;) -&gt; RealityKit.ModelEntity"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "100"
-                  endingLineNumber = "100"
-                  offsetFromSymbolStart = "964">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -16224,8 +15637,500 @@
             filePath = "BlueprintVisionInternal/ImmersiveView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79BB7E5E-6E1C-4B4A-99C3-D03AB3875CF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "952101A2-B4DE-4CEE-BC13-2D30797E0C6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D67BC782-84BE-47FC-9981-D889F79CF2FD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D67BC782-84BE-47FC-9981-D889F79CF2FD - 3603d956e972a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ImmersiveView.addNull(name: Swift.String, value: Swift.Optional&lt;_RealityKit_SwiftUI.EntityTargetValue&lt;SwiftUI.SpatialTapGesture.Value&gt;&gt;) -&gt; RealityKit.ModelEntity"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "3160">
+               </Location>
+               <Location
+                  uuid = "D67BC782-84BE-47FC-9981-D889F79CF2FD - db2364c067e2ffd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ImmersiveView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "3236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4340B89E-85BC-4C1E-BDA3-FA08ACC0E8A6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4340B89E-85BC-4C1E-BDA3-FA08ACC0E8A6 - 3603d956e972a411"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ImmersiveView.addNull(name: Swift.String, value: Swift.Optional&lt;_RealityKit_SwiftUI.EntityTargetValue&lt;SwiftUI.SpatialTapGesture.Value&gt;&gt;) -&gt; RealityKit.ModelEntity"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "3160">
+               </Location>
+               <Location
+                  uuid = "4340B89E-85BC-4C1E-BDA3-FA08ACC0E8A6 - db2364c067e2ffd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ImmersiveView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/ImmersiveView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "3236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "627719CE-0883-4460-926A-03E83D05E06E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "834EE0AE-D389-4AB1-9EA7-6F67C3519BD2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1DF747B8-7268-4330-A955-B16C695AFF8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "addAxis(matrix:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FBDCF2F-4C4A-4A23-8E0D-0951B5559B36"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "addAxis(matrix:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E29FA210-7F1B-451A-ABFA-BCB6E9BEA56E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBE2E7ED-52A5-4CCA-BAB3-CA737F978C59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "reportDevicePose()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "165C17BB-2C25-4A66-ACA6-1C8267B1BCFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "reportDevicePose()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DA4620C-D391-4638-8FC1-3BF67D670F39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "startSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4DA4620C-D391-4638-8FC1-3BF67D670F39 - eafd30e690a85587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "4DA4620C-D391-4638-8FC1-3BF67D670F39 - daa4bf5354e3c8c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "4DA4620C-D391-4638-8FC1-3BF67D670F39 - 24b4d306f511181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4DA4620C-D391-4638-8FC1-3BF67D670F39 - 77e2749ae2edb382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65A44607-93C3-42E7-A7FE-A551E21E6CA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getOriginFromDeviceTransform()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3965BC0E-F331-41C2-8BD6-24A1704FCDFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "startSession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90B52912-6154-4976-8F98-F7F65EEC32E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "startSession()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90B52912-6154-4976-8F98-F7F65EEC32E7 - eafd30e690a85587"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "90B52912-6154-4976-8F98-F7F65EEC32E7 - daa4bf5354e3c8c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "90B52912-6154-4976-8F98-F7F65EEC32E7 - 24b4d306f511181"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "90B52912-6154-4976-8F98-F7F65EEC32E7 - 77e2749ae2edb382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for BlueprintVisionInternal.ARKitSessionManager.startSession() async -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8BD192D-E0DC-4C1F-AD2F-1AF879CE5E7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "monitorSessionEvent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17E21900-EE3C-4B10-BBFF-0D05306DB800"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "handleWorldTrackingUpdates()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36B4C8CC-0D81-464E-9600-EB22A5E54ACC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Immersive/ARKitSessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "getOriginFromDeviceTransform()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA43B72A-5218-488F-88F2-4F0AD25D43A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/ImmersiveView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>

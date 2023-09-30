@@ -39,6 +39,7 @@
 		897E18002AC5C08B008CCFC3 /* InteractiveObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */; };
 		897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */; };
 		897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */; };
+		897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */; };
 		898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898413BB2A8146A5007870FB /* EditContentNameView.swift */; };
 		898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898413CB2A847376007870FB /* Immersiveusdz.usdz */; };
 		898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */; };
@@ -185,6 +186,7 @@
 		897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveObject.swift; sourceTree = "<group>"; };
 		897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitSessionManager.swift; sourceTree = "<group>"; };
 		897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "simd_float4x4+Coordinate.swift"; sourceTree = "<group>"; };
+		897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitViewModel.swift; sourceTree = "<group>"; };
 		898413BB2A8146A5007870FB /* EditContentNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentNameView.swift; sourceTree = "<group>"; };
 		898413CB2A847376007870FB /* Immersiveusdz.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Immersiveusdz.usdz; sourceTree = "<group>"; };
 		898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBlueprintsListView.swift; sourceTree = "<group>"; };
@@ -345,6 +347,7 @@
 			isa = PBXGroup;
 			children = (
 				897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */,
+				897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */,
 			);
 			path = Immersive;
 			sourceTree = "<group>";
@@ -810,6 +813,7 @@
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
 				8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */,
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
+				897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */,
 				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
 				89D744902AA7FE31002C5318 /* PortalsLibraryListView.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
