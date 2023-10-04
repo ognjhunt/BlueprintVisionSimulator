@@ -26,6 +26,7 @@
 		896F13382ACCEAB1007733D3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13372ACCEAB1007733D3 /* FirebaseFirestore */; };
 		896F133A2ACCEAB1007733D3 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13392ACCEAB1007733D3 /* FirebaseFirestoreSwift */; };
 		896F133C2ACCEAB1007733D3 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 896F133B2ACCEAB1007733D3 /* FirebaseStorage */; };
+		896F133E2ACDAF95007733D3 /* ObjectsNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896F133D2ACDAF95007733D3 /* ObjectsNotificationView.swift */; };
 		8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8971B4842A8D696D00F682F5 /* ChecklistView.swift */; };
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
 		897E17EB2AB0A27C008CCFC3 /* Geohasher in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17EA2AB0A27C008CCFC3 /* Geohasher */; };
@@ -175,6 +176,7 @@
 		896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F32A786609006A84C0 /* EditBlueprintNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintNameView.swift; sourceTree = "<group>"; };
 		896254D92A7189CC00B448FC /* HomeModuleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModuleCard.swift; sourceTree = "<group>"; };
+		896F133D2ACDAF95007733D3 /* ObjectsNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectsNotificationView.swift; sourceTree = "<group>"; };
 		8971B4842A8D696D00F682F5 /* ChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistView.swift; sourceTree = "<group>"; };
 		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BlueprintVisionInternal.entitlements; sourceTree = "<group>"; };
@@ -449,6 +451,7 @@
 				895343452A9C16E20036B877 /* OnboardingNotesView.swift */,
 				895343432A9B81140036B877 /* OnboardingFinishView.swift */,
 				891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */,
+				896F133D2ACDAF95007733D3 /* ObjectsNotificationView.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -882,6 +885,7 @@
 				EA84F12F2A4E7B250068623C /* Texture.swift in Sources */,
 				EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */,
 				EA84F1482A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift in Sources */,
+				896F133E2ACDAF95007733D3 /* ObjectsNotificationView.swift in Sources */,
 				EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */,
 				EA84F1572A4E7CBD0068623C /* Module.swift in Sources */,
 				897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */,
