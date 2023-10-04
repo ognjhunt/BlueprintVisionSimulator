@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		89083D6A2A75E42C0077264F /* SubscriptionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89083D692A75E42C0077264F /* SubscriptionViewModel.swift */; };
+		891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */; };
+		891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */; };
 		89245DC82A749DF100930D1D /* PortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* PortalView.swift */; };
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
 		894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* PortalsListView.swift */; };
@@ -20,12 +22,12 @@
 		896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */; };
 		896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F32A786609006A84C0 /* EditBlueprintNameView.swift */; };
 		896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896254D92A7189CC00B448FC /* HomeModuleCard.swift */; };
+		896F13362ACCEAB1007733D3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13352ACCEAB1007733D3 /* FirebaseAuth */; };
+		896F13382ACCEAB1007733D3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13372ACCEAB1007733D3 /* FirebaseFirestore */; };
+		896F133A2ACCEAB1007733D3 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13392ACCEAB1007733D3 /* FirebaseFirestoreSwift */; };
+		896F133C2ACCEAB1007733D3 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 896F133B2ACCEAB1007733D3 /* FirebaseStorage */; };
 		8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8971B4842A8D696D00F682F5 /* ChecklistView.swift */; };
 		897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 897A9F8D2A69E288000838BA /* GoogleService-Info.plist */; };
-		897E17E22AACB595008CCFC3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17E12AACB595008CCFC3 /* FirebaseAuth */; };
-		897E17E42AACB595008CCFC3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17E32AACB595008CCFC3 /* FirebaseFirestore */; };
-		897E17E62AACB595008CCFC3 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17E52AACB595008CCFC3 /* FirebaseFirestoreSwift */; };
-		897E17E82AACB595008CCFC3 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17E72AACB595008CCFC3 /* FirebaseStorage */; };
 		897E17EB2AB0A27C008CCFC3 /* Geohasher in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17EA2AB0A27C008CCFC3 /* Geohasher */; };
 		897E17ED2AB0AB42008CCFC3 /* BlueprintSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17EC2AB0AB42008CCFC3 /* BlueprintSelection.swift */; };
 		897E17EF2AB0E7FD008CCFC3 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17EE2AB0E7FD008CCFC3 /* Note.swift */; };
@@ -159,6 +161,8 @@
 
 /* Begin PBXFileReference section */
 		89083D692A75E42C0077264F /* SubscriptionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionViewModel.swift; sourceTree = "<group>"; };
+		891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintStorageNotificationView.swift; sourceTree = "<group>"; };
+		891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryNotificationView.swift; sourceTree = "<group>"; };
 		89245DC72A749DF100930D1D /* PortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalView.swift; sourceTree = "<group>"; };
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* PortalsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsListView.swift; sourceTree = "<group>"; };
@@ -303,12 +307,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				896F133A2ACCEAB1007733D3 /* FirebaseFirestoreSwift in Frameworks */,
 				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
-				897E17E22AACB595008CCFC3 /* FirebaseAuth in Frameworks */,
-				897E17E42AACB595008CCFC3 /* FirebaseFirestore in Frameworks */,
-				897E17E82AACB595008CCFC3 /* FirebaseStorage in Frameworks */,
-				897E17E62AACB595008CCFC3 /* FirebaseFirestoreSwift in Frameworks */,
+				896F13382ACCEAB1007733D3 /* FirebaseFirestore in Frameworks */,
+				896F13362ACCEAB1007733D3 /* FirebaseAuth in Frameworks */,
 				897E17EB2AB0A27C008CCFC3 /* Geohasher in Frameworks */,
+				896F133C2ACCEAB1007733D3 /* FirebaseStorage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -332,6 +336,7 @@
 				89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */,
 				898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */,
 				89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */,
+				891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */,
 			);
 			path = Blueprint;
 			sourceTree = "<group>";
@@ -443,6 +448,7 @@
 				89EB09602A9A5DA20013211B /* OnboardingObjectView.swift */,
 				895343452A9C16E20036B877 /* OnboardingNotesView.swift */,
 				895343432A9B81140036B877 /* OnboardingFinishView.swift */,
+				891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -700,11 +706,11 @@
 			name = BlueprintVisionInternal;
 			packageProductDependencies = (
 				EA84F0CB2A4E78B10068623C /* RealityKitContent */,
-				897E17E12AACB595008CCFC3 /* FirebaseAuth */,
-				897E17E32AACB595008CCFC3 /* FirebaseFirestore */,
-				897E17E52AACB595008CCFC3 /* FirebaseFirestoreSwift */,
-				897E17E72AACB595008CCFC3 /* FirebaseStorage */,
 				897E17EA2AB0A27C008CCFC3 /* Geohasher */,
+				896F13352ACCEAB1007733D3 /* FirebaseAuth */,
+				896F13372ACCEAB1007733D3 /* FirebaseFirestore */,
+				896F13392ACCEAB1007733D3 /* FirebaseFirestoreSwift */,
+				896F133B2ACCEAB1007733D3 /* FirebaseStorage */,
 			);
 			productName = BlueprintVisionInternal;
 			productReference = EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */;
@@ -757,8 +763,8 @@
 			);
 			mainGroup = EA84F0BD2A4E78B10068623C;
 			packageReferences = (
-				897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 				897E17E92AB0A27C008CCFC3 /* XCRemoteSwiftPackageReference "Geohasher" */,
+				896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = EA84F0C72A4E78B10068623C /* Products */;
 			projectDirPath = "";
@@ -843,6 +849,7 @@
 				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
 				EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */,
 				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
+				891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */,
 				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
 				89D744862AA4FAE8002C5318 /* SelectedPhotoView.swift in Sources */,
 				899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */,
@@ -888,6 +895,7 @@
 				EA84F1472A4E7B5E0068623C /* DownloadContentTableViewCell.swift in Sources */,
 				89EB09592A97C31F0013211B /* OnboardingView.swift in Sources */,
 				899137282A89867F005523FE /* CreditsView.swift in Sources */,
+				891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */,
 				8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */,
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
@@ -1083,6 +1091,7 @@
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1090,7 +1099,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
@@ -1116,6 +1126,7 @@
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -1123,7 +1134,8 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = Public.BlueprintVisionInternal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SUPPORTED_PLATFORMS = "xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator xros xrsimulator";
+				SUPPORTS_MACCATALYST = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
@@ -1205,11 +1217,11 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+		896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
 			requirement = {
-				kind = upToNextMajorVersion;
+				kind = upToNextMinorVersion;
 				minimumVersion = 10.14.0;
 			};
 		};
@@ -1224,24 +1236,24 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		897E17E12AACB595008CCFC3 /* FirebaseAuth */ = {
+		896F13352ACCEAB1007733D3 /* FirebaseAuth */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			package = 896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseAuth;
 		};
-		897E17E32AACB595008CCFC3 /* FirebaseFirestore */ = {
+		896F13372ACCEAB1007733D3 /* FirebaseFirestore */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			package = 896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestore;
 		};
-		897E17E52AACB595008CCFC3 /* FirebaseFirestoreSwift */ = {
+		896F13392ACCEAB1007733D3 /* FirebaseFirestoreSwift */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			package = 896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestoreSwift;
 		};
-		897E17E72AACB595008CCFC3 /* FirebaseStorage */ = {
+		896F133B2ACCEAB1007733D3 /* FirebaseStorage */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = 897E17E02AACB529008CCFC3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			package = 896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseStorage;
 		};
 		897E17EA2AB0A27C008CCFC3 /* Geohasher */ = {
