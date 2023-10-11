@@ -999,8 +999,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "426"
-            endingLineNumber = "426"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
             landmarkName = "checkAuthenticationStatus()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1015,8 +1015,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "429"
-            endingLineNumber = "429"
+            startingLineNumber = "431"
+            endingLineNumber = "431"
             landmarkName = "checkAuthenticationStatus()"
             landmarkType = "7">
          </BreakpointContent>
@@ -1206,8 +1206,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "194"
-            endingLineNumber = "194"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -1254,8 +1254,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
+            startingLineNumber = "197"
+            endingLineNumber = "197"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -1317,8 +1317,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2171,8 +2171,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1532"
-            endingLineNumber = "1532"
+            startingLineNumber = "1533"
+            endingLineNumber = "1533"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2297,8 +2297,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1549"
-            endingLineNumber = "1549"
+            startingLineNumber = "1550"
+            endingLineNumber = "1550"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -2360,8 +2360,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1531"
-            endingLineNumber = "1531"
+            startingLineNumber = "1532"
+            endingLineNumber = "1532"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -2805,8 +2805,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1762"
-            endingLineNumber = "1762"
+            startingLineNumber = "1763"
+            endingLineNumber = "1763"
             landmarkName = "calculateDistanceInMiles(from:to:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2821,8 +2821,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1764"
-            endingLineNumber = "1764"
+            startingLineNumber = "1765"
+            endingLineNumber = "1765"
             landmarkName = "calculateDistanceInMiles(from:to:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -2853,8 +2853,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1824"
-            endingLineNumber = "1824"
+            startingLineNumber = "1825"
+            endingLineNumber = "1825"
             landmarkName = "fetchUserLocation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2869,8 +2869,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1819"
-            endingLineNumber = "1819"
+            startingLineNumber = "1820"
+            endingLineNumber = "1820"
             landmarkName = "fetchUserLocation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -2885,8 +2885,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1507"
-            endingLineNumber = "1507"
+            startingLineNumber = "1508"
+            endingLineNumber = "1508"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -2901,8 +2901,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1491"
-            endingLineNumber = "1491"
+            startingLineNumber = "1492"
+            endingLineNumber = "1492"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -3186,8 +3186,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1845"
-            endingLineNumber = "1845"
+            startingLineNumber = "1846"
+            endingLineNumber = "1846"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
             <Locations>
@@ -3234,8 +3234,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1840"
-            endingLineNumber = "1840"
+            startingLineNumber = "1841"
+            endingLineNumber = "1841"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6771,8 +6771,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "94"
-            endingLineNumber = "94"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
             landmarkName = "applicationDidEnterBackground(_:)"
             landmarkType = "7">
             <Locations>
@@ -6821,6 +6821,21 @@
                   endingLineNumber = "94"
                   offsetFromSymbolStart = "56">
                </Location>
+               <Location
+                  uuid = "961DF75D-7217-4E2E-A029-045CAE974C18 - 587b5f0f5f05541f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.AppDelegate.applicationDidEnterBackground(__C.UIApplication) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "56">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -6834,8 +6849,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
             landmarkName = "applicationDidEnterBackground(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6850,8 +6865,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "96"
-            endingLineNumber = "96"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
             landmarkName = "applicationDidEnterBackground(_:)"
             landmarkType = "7">
             <Locations>
@@ -6898,8 +6913,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
             landmarkName = "applicationDidEnterBackground(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6930,8 +6945,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "353"
-            endingLineNumber = "353"
+            startingLineNumber = "355"
+            endingLineNumber = "355"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -6978,8 +6993,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "322"
-            endingLineNumber = "322"
+            startingLineNumber = "324"
+            endingLineNumber = "324"
             landmarkName = "updateBlueprintConnectedTime()"
             landmarkType = "7">
             <Locations>
@@ -9435,8 +9450,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "369"
-            endingLineNumber = "369"
+            startingLineNumber = "387"
+            endingLineNumber = "387"
             landmarkName = "updateBlueprintStorage(blueprintID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -9451,8 +9466,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "371"
-            endingLineNumber = "371"
+            startingLineNumber = "389"
+            endingLineNumber = "389"
             landmarkName = "updateBlueprintStorage(blueprintID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -9467,8 +9482,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "377"
-            endingLineNumber = "377"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
             landmarkName = "updateBlueprintStorage(blueprintID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -9483,8 +9498,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "397"
-            endingLineNumber = "397"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
             landmarkName = "updateBlueprintStorage(blueprintID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -9499,8 +9514,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "406"
-            endingLineNumber = "406"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
             landmarkName = "updateBlueprintStorage(blueprintID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -9515,8 +9530,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "288"
-            endingLineNumber = "288"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -9531,8 +9546,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "314"
-            endingLineNumber = "314"
+            startingLineNumber = "316"
+            endingLineNumber = "316"
             landmarkName = "getNoteMessage()"
             landmarkType = "7">
          </BreakpointContent>
@@ -9547,8 +9562,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "311"
-            endingLineNumber = "311"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "getNoteMessage()"
             landmarkType = "7">
          </BreakpointContent>
@@ -9882,8 +9897,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1661"
-            endingLineNumber = "1661"
+            startingLineNumber = "1662"
+            endingLineNumber = "1662"
             landmarkName = "startTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -9898,8 +9913,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "337"
-            endingLineNumber = "337"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -9914,8 +9929,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "335"
-            endingLineNumber = "335"
+            startingLineNumber = "337"
+            endingLineNumber = "337"
             landmarkName = "stopTimer()"
             landmarkType = "7">
             <Locations>
@@ -9977,8 +9992,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "368"
-            endingLineNumber = "368"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10040,8 +10055,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "369"
-            endingLineNumber = "369"
+            startingLineNumber = "371"
+            endingLineNumber = "371"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10088,8 +10103,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "372"
-            endingLineNumber = "372"
+            startingLineNumber = "374"
+            endingLineNumber = "374"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10136,8 +10151,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "373"
-            endingLineNumber = "373"
+            startingLineNumber = "375"
+            endingLineNumber = "375"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10184,8 +10199,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "375"
-            endingLineNumber = "375"
+            startingLineNumber = "377"
+            endingLineNumber = "377"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10232,8 +10247,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "374"
-            endingLineNumber = "374"
+            startingLineNumber = "376"
+            endingLineNumber = "376"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10280,8 +10295,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "377"
-            endingLineNumber = "377"
+            startingLineNumber = "379"
+            endingLineNumber = "379"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10343,8 +10358,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "379"
-            endingLineNumber = "379"
+            startingLineNumber = "381"
+            endingLineNumber = "381"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10391,8 +10406,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "364"
-            endingLineNumber = "364"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10454,8 +10469,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "359"
-            endingLineNumber = "359"
+            startingLineNumber = "361"
+            endingLineNumber = "361"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10517,8 +10532,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "385"
-            endingLineNumber = "385"
+            startingLineNumber = "387"
+            endingLineNumber = "387"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10533,8 +10548,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "365"
-            endingLineNumber = "365"
+            startingLineNumber = "367"
+            endingLineNumber = "367"
             landmarkName = "updateBlueprintTime(selectedBlueprintId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10549,8 +10564,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "388"
-            endingLineNumber = "388"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10565,8 +10580,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "390"
-            endingLineNumber = "390"
+            startingLineNumber = "392"
+            endingLineNumber = "392"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10613,8 +10628,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "402"
-            endingLineNumber = "402"
+            startingLineNumber = "404"
+            endingLineNumber = "404"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
             <Locations>
@@ -10661,8 +10676,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "408"
-            endingLineNumber = "408"
+            startingLineNumber = "410"
+            endingLineNumber = "410"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10677,8 +10692,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "406"
-            endingLineNumber = "406"
+            startingLineNumber = "408"
+            endingLineNumber = "408"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10693,8 +10708,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "393"
-            endingLineNumber = "393"
+            startingLineNumber = "395"
+            endingLineNumber = "395"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10709,8 +10724,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "398"
-            endingLineNumber = "398"
+            startingLineNumber = "400"
+            endingLineNumber = "400"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10725,8 +10740,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "413"
-            endingLineNumber = "413"
+            startingLineNumber = "415"
+            endingLineNumber = "415"
             landmarkName = "updateUserTime(userId:elapsedTime:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -10741,8 +10756,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "338"
-            endingLineNumber = "338"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10773,8 +10788,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "350"
-            endingLineNumber = "350"
+            startingLineNumber = "352"
+            endingLineNumber = "352"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10789,8 +10804,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "346"
-            endingLineNumber = "346"
+            startingLineNumber = "348"
+            endingLineNumber = "348"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10805,8 +10820,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1678"
-            endingLineNumber = "1678"
+            startingLineNumber = "1679"
+            endingLineNumber = "1679"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10821,8 +10836,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1689"
-            endingLineNumber = "1689"
+            startingLineNumber = "1690"
+            endingLineNumber = "1690"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -10837,8 +10852,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1690"
-            endingLineNumber = "1690"
+            startingLineNumber = "1691"
+            endingLineNumber = "1691"
             landmarkName = "stopTimer()"
             landmarkType = "7">
          </BreakpointContent>
@@ -11684,8 +11699,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1511"
-            endingLineNumber = "1511"
+            startingLineNumber = "1512"
+            endingLineNumber = "1512"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -11763,8 +11778,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1514"
-            endingLineNumber = "1514"
+            startingLineNumber = "1515"
+            endingLineNumber = "1515"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12174,8 +12189,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1494"
-            endingLineNumber = "1494"
+            startingLineNumber = "1495"
+            endingLineNumber = "1495"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12190,8 +12205,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1495"
-            endingLineNumber = "1495"
+            startingLineNumber = "1496"
+            endingLineNumber = "1496"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12318,8 +12333,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1581"
-            endingLineNumber = "1581"
+            startingLineNumber = "1582"
+            endingLineNumber = "1582"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -13730,8 +13745,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "309"
-            endingLineNumber = "309"
+            startingLineNumber = "311"
+            endingLineNumber = "311"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13746,8 +13761,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "308"
-            endingLineNumber = "308"
+            startingLineNumber = "310"
+            endingLineNumber = "310"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13762,8 +13777,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "306"
-            endingLineNumber = "306"
+            startingLineNumber = "308"
+            endingLineNumber = "308"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13842,8 +13857,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "302"
-            endingLineNumber = "302"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13858,8 +13873,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "305"
-            endingLineNumber = "305"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -13890,8 +13905,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "431"
-            endingLineNumber = "431"
+            startingLineNumber = "491"
+            endingLineNumber = "491"
             landmarkName = "updateModelDownloads(modelID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13906,8 +13921,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "442"
-            endingLineNumber = "442"
+            startingLineNumber = "502"
+            endingLineNumber = "502"
             landmarkName = "updateModelDownloads(modelID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -14671,8 +14686,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1459"
-            endingLineNumber = "1459"
+            startingLineNumber = "1460"
+            endingLineNumber = "1460"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -15622,8 +15637,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1654"
-            endingLineNumber = "1654"
+            startingLineNumber = "1655"
+            endingLineNumber = "1655"
             landmarkName = "createAnchorInARView(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15638,8 +15653,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "420"
-            endingLineNumber = "420"
+            startingLineNumber = "421"
+            endingLineNumber = "421"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -15686,8 +15701,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1595"
-            endingLineNumber = "1595"
+            startingLineNumber = "1596"
+            endingLineNumber = "1596"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -15702,8 +15717,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1602"
-            endingLineNumber = "1602"
+            startingLineNumber = "1603"
+            endingLineNumber = "1603"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -15750,8 +15765,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1609"
-            endingLineNumber = "1609"
+            startingLineNumber = "1610"
+            endingLineNumber = "1610"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -15766,8 +15781,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1604"
-            endingLineNumber = "1604"
+            startingLineNumber = "1605"
+            endingLineNumber = "1605"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -15782,8 +15797,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1614"
-            endingLineNumber = "1614"
+            startingLineNumber = "1615"
+            endingLineNumber = "1615"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -15830,8 +15845,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1616"
-            endingLineNumber = "1616"
+            startingLineNumber = "1617"
+            endingLineNumber = "1617"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -15878,8 +15893,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1619"
-            endingLineNumber = "1619"
+            startingLineNumber = "1620"
+            endingLineNumber = "1620"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -15894,8 +15909,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1629"
-            endingLineNumber = "1629"
+            startingLineNumber = "1630"
+            endingLineNumber = "1630"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -15910,8 +15925,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1631"
-            endingLineNumber = "1631"
+            startingLineNumber = "1632"
+            endingLineNumber = "1632"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -15973,8 +15988,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1636"
-            endingLineNumber = "1636"
+            startingLineNumber = "1637"
+            endingLineNumber = "1637"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -16008,6 +16023,21 @@
                   endingLineNumber = "1636"
                   offsetFromSymbolStart = "1124">
                </Location>
+               <Location
+                  uuid = "7D34F42A-1CD2-4F1C-8EFE-FAA685FCFE7B - fcd9c16cbc46de48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BlueprintVisionInternal.Blueprint&gt;) -&gt; () in BlueprintVisionInternal.BlueprintItem.downloadBlueprintAnchors() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Blueprints/BlueprintsView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1637"
+                  endingLineNumber = "1637"
+                  offsetFromSymbolStart = "1124">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -16021,8 +16051,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1642"
-            endingLineNumber = "1642"
+            startingLineNumber = "1643"
+            endingLineNumber = "1643"
             landmarkName = "createAnchorInARView(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -16037,8 +16067,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1612"
-            endingLineNumber = "1612"
+            startingLineNumber = "1613"
+            endingLineNumber = "1613"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -16053,8 +16083,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1617"
-            endingLineNumber = "1617"
+            startingLineNumber = "1618"
+            endingLineNumber = "1618"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
             <Locations>
@@ -16101,8 +16131,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1641"
-            endingLineNumber = "1641"
+            startingLineNumber = "1642"
+            endingLineNumber = "1642"
             landmarkName = "BlueprintItem"
             landmarkType = "14">
          </BreakpointContent>
@@ -16133,8 +16163,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1618"
-            endingLineNumber = "1618"
+            startingLineNumber = "1619"
+            endingLineNumber = "1619"
             landmarkName = "downloadBlueprintAnchors()"
             landmarkType = "7">
          </BreakpointContent>
@@ -16860,8 +16890,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1557"
-            endingLineNumber = "1557"
+            startingLineNumber = "1558"
+            endingLineNumber = "1558"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -16908,8 +16938,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1555"
-            endingLineNumber = "1555"
+            startingLineNumber = "1556"
+            endingLineNumber = "1556"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -16986,8 +17016,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1554"
-            endingLineNumber = "1554"
+            startingLineNumber = "1555"
+            endingLineNumber = "1555"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -17002,8 +17032,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1565"
-            endingLineNumber = "1565"
+            startingLineNumber = "1566"
+            endingLineNumber = "1566"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -17384,8 +17414,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "213"
-            endingLineNumber = "213"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -17479,8 +17509,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1799"
-            endingLineNumber = "1799"
+            startingLineNumber = "1800"
+            endingLineNumber = "1800"
             landmarkName = "getBlueprintThumbnail(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -17495,8 +17525,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1810"
-            endingLineNumber = "1810"
+            startingLineNumber = "1811"
+            endingLineNumber = "1811"
             landmarkName = "fetchUserLocation()"
             landmarkType = "7">
          </BreakpointContent>
@@ -18309,8 +18339,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "464"
-            endingLineNumber = "464"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
             landmarkType = "7">
             <Locations>
@@ -18357,8 +18387,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "426"
-            endingLineNumber = "426"
+            startingLineNumber = "427"
+            endingLineNumber = "427"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -18450,8 +18480,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "424"
-            endingLineNumber = "424"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -18513,8 +18543,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "427"
-            endingLineNumber = "427"
+            startingLineNumber = "428"
+            endingLineNumber = "428"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -18593,8 +18623,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "387"
-            endingLineNumber = "387"
+            startingLineNumber = "388"
+            endingLineNumber = "388"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -18609,8 +18639,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "395"
-            endingLineNumber = "395"
+            startingLineNumber = "396"
+            endingLineNumber = "396"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -18625,8 +18655,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "395"
-            endingLineNumber = "395"
+            startingLineNumber = "396"
+            endingLineNumber = "396"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -18960,8 +18990,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "446"
-            endingLineNumber = "446"
+            startingLineNumber = "447"
+            endingLineNumber = "447"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -19279,8 +19309,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -19391,8 +19421,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "270"
-            endingLineNumber = "270"
+            startingLineNumber = "282"
+            endingLineNumber = "282"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
             <Locations>
@@ -19439,8 +19469,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "265"
-            endingLineNumber = "265"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19455,8 +19485,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
             <Locations>
@@ -19503,8 +19533,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "278"
-            endingLineNumber = "278"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
             <Locations>
@@ -19551,8 +19581,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "196"
-            endingLineNumber = "196"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -19567,8 +19597,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "217"
-            endingLineNumber = "217"
+            startingLineNumber = "226"
+            endingLineNumber = "226"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -19615,8 +19645,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "219"
-            endingLineNumber = "219"
+            startingLineNumber = "228"
+            endingLineNumber = "228"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -19631,8 +19661,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -19647,8 +19677,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "295"
-            endingLineNumber = "295"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19663,8 +19693,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "282"
-            endingLineNumber = "282"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19679,8 +19709,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "310"
-            endingLineNumber = "310"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19695,8 +19725,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "316"
-            endingLineNumber = "316"
+            startingLineNumber = "328"
+            endingLineNumber = "328"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19711,8 +19741,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "317"
-            endingLineNumber = "317"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19727,8 +19757,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "218"
-            endingLineNumber = "218"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -19916,8 +19946,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "284"
-            endingLineNumber = "284"
+            startingLineNumber = "296"
+            endingLineNumber = "296"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22559,8 +22589,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "741"
-            endingLineNumber = "741"
+            startingLineNumber = "742"
+            endingLineNumber = "742"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -22607,8 +22637,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "723"
-            endingLineNumber = "723"
+            startingLineNumber = "724"
+            endingLineNumber = "724"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -23315,8 +23345,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1570"
-            endingLineNumber = "1570"
+            startingLineNumber = "1571"
+            endingLineNumber = "1571"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -23378,8 +23408,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1576"
-            endingLineNumber = "1576"
+            startingLineNumber = "1577"
+            endingLineNumber = "1577"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -23442,8 +23472,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1573"
-            endingLineNumber = "1573"
+            startingLineNumber = "1574"
+            endingLineNumber = "1574"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -24009,86 +24039,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "435CD6A6-91EA-4633-A6E0-92E66DFEBEEB"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "204"
-            endingLineNumber = "204"
-            landmarkName = "updateBlueprintStorage(blueprintID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "52D332D0-08DC-45AC-B079-97312212D148"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
-            landmarkName = "updateBlueprintStorage(blueprintID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "52D332D0-08DC-45AC-B079-97312212D148 - 9dbadce65b0a09ee"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.VolumetricPortalView.updateBlueprintStorage(blueprintID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "163"
-                  endingLineNumber = "163"
-                  offsetFromSymbolStart = "384">
-               </Location>
-               <Location
-                  uuid = "52D332D0-08DC-45AC-B079-97312212D148 - 9728af7a3fec15f9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (__C.FIRTransaction, Swift.Optional&lt;Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;__C.NSError&gt;&gt;&gt;) -&gt; Swift.Optional&lt;Any&gt; in BlueprintVisionInternal.VolumetricPortalView.updateBlueprintStorage(blueprintID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "163"
-                  endingLineNumber = "163"
-                  offsetFromSymbolStart = "152">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9B2FCBE2-9621-4F0D-B2EE-5D135356FF47"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
-            landmarkName = "updateBlueprintStorage(blueprintID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "3610C622-7574-4B0F-AA56-A4DA601F9BED"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -24096,8 +24046,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "701"
-            endingLineNumber = "701"
+            startingLineNumber = "702"
+            endingLineNumber = "702"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24131,6 +24081,21 @@
                   endingLineNumber = "701"
                   offsetFromSymbolStart = "2216">
                </Location>
+               <Location
+                  uuid = "3610C622-7574-4B0F-AA56-A4DA601F9BED - 9a3051b01dd20e7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.hidden() -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;&gt;)&gt; in BlueprintVisionInternal.LocationItem.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/PortalsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "702"
+                  endingLineNumber = "702"
+                  offsetFromSymbolStart = "2216">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -24144,8 +24109,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "707"
-            endingLineNumber = "707"
+            startingLineNumber = "708"
+            endingLineNumber = "708"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24179,6 +24144,21 @@
                   endingLineNumber = "708"
                   offsetFromSymbolStart = "1980">
                </Location>
+               <Location
+                  uuid = "219316DE-105F-4E16-A896-50EA844CC9CE - 9a3051b01dd20f63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.hidden() -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;&gt;)&gt; in BlueprintVisionInternal.LocationItem.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/PortalsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "709"
+                  endingLineNumber = "709"
+                  offsetFromSymbolStart = "1980">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -24192,8 +24172,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "736"
-            endingLineNumber = "736"
+            startingLineNumber = "737"
+            endingLineNumber = "737"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24227,6 +24207,21 @@
                   endingLineNumber = "737"
                   offsetFromSymbolStart = "3732">
                </Location>
+               <Location
+                  uuid = "3CFAAA0D-A24D-4D45-9F15-486F5BBD1CD1 - 9a3051b01dd20aa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.hidden() -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;&gt;)&gt; in BlueprintVisionInternal.LocationItem.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/PortalsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "738"
+                  endingLineNumber = "738"
+                  offsetFromSymbolStart = "3732">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -24240,8 +24235,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "728"
-            endingLineNumber = "728"
+            startingLineNumber = "729"
+            endingLineNumber = "729"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24275,6 +24270,21 @@
                   endingLineNumber = "728"
                   offsetFromSymbolStart = "3800">
                </Location>
+               <Location
+                  uuid = "D31C34C8-B886-4E76-9554-0E076CF7FB76 - 9a3051b01dd209ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #3 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.offset(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.lineLimit(Swift.Optional&lt;Swift.Int&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.hidden() -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer)&gt;&gt;&gt;)&gt; in BlueprintVisionInternal.LocationItem.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/PortalsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "729"
+                  endingLineNumber = "729"
+                  offsetFromSymbolStart = "3800">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -24288,8 +24298,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "826"
-            endingLineNumber = "826"
+            startingLineNumber = "827"
+            endingLineNumber = "827"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24351,8 +24361,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "821"
-            endingLineNumber = "821"
+            startingLineNumber = "822"
+            endingLineNumber = "822"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24399,8 +24409,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "814"
-            endingLineNumber = "814"
+            startingLineNumber = "815"
+            endingLineNumber = "815"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -24456,54 +24466,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BC849705-2C74-4B64-ABD2-BC1E8E1991BC"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "160"
-            endingLineNumber = "160"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "BC849705-2C74-4B64-ABD2-BC1E8E1991BC - 959bee02ede8f843"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "119"
-                  endingLineNumber = "119"
-                  offsetFromSymbolStart = "624">
-               </Location>
-               <Location
-                  uuid = "BC849705-2C74-4B64-ABD2-BC1E8E1991BC - adbe257d68c90970"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 @Sendable (Foundation.Notification) -&gt; () in closure #2 () -&gt; () in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "116"
-                  endingLineNumber = "116"
-                  offsetFromSymbolStart = "80">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "EFE91EED-0A70-434A-9BFB-FCEB61275EEF"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -24511,8 +24473,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1547"
-            endingLineNumber = "1547"
+            startingLineNumber = "1548"
+            endingLineNumber = "1548"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -24575,8 +24537,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1492"
-            endingLineNumber = "1492"
+            startingLineNumber = "1493"
+            endingLineNumber = "1493"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -24591,8 +24553,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1523"
-            endingLineNumber = "1523"
+            startingLineNumber = "1524"
+            endingLineNumber = "1524"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -25816,8 +25778,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "331"
-            endingLineNumber = "331"
+            startingLineNumber = "332"
+            endingLineNumber = "332"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -25851,6 +25813,21 @@
                   endingLineNumber = "331"
                   offsetFromSymbolStart = "52">
                </Location>
+               <Location
+                  uuid = "22A9D2CF-5680-4F7C-9D7A-7F3B6C43DC35 - 37bdc52b861d794e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #4 () -&gt; SwiftUI.Alert in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt;&gt;)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0)&gt; in closure #4 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PortalsListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/PortalsListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "332"
+                  endingLineNumber = "332"
+                  offsetFromSymbolStart = "52">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -25864,8 +25841,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/PortalsListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "794"
-            endingLineNumber = "794"
+            startingLineNumber = "795"
+            endingLineNumber = "795"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -25928,8 +25905,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Blueprints/BlueprintsView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1458"
-            endingLineNumber = "1458"
+            startingLineNumber = "1459"
+            endingLineNumber = "1459"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -26407,8 +26384,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "278"
-            endingLineNumber = "278"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -26439,8 +26416,8 @@
             filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
             landmarkName = "applicationDidEnterBackground(_:)"
             landmarkType = "7">
             <Locations>
@@ -26474,6 +26451,21 @@
                   endingLineNumber = "97"
                   offsetFromSymbolStart = "80">
                </Location>
+               <Location
+                  uuid = "888A9251-9F81-4A52-BF4F-B828C4E0A47F - 587b5f0f5f05547a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.AppDelegate.applicationDidEnterBackground(__C.UIApplication) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "80">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -26487,8 +26479,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300"
+            startingLineNumber = "312"
+            endingLineNumber = "312"
             landmarkName = "downloadContentFromMarketplace(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26656,116 +26648,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "4DEA5452-9A1E-4923-AB4E-E9AFB0253AFE"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "149"
-            endingLineNumber = "149"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "4DEA5452-9A1E-4923-AB4E-E9AFB0253AFE - a2fbda022203cbe0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "147"
-                  endingLineNumber = "147"
-                  offsetFromSymbolStart = "8404">
-               </Location>
-               <Location
-                  uuid = "4DEA5452-9A1E-4923-AB4E-E9AFB0253AFE - d2adb31fd20a1ffe"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(5) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "147"
-                  endingLineNumber = "147"
-                  offsetFromSymbolStart = "3956">
-               </Location>
-               <Location
-                  uuid = "4DEA5452-9A1E-4923-AB4E-E9AFB0253AFE - 1abaa4910a0db5ff"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "147"
-                  endingLineNumber = "147"
-                  offsetFromSymbolStart = "8416">
-               </Location>
-               <Location
-                  uuid = "4DEA5452-9A1E-4923-AB4E-E9AFB0253AFE - 4297a82b421153fc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(7) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "147"
-                  endingLineNumber = "147"
-                  offsetFromSymbolStart = "4156">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1F7A3A25-2491-47D3-8377-1753C2902323"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "43"
-            endingLineNumber = "43"
-            landmarkName = "dragGesture"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "722D4759-DF01-474C-9AB1-A95F3BB17EFD"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "46"
-            endingLineNumber = "46"
-            landmarkName = "dragGesture"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "4C6EF80A-43E1-45C2-A28E-781D27158C0A"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -26773,8 +26655,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "224"
-            endingLineNumber = "224"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -26789,8 +26671,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "229"
-            endingLineNumber = "229"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -26837,8 +26719,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "228"
-            endingLineNumber = "228"
+            startingLineNumber = "237"
+            endingLineNumber = "237"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -26900,8 +26782,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "201"
-            endingLineNumber = "201"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -26910,38 +26792,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "E3D72717-807D-4FC0-ACEC-5EEE39DC0669"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "199"
-            endingLineNumber = "199"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "BA1B2FE7-CC19-40CC-8241-BC3BC90B66DA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "203"
-            endingLineNumber = "203"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "ED5BD104-A636-4383-A49B-6FC1AB9EF14C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -26957,6 +26807,38 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "BA1B2FE7-CC19-40CC-8241-BC3BC90B66DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED5BD104-A636-4383-A49B-6FC1AB9EF14C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "213"
+            endingLineNumber = "213"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "95792C76-5428-4E1A-96B4-961F872851AB"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -26964,8 +26846,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "205"
-            endingLineNumber = "205"
+            startingLineNumber = "212"
+            endingLineNumber = "212"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -27006,19 +26888,19 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "CED086EC-A81F-4BDE-8AED-3EA049DE0172"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "250"
-            endingLineNumber = "250"
+            startingLineNumber = "262"
+            endingLineNumber = "262"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "CED086EC-A81F-4BDE-8AED-3EA049DE0172 - 92f5a4d761ab55e7"
+                  uuid = "CED086EC-A81F-4BDE-8AED-3EA049DE0172 - 92f5a4d761ab5563"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -27028,9 +26910,9 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "248"
-                  endingLineNumber = "248"
-                  offsetFromSymbolStart = "1132">
+                  startingLineNumber = "252"
+                  endingLineNumber = "252"
+                  offsetFromSymbolStart = "1684">
                </Location>
                <Location
                   uuid = "CED086EC-A81F-4BDE-8AED-3EA049DE0172 - 92f5a4d761ab55a1"
@@ -27047,6 +26929,21 @@
                   endingLineNumber = "250"
                   offsetFromSymbolStart = "1224">
                </Location>
+               <Location
+                  uuid = "CED086EC-A81F-4BDE-8AED-3EA049DE0172 - 92f5a4d761ab5563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Foundation.Date) -&gt; () in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onReceive&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Combine.Publisher, &#x3c4;_1_0.Failure == Swift.Never&gt;(_: &#x3c4;_1_0, perform: (&#x3c4;_1_0.Output) -&gt; ()) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricObjectView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "252"
+                  endingLineNumber = "252"
+                  offsetFromSymbolStart = "1224">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -27060,8 +26957,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "246"
-            endingLineNumber = "246"
+            startingLineNumber = "258"
+            endingLineNumber = "258"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -27076,8 +26973,8 @@
             filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "244"
-            endingLineNumber = "244"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -27110,6 +27007,182 @@
                   startingLineNumber = "242"
                   endingLineNumber = "242"
                   offsetFromSymbolStart = "456">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "183486C2-1454-45FA-8EE9-B0E6AF8FD70E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Objects/ObjectsListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9780081-7A13-4B31-8AED-EBE394A500B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1F4DA6A-7EB7-43F5-A2A3-AF469DFA60F3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47F95EA5-28D6-4023-9EA6-ACAE96A647F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3360EC76-4202-4839-B6E4-40B9D474A283"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/BlueprintVisionInternalApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "248"
+            endingLineNumber = "248"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67A34C4F-FEA8-4B0F-950D-07654EC9CBA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "341"
+            endingLineNumber = "341"
+            landmarkName = "deleteContent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67A34C4F-FEA8-4B0F-950D-07654EC9CBA2 - a2364524220f4832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.VolumetricObjectView.deleteContent() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "2428">
+               </Location>
+               <Location
+                  uuid = "67A34C4F-FEA8-4B0F-950D-07654EC9CBA2 - a2364524220f4832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.VolumetricObjectView.deleteContent() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "341"
+                  endingLineNumber = "341"
+                  offsetFromSymbolStart = "2168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97A0A3D4-3199-41E3-BCE0-61B80C390CD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Shared Space/Roam/VolumetricObjectView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "97A0A3D4-3199-41E3-BCE0-61B80C390CD5 - 5564a48c365fd8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onReceive&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Combine.Publisher, &#x3c4;_1_0.Failure == Swift.Never&gt;(_: &#x3c4;_1_0, perform: (&#x3c4;_1_0.Output) -&gt; ()) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricObjectView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "244"
+                  endingLineNumber = "244"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "97A0A3D4-3199-41E3-BCE0-61B80C390CD5 - 5564a48c365fd6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onReceive&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Combine.Publisher, &#x3c4;_1_0.Failure == Swift.Never&gt;(_: &#x3c4;_1_0, perform: (&#x3c4;_1_0.Output) -&gt; ()) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricObjectView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Shared%20Space/Roam/VolumetricObjectView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "243"
+                  endingLineNumber = "243"
+                  offsetFromSymbolStart = "432">
                </Location>
             </Locations>
          </BreakpointContent>
