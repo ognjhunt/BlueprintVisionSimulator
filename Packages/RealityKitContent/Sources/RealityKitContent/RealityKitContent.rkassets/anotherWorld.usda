@@ -45,6 +45,7 @@ def Xform "Root"
 
         over "Geom"
         {
+            reorder nameChildren = ["Doom", "Entrance", "Occluder"]
             over "Entrance"
             {
                 quatf xformOp:orient = (1, 0, 0, 0)
