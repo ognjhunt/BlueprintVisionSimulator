@@ -78,6 +78,19 @@
 		89D7448E2AA7F34E002C5318 /* StoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7448D2AA7F34E002C5318 /* StoreView.swift */; };
 		89D744902AA7FE31002C5318 /* PortalsLibraryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7448F2AA7FE31002C5318 /* PortalsLibraryListView.swift */; };
 		89D744922AA803E7002C5318 /* ObjectsLibraryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744912AA803E7002C5318 /* ObjectsLibraryListView.swift */; };
+		89D9F0D12AD82D28004727C5 /* CachedImageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0D02AD82D28004727C5 /* CachedImageManager.swift */; };
+		89D9F0D32AD82D2D004727C5 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0D22AD82D2D004727C5 /* DataModel.swift */; };
+		89D9F0D52AD82D3A004727C5 /* PhotoCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0D42AD82D3A004727C5 /* PhotoCollection.swift */; };
+		89D9F0D72AD82D78004727C5 /* PhotoCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0D62AD82D78004727C5 /* PhotoCollectionView.swift */; };
+		89D9F0D92AD82DDA004727C5 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0D82AD82DDA004727C5 /* PhotoView.swift */; };
+		89D9F0DB2AD82DF4004727C5 /* PhotoItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0DA2AD82DF4004727C5 /* PhotoItemView.swift */; };
+		89D9F0DD2AD82E05004727C5 /* PhotoAsset.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0DC2AD82E05004727C5 /* PhotoAsset.swift */; };
+		89D9F0E02AD82E93004727C5 /* PhotoAssetCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0DF2AD82E93004727C5 /* PhotoAssetCollection.swift */; };
+		89D9F0E22AD82E9B004727C5 /* PhotoLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E12AD82E9B004727C5 /* PhotoLibrary.swift */; };
+		89D9F0E42AD82EAA004727C5 /* Camera.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E32AD82EAA004727C5 /* Camera.swift */; };
+		89D9F0E62AD9C0D4004727C5 /* ObjectWebsiteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */; };
+		89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */; };
+		89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0EE2ADEE3DD004727C5 /* Photo.swift */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
@@ -232,6 +245,19 @@
 		89D7448D2AA7F34E002C5318 /* StoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreView.swift; sourceTree = "<group>"; };
 		89D7448F2AA7FE31002C5318 /* PortalsLibraryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsLibraryListView.swift; sourceTree = "<group>"; };
 		89D744912AA803E7002C5318 /* ObjectsLibraryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectsLibraryListView.swift; sourceTree = "<group>"; };
+		89D9F0D02AD82D28004727C5 /* CachedImageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CachedImageManager.swift; sourceTree = "<group>"; };
+		89D9F0D22AD82D2D004727C5 /* DataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		89D9F0D42AD82D3A004727C5 /* PhotoCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCollection.swift; sourceTree = "<group>"; };
+		89D9F0D62AD82D78004727C5 /* PhotoCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCollectionView.swift; sourceTree = "<group>"; };
+		89D9F0D82AD82DDA004727C5 /* PhotoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
+		89D9F0DA2AD82DF4004727C5 /* PhotoItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoItemView.swift; sourceTree = "<group>"; };
+		89D9F0DC2AD82E05004727C5 /* PhotoAsset.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoAsset.swift; sourceTree = "<group>"; };
+		89D9F0DF2AD82E93004727C5 /* PhotoAssetCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoAssetCollection.swift; sourceTree = "<group>"; };
+		89D9F0E12AD82E9B004727C5 /* PhotoLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoLibrary.swift; sourceTree = "<group>"; };
+		89D9F0E32AD82EAA004727C5 /* Camera.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Camera.swift; sourceTree = "<group>"; };
+		89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectWebsiteView.swift; sourceTree = "<group>"; };
+		89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityBlueprintsView.swift; sourceTree = "<group>"; };
+		89D9F0EE2ADEE3DD004727C5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
@@ -372,6 +398,32 @@
 			path = "Portal Upload";
 			sourceTree = "<group>";
 		};
+		89D9F0CF2AD82D1B004727C5 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				89D9F0D42AD82D3A004727C5 /* PhotoCollection.swift */,
+				89D9F0D22AD82D2D004727C5 /* DataModel.swift */,
+				89D9F0D02AD82D28004727C5 /* CachedImageManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		89D9F0DE2AD82E0C004727C5 /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */,
+				89D744852AA4FAE8002C5318 /* SelectedPhotoView.swift */,
+				89D9F0E32AD82EAA004727C5 /* Camera.swift */,
+				89D9F0DC2AD82E05004727C5 /* PhotoAsset.swift */,
+				89D9F0E12AD82E9B004727C5 /* PhotoLibrary.swift */,
+				89D9F0DF2AD82E93004727C5 /* PhotoAssetCollection.swift */,
+				89D9F0D62AD82D78004727C5 /* PhotoCollectionView.swift */,
+				89D9F0D82AD82DDA004727C5 /* PhotoView.swift */,
+				89D9F0DA2AD82DF4004727C5 /* PhotoItemView.swift */,
+			);
+			path = Photos;
+			sourceTree = "<group>";
+		};
 		89E67F702A71C05700EE00F5 /* Object Profile */ = {
 			isa = PBXGroup;
 			children = (
@@ -442,6 +494,7 @@
 			children = (
 				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
 				89F185C02A957C0200B17D18 /* BlueprintsView.swift */,
+				89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */,
 			);
 			path = Blueprints;
 			sourceTree = "<group>";
@@ -465,6 +518,7 @@
 			children = (
 				EA84F1082A4E7AB00068623C /* SearchView.swift */,
 				89D7448B2AA7EE11002C5318 /* ObjectsListView.swift */,
+				89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */,
 				89E67F702A71C05700EE00F5 /* Object Profile */,
 			);
 			path = Objects;
@@ -474,8 +528,7 @@
 			isa = PBXGroup;
 			children = (
 				89F185C22A957C5D00B17D18 /* InventoryView.swift */,
-				89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */,
-				89D744852AA4FAE8002C5318 /* SelectedPhotoView.swift */,
+				89D9F0DE2AD82E0C004727C5 /* Photos */,
 				89D7448F2AA7FE31002C5318 /* PortalsLibraryListView.swift */,
 				89D744912AA803E7002C5318 /* ObjectsLibraryListView.swift */,
 				89D7447B2AA4D61A002C5318 /* NotesView.swift */,
@@ -542,6 +595,7 @@
 				EA84F0FE2A4E7A9F0068623C /* Full Space */,
 				EA84F0D12A4E78B10068623C /* ImmersiveView.swift */,
 				897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */,
+				89D9F0CF2AD82D1B004727C5 /* Managers */,
 				897E17FE2AC4FB1C008CCFC3 /* Immersive */,
 				89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */,
 				EA37BDA72A508ABC0038EF61 /* Modifiers */,
@@ -657,6 +711,7 @@
 				EA84F12D2A4E7B250068623C /* Blueprint.swift */,
 				EA84F12B2A4E7B250068623C /* Model.swift */,
 				897E17EE2AB0E7FD008CCFC3 /* Note.swift */,
+				89D9F0EE2ADEE3DD004727C5 /* Photo.swift */,
 				89F185B52A950E3800B17D18 /* Portal.swift */,
 				EA84F12A2A4E7B250068623C /* Style.swift */,
 				8908ADA72AD2F28300BC485B /* Session.swift */,
@@ -774,6 +829,7 @@
 			packageReferences = (
 				897E17E92AB0A27C008CCFC3 /* XCRemoteSwiftPackageReference "Geohasher" */,
 				896F13342ACCEAB1007733D3 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				89D9F0E92ADDA6C4004727C5 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */,
 			);
 			productRefGroup = EA84F0C72A4E78B10068623C /* Products */;
 			projectDirPath = "";
@@ -829,18 +885,22 @@
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
 				8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */,
 				EA84F1492A4E7B5E0068623C /* ObjectInfoTableViewCell.swift in Sources */,
+				89D9F0E62AD9C0D4004727C5 /* ObjectWebsiteView.swift in Sources */,
 				897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */,
 				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
 				89D744902AA7FE31002C5318 /* PortalsLibraryListView.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
 				898CE0E32A7B2D3300EF823C /* ObjectSettingsView.swift in Sources */,
+				89D9F0E02AD82E93004727C5 /* PhotoAssetCollection.swift in Sources */,
 				899137222A881A3D005523FE /* InventoryFormView.swift in Sources */,
 				EA84F1532A4E7B5E0068623C /* UploadContentTableViewCell.swift in Sources */,
 				895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */,
 				EA84F1542A4E7B5E0068623C /* StyleTableViewCell.swift in Sources */,
+				89D9F0D32AD82D2D004727C5 /* DataModel.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
 				89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */,
 				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
+				89D9F0D52AD82D3A004727C5 /* PhotoCollection.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				89D7448E2AA7F34E002C5318 /* StoreView.swift in Sources */,
 				8908ADA82AD2F28300BC485B /* Session.swift in Sources */,
@@ -856,8 +916,10 @@
 				897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */,
+				89D9F0E42AD82EAA004727C5 /* Camera.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
 				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
+				89D9F0D12AD82D28004727C5 /* CachedImageManager.swift in Sources */,
 				EA84F1512A4E7B5E0068623C /* ModelTableViewCell.swift in Sources */,
 				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
 				891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */,
@@ -878,11 +940,13 @@
 				89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */,
 				897E18002AC5C08B008CCFC3 /* InteractiveObject.swift in Sources */,
 				897E17F32ABB5B0A008CCFC3 /* TimerManager.swift in Sources */,
+				89D9F0D92AD82DDA004727C5 /* PhotoView.swift in Sources */,
 				EA84F1462A4E7B5E0068623C /* GeneratedContentImageTableViewCell.swift in Sources */,
 				EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */,
 				EA84F11C2A4E7AC90068623C /* SignUpView.swift in Sources */,
 				899137262A881A61005523FE /* ImagePicker.swift in Sources */,
 				EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */,
+				89D9F0DD2AD82E05004727C5 /* PhotoAsset.swift in Sources */,
 				89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */,
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
 				89245DC82A749DF100930D1D /* PortalView.swift in Sources */,
@@ -891,6 +955,7 @@
 				EA84F1322A4E7B250068623C /* Anchor.swift in Sources */,
 				EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */,
 				EA84F12F2A4E7B250068623C /* Texture.swift in Sources */,
+				89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */,
 				EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */,
 				EA84F1482A4E7B5E0068623C /* CreatePersonalNetworkTableViewCell.swift in Sources */,
 				896F133E2ACDAF95007733D3 /* ObjectsNotificationView.swift in Sources */,
@@ -909,6 +974,7 @@
 				899137282A89867F005523FE /* CreditsView.swift in Sources */,
 				891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */,
 				8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */,
+				89D9F0D72AD82D78004727C5 /* PhotoCollectionView.swift in Sources */,
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
 				EA84F1522A4E7B5E0068623C /* NetworkTableViewCell.swift in Sources */,
@@ -926,7 +992,9 @@
 				89EB095F2A995E7D0013211B /* OnboardingPortalView.swift in Sources */,
 				898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */,
 				89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */,
+				89D9F0DB2AD82DF4004727C5 /* PhotoItemView.swift in Sources */,
 				899137242A881A51005523FE /* InventoryItem.swift in Sources */,
+				89D9F0E22AD82E9B004727C5 /* PhotoLibrary.swift in Sources */,
 				EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */,
 				EA84F1312A4E7B250068623C /* Model.swift in Sources */,
 				89D744822AA4D67A002C5318 /* TextViewWrapper.swift in Sources */,
@@ -937,6 +1005,7 @@
 				89D7447E2AA4D626002C5318 /* CreatedNoteView.swift in Sources */,
 				897E17F12ABB248C008CCFC3 /* Test.swift in Sources */,
 				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
+				89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */,
 				897E17EF2AB0E7FD008CCFC3 /* Note.swift in Sources */,
 				897E17F72ABD0909008CCFC3 /* ReportProblemView.swift in Sources */,
 				89D744922AA803E7002C5318 /* ObjectsLibraryListView.swift in Sources */,
@@ -1243,6 +1312,14 @@
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 1.2.1;
+			};
+		};
+		89D9F0E92ADDA6C4004727C5 /* XCRemoteSwiftPackageReference "GoogleSignIn-iOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/google/GoogleSignIn-iOS";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
