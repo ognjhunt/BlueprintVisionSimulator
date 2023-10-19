@@ -26,7 +26,7 @@ def Xform "Root"
                 over "surfaceShader"
                 {
                     color3f inputs:diffuseColor = (0.19307281, 0.19307281, 0.19307281)
-                    float inputs:opacity = 0
+                    float inputs:opacity = 1
                 }
             }
 
@@ -50,7 +50,7 @@ def Xform "Root"
             {
                 quatf xformOp:orient = (1, 0, 0, 0)
                 float3 xformOp:scale = (1, 1, 1)
-                double3 xformOp:translate = (0, 3.4181480407714844, 0.31030482053756714)
+                double3 xformOp:translate = (0, 0, 0.31030482053756714)
                 uniform token[] xformOpOrder = ["xformOp:translate", "xformOp:orient", "xformOp:scale"]
             }
 

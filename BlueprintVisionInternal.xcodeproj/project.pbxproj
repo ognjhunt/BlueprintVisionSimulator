@@ -16,7 +16,6 @@
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
 		894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* PortalsListView.swift */; };
 		8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */; };
-		8950F3802A8F99500009D9EB /* audio.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 8950F37F2A8F99500009D9EB /* audio.mp3 */; };
 		895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895343432A9B81140036B877 /* OnboardingFinishView.swift */; };
 		895343462A9C16E20036B877 /* OnboardingNotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 895343452A9C16E20036B877 /* OnboardingNotesView.swift */; };
 		8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */; };
@@ -91,6 +90,7 @@
 		89D9F0E62AD9C0D4004727C5 /* ObjectWebsiteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */; };
 		89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */; };
 		89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0EE2ADEE3DD004727C5 /* Photo.swift */; };
+		89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
@@ -185,7 +185,6 @@
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* PortalsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsListView.swift; sourceTree = "<group>"; };
 		8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
-		8950F37F2A8F99500009D9EB /* audio.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = audio.mp3; sourceTree = "<group>"; };
 		895343432A9B81140036B877 /* OnboardingFinishView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingFinishView.swift; sourceTree = "<group>"; };
 		895343452A9C16E20036B877 /* OnboardingNotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingNotesView.swift; sourceTree = "<group>"; };
 		8959F6862A7C50DA00AB3F5C /* LegacyTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LegacyTextField.swift; sourceTree = "<group>"; };
@@ -258,6 +257,7 @@
 		89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectWebsiteView.swift; sourceTree = "<group>"; };
 		89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityBlueprintsView.swift; sourceTree = "<group>"; };
 		89D9F0EE2ADEE3DD004727C5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
+		89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crystal_shower_falls.mp3; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
@@ -603,7 +603,7 @@
 				EA84F1282A4E7B130068623C /* Model */,
 				EA84F11F2A4E7AF90068623C /* Firebase */,
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
-				8950F37F2A8F99500009D9EB /* audio.mp3 */,
+				89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */,
 				897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */,
 				89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */,
 				897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */,
@@ -847,9 +847,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				8908ADAA2AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg in Resources */,
-				8950F3802A8F99500009D9EB /* audio.mp3 in Resources */,
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
 				897E17FD2AC4C9F6008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 in Resources */,
+				89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */,
 				89F185B42A94ED9300B17D18 /* newocclusion.usdz in Resources */,
 				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
 				898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */,

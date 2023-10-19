@@ -51,7 +51,8 @@
     "objectMetadataList" : [
       [
         "AF09ED6F-1707-48FD-8720-65B998362C09",
-        "Root"
+        "Root",
+        "Cube"
       ],
       {
         "isExpanded" : true,
@@ -59,8 +60,7 @@
       },
       [
         "AF09ED6F-1707-48FD-8720-65B998362C09",
-        "Root",
-        "Sphere_Left"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -78,7 +78,7 @@
       [
         "AF09ED6F-1707-48FD-8720-65B998362C09",
         "Root",
-        "Cube"
+        "Sphere_Left"
       ],
       {
         "isExpanded" : true,
@@ -90,7 +90,8 @@
     "objectMetadataList" : [
       [
         "CB766F92-EE55-4A63-9401-E7B8C009764D",
-        "Root"
+        "Root",
+        "GridMaterial"
       ],
       {
         "isExpanded" : true,
@@ -98,8 +99,7 @@
       },
       [
         "CB766F92-EE55-4A63-9401-E7B8C009764D",
-        "Root",
-        "GridMaterial"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -116,7 +116,9 @@
     "objectMetadataList" : [
       [
         "D66134B1-3681-4A8E-AFE5-29F257229F3B",
-        "Root"
+        "Root",
+        "GridMaterial",
+        "GridMaterial"
       ],
       {
         "isExpanded" : true,
@@ -124,9 +126,7 @@
       },
       [
         "D66134B1-3681-4A8E-AFE5-29F257229F3B",
-        "Root",
-        "GridMaterial",
-        "GridMaterial"
+        "Root"
       ],
       {
         "isExpanded" : true,
@@ -147,62 +147,8 @@
         "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
         "RootNode",
         "_WIN0003_Frame",
-        "_WIN0003_Frame__WIN0003_Textures_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "Residential_Window",
-        "Meshes",
-        "Sketchfab_model",
-        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
-        "RootNode",
-        "_WIN0003_Frame",
-        "_WIN0003_Window"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "glass_window",
-        "Meshes",
-        "Sketchfab_model",
-        "_08c266da4004c9daeb31656c8b0c112_fbx"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "Residential_Window",
-        "Meshes",
-        "Sketchfab_model",
-        "_WIN0003_Residential_Plastic_White_142x62x104_fbx"
+        "_WIN0003_Window",
+        "_WIN0003_Handle"
       ],
       {
         "isExpanded" : true,
@@ -223,7 +169,47 @@
       },
       [
         "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root"
+        "Root",
+        "anotherSpace",
+        "Geom"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "glass_window",
+        "Meshes",
+        "Sketchfab_model",
+        "_08c266da4004c9daeb31656c8b0c112_fbx",
+        "RootNode",
+        "kitchen_086"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "glass_window",
+        "Meshes"
       ],
       {
         "isExpanded" : true,
@@ -256,18 +242,7 @@
         "Meshes",
         "Sketchfab_model",
         "_08c266da4004c9daeb31656c8b0c112_fbx",
-        "RootNode",
-        "kitchen_086"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Materials"
+        "RootNode"
       ],
       {
         "isExpanded" : true,
@@ -278,8 +253,32 @@
         "Root",
         "anotherSpace",
         "Geom",
-        "glass_window",
-        "Meshes"
+        "Residential_Window",
+        "Meshes",
+        "Sketchfab_model",
+        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
+        "RootNode",
+        "_WIN0003_Frame",
+        "_WIN0003_Window",
+        "_WIN0003_Handle",
+        "_WIN0003_Handle__WIN0003_Textures_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "Residential_Window",
+        "Meshes",
+        "Sketchfab_model",
+        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
+        "RootNode",
+        "_WIN0003_Frame",
+        "_WIN0003_Window"
       ],
       {
         "isExpanded" : true,
@@ -305,33 +304,6 @@
       [
         "DB85CEC6-4165-4489-A56A-0F970CE413FC",
         "Root",
-        "anotherSpace"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "Residential_Window",
-        "Meshes",
-        "Sketchfab_model",
-        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
-        "RootNode",
-        "_WIN0003_Frame",
-        "_WIN0003_Window",
-        "_WIN0003_Handle"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
         "anotherSpace",
         "Geom",
         "glass_window",
@@ -340,21 +312,6 @@
         "_08c266da4004c9daeb31656c8b0c112_fbx",
         "RootNode",
         "kitchen_042"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "Residential_Window",
-        "Meshes",
-        "Sketchfab_model",
-        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
-        "RootNode"
       ],
       {
         "isExpanded" : true,
@@ -385,9 +342,51 @@
         "Residential_Window",
         "Meshes",
         "Sketchfab_model",
+        "_WIN0003_Residential_Plastic_White_142x62x104_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "Residential_Window",
+        "Meshes",
+        "Sketchfab_model",
+        "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "Residential_Window",
+        "Meshes",
+        "Sketchfab_model",
         "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
         "RootNode",
-        "_WIN0003_Frame"
+        "_WIN0003_Frame",
+        "_WIN0003_Frame__WIN0003_Textures_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace",
+        "Geom",
+        "Residential_Window",
+        "Meshes"
       ],
       {
         "isExpanded" : true,
@@ -400,21 +399,6 @@
         "Geom",
         "glass_window",
         "Materials"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
-        "Root",
-        "anotherSpace",
-        "Geom",
-        "glass_window",
-        "Meshes",
-        "Sketchfab_model",
-        "_08c266da4004c9daeb31656c8b0c112_fbx",
-        "RootNode"
       ],
       {
         "isExpanded" : true,
@@ -438,8 +422,19 @@
         "Root",
         "anotherSpace",
         "Geom",
-        "Residential_Window",
-        "Meshes"
+        "glass_window",
+        "Meshes",
+        "Sketchfab_model",
+        "_08c266da4004c9daeb31656c8b0c112_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root",
+        "anotherSpace"
       ],
       {
         "isExpanded" : true,
@@ -459,6 +454,14 @@
       },
       [
         "DB85CEC6-4165-4489-A56A-0F970CE413FC",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "DB85CEC6-4165-4489-A56A-0F970CE413FC",
         "Root",
         "anotherSpace",
         "Geom",
@@ -467,10 +470,7 @@
         "Sketchfab_model",
         "_WIN0003_Residential_Plastic_White_142x62x104_fbx",
         "RootNode",
-        "_WIN0003_Frame",
-        "_WIN0003_Window",
-        "_WIN0003_Handle",
-        "_WIN0003_Handle__WIN0003_Textures_0"
+        "_WIN0003_Frame"
       ],
       {
         "isExpanded" : true,
