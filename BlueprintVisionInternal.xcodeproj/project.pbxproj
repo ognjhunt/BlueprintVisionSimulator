@@ -1170,7 +1170,7 @@
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Blueprint requires location in order to find and place content!";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1205,7 +1205,7 @@
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				INFOPLIST_KEY_NSLocationUsageDescription = "Blueprint needs this";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Blueprint needs this";
-				INFOPLIST_KEY_NSUserTrackingUsageDescription = "";
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "Blueprint requires location in order to find and place content!";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
