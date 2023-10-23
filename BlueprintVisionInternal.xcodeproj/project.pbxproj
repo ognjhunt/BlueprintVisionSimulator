@@ -91,6 +91,7 @@
 		89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */; };
 		89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0EE2ADEE3DD004727C5 /* Photo.swift */; };
 		89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */; };
+		89D9F0F92AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
@@ -258,6 +259,7 @@
 		89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityBlueprintsView.swift; sourceTree = "<group>"; };
 		89D9F0EE2ADEE3DD004727C5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crystal_shower_falls.mp3; sourceTree = "<group>"; };
+		89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectToBlueprintNotificationView.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
@@ -509,6 +511,7 @@
 				895343432A9B81140036B877 /* OnboardingFinishView.swift */,
 				891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */,
 				896F133D2ACDAF95007733D3 /* ObjectsNotificationView.swift */,
+				89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -974,6 +977,7 @@
 				899137282A89867F005523FE /* CreditsView.swift in Sources */,
 				891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */,
 				8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */,
+				89D9F0F92AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift in Sources */,
 				89D9F0D72AD82D78004727C5 /* PhotoCollectionView.swift in Sources */,
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				EA84F14D2A4E7B5E0068623C /* ObjectDescriptionTableViewCell.swift in Sources */,
