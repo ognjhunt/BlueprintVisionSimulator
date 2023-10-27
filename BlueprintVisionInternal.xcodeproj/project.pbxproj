@@ -93,6 +93,8 @@
 		89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */; };
 		89D9F0F92AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */; };
 		89D9F0FB2AE8187D004727C5 /* RemoveBlueprintContentNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */; };
+		89D9F0FD2AE95AC6004727C5 /* PrivacyPolicyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */; };
+		89D9F0FF2AE96229004727C5 /* TermsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FE2AE96229004727C5 /* TermsView.swift */; };
 		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
@@ -262,6 +264,8 @@
 		89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crystal_shower_falls.mp3; sourceTree = "<group>"; };
 		89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectToBlueprintNotificationView.swift; sourceTree = "<group>"; };
 		89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveBlueprintContentNotificationView.swift; sourceTree = "<group>"; };
+		89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyPolicyView.swift; sourceTree = "<group>"; };
+		89D9F0FE2AE96229004727C5 /* TermsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsView.swift; sourceTree = "<group>"; };
 		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
@@ -595,6 +599,8 @@
 				89D744792AA3DA03002C5318 /* StoreVM.swift */,
 				897E17F02ABB248C008CCFC3 /* Test.swift */,
 				897E17F22ABB5B0A008CCFC3 /* TimerManager.swift */,
+				89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */,
+				89D9F0FE2AE96229004727C5 /* TermsView.swift */,
 				89EB09622A9A5DA90013211B /* Onboarding */,
 				89EB095A2A97CF890013211B /* WelcomeView.swift */,
 				EA84F0F42A4E7A500068623C /* Shared Space */,
@@ -922,6 +928,7 @@
 				897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */,
 				EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */,
 				896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */,
+				89D9F0FF2AE96229004727C5 /* TermsView.swift in Sources */,
 				89D9F0E42AD82EAA004727C5 /* Camera.swift in Sources */,
 				EA84F1502A4E7B5E0068623C /* AskToJoinTableViewCell.swift in Sources */,
 				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
@@ -936,6 +943,7 @@
 				89D7448A2AA7B120002C5318 /* UploadPortalVM.swift in Sources */,
 				896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */,
 				897E17F52ABC7636008CCFC3 /* UserSubscriptionView.swift in Sources */,
+				89D9F0FD2AE95AC6004727C5 /* PrivacyPolicyView.swift in Sources */,
 				898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */,
 				894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */,
 				896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */,
