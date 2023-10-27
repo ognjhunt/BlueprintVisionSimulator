@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		89083D6A2A75E42C0077264F /* SubscriptionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89083D692A75E42C0077264F /* SubscriptionViewModel.swift */; };
 		8908ADA82AD2F28300BC485B /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8908ADA72AD2F28300BC485B /* Session.swift */; };
-		8908ADAA2AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8908ADA92AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg */; };
 		891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */; };
 		891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */; };
 		89245DC82A749DF100930D1D /* PortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* PortalView.swift */; };
@@ -38,14 +37,11 @@
 		897E17F52ABC7636008CCFC3 /* UserSubscriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F42ABC7636008CCFC3 /* UserSubscriptionView.swift */; };
 		897E17F72ABD0909008CCFC3 /* ReportProblemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F62ABD0909008CCFC3 /* ReportProblemView.swift */; };
 		897E17F92ABF7469008CCFC3 /* BillingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F82ABF7469008CCFC3 /* BillingView.swift */; };
-		897E17FB2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */; };
-		897E17FD2AC4C9F6008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */; };
 		897E18002AC5C08B008CCFC3 /* InteractiveObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */; };
 		897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */; };
 		897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */; };
 		897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */; };
 		898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898413BB2A8146A5007870FB /* EditContentNameView.swift */; };
-		898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898413CB2A847376007870FB /* Immersiveusdz.usdz */; };
 		898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */; };
 		898CE0E32A7B2D3300EF823C /* ObjectSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E22A7B2D3300EF823C /* ObjectSettingsView.swift */; };
 		898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E42A7B30A000EF823C /* EditContentDescriptionView.swift */; };
@@ -53,8 +49,6 @@
 		898CE0E92A7C120200EF823C /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E82A7C120100EF823C /* Page.swift */; };
 		898CE0EB2A7C120900EF823C /* CustomSizeWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */; };
 		898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */; };
-		898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C72A746C4800D13B4A /* newbeach.usdz */; };
-		898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 898E76C92A746F5D00D13B4A /* beachcube.usdz */; };
 		899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8991371F2A881A39005523FE /* InventoryFormVM.swift */; };
 		899137222A881A3D005523FE /* InventoryFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137202A881A3D005523FE /* InventoryFormView.swift */; };
 		899137242A881A51005523FE /* InventoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137232A881A51005523FE /* InventoryItem.swift */; };
@@ -63,8 +57,6 @@
 		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
 		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
-		89B923462A585D5400712970 /* wall.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89B923452A585D5400712970 /* wall.usdz */; };
-		89CE28AA2A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */; };
 		89D7447A2AA3DA03002C5318 /* StoreVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744792AA3DA03002C5318 /* StoreVM.swift */; };
 		89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447B2AA4D61A002C5318 /* NotesView.swift */; };
 		89D7447E2AA4D626002C5318 /* CreatedNoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447D2AA4D626002C5318 /* CreatedNoteView.swift */; };
@@ -90,7 +82,6 @@
 		89D9F0E62AD9C0D4004727C5 /* ObjectWebsiteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */; };
 		89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */; };
 		89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0EE2ADEE3DD004727C5 /* Photo.swift */; };
-		89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */; };
 		89D9F0F92AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */; };
 		89D9F0FB2AE8187D004727C5 /* RemoveBlueprintContentNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */; };
 		89D9F0FD2AE95AC6004727C5 /* PrivacyPolicyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */; };
@@ -109,8 +100,6 @@
 		89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C22A957C5D00B17D18 /* InventoryView.swift */; };
 		89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C42A96538A00B17D18 /* TabBarView.swift */; };
 		89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */; };
-		89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */; };
-		89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */; };
 		89FBFE902AABD6F200570CEF /* EditTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
 		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
@@ -182,7 +171,6 @@
 /* Begin PBXFileReference section */
 		89083D692A75E42C0077264F /* SubscriptionViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionViewModel.swift; sourceTree = "<group>"; };
 		8908ADA72AD2F28300BC485B /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
-		8908ADA92AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg"; sourceTree = "<group>"; };
 		891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintStorageNotificationView.swift; sourceTree = "<group>"; };
 		891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryNotificationView.swift; sourceTree = "<group>"; };
 		89245DC72A749DF100930D1D /* PortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalView.swift; sourceTree = "<group>"; };
@@ -207,14 +195,11 @@
 		897E17F42ABC7636008CCFC3 /* UserSubscriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSubscriptionView.swift; sourceTree = "<group>"; };
 		897E17F62ABD0909008CCFC3 /* ReportProblemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportProblemView.swift; sourceTree = "<group>"; };
 		897E17F82ABF7469008CCFC3 /* BillingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BillingView.swift; sourceTree = "<group>"; };
-		897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "bryan-goff-IuyhXAia8EA-unsplash.jpg"; sourceTree = "<group>"; };
-		897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4"; sourceTree = "<group>"; };
 		897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveObject.swift; sourceTree = "<group>"; };
 		897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitSessionManager.swift; sourceTree = "<group>"; };
 		897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "simd_float4x4+Coordinate.swift"; sourceTree = "<group>"; };
 		897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitViewModel.swift; sourceTree = "<group>"; };
 		898413BB2A8146A5007870FB /* EditContentNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentNameView.swift; sourceTree = "<group>"; };
-		898413CB2A847376007870FB /* Immersiveusdz.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = Immersiveusdz.usdz; sourceTree = "<group>"; };
 		898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBlueprintsListView.swift; sourceTree = "<group>"; };
 		898CE0E22A7B2D3300EF823C /* ObjectSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectSettingsView.swift; sourceTree = "<group>"; };
 		898CE0E42A7B30A000EF823C /* EditContentDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentDescriptionView.swift; sourceTree = "<group>"; };
@@ -222,8 +207,6 @@
 		898CE0E82A7C120100EF823C /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSizeWindow.swift; sourceTree = "<group>"; };
 		898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrnamentAlignment.swift; sourceTree = "<group>"; };
-		898E76C72A746C4800D13B4A /* newbeach.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = newbeach.usdz; sourceTree = "<group>"; };
-		898E76C92A746F5D00D13B4A /* beachcube.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = beachcube.usdz; sourceTree = "<group>"; };
 		8991371F2A881A39005523FE /* InventoryFormVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormVM.swift; sourceTree = "<group>"; };
 		899137202A881A3D005523FE /* InventoryFormView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormView.swift; sourceTree = "<group>"; };
 		899137232A881A51005523FE /* InventoryItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryItem.swift; sourceTree = "<group>"; };
@@ -233,8 +216,6 @@
 		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
 		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
-		89B923452A585D5400712970 /* wall.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = wall.usdz; path = ../../wall.usdz; sourceTree = "<group>"; };
-		89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4"; sourceTree = "<group>"; };
 		89D744782AA3D8A2002C5318 /* product.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = product.storekit; sourceTree = "<group>"; };
 		89D744792AA3DA03002C5318 /* StoreVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreVM.swift; sourceTree = "<group>"; };
 		89D7447B2AA4D61A002C5318 /* NotesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesView.swift; sourceTree = "<group>"; };
@@ -261,7 +242,6 @@
 		89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectWebsiteView.swift; sourceTree = "<group>"; };
 		89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommunityBlueprintsView.swift; sourceTree = "<group>"; };
 		89D9F0EE2ADEE3DD004727C5 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
-		89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = crystal_shower_falls.mp3; sourceTree = "<group>"; };
 		89D9F0F82AE707F8004727C5 /* ConnectToBlueprintNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectToBlueprintNotificationView.swift; sourceTree = "<group>"; };
 		89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveBlueprintContentNotificationView.swift; sourceTree = "<group>"; };
 		89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyPolicyView.swift; sourceTree = "<group>"; };
@@ -280,8 +260,6 @@
 		89F185C22A957C5D00B17D18 /* InventoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryView.swift; sourceTree = "<group>"; };
 		89F185C42A96538A00B17D18 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryView.swift; sourceTree = "<group>"; };
-		89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = tower_bridge.mp4; path = "../../ARVideoPortal-main/tower_bridge.mp4"; sourceTree = "<group>"; };
-		89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = "César - Louvre Museum.usdz"; path = "3DContent.rkassets/César - Louvre Museum.usdz"; sourceTree = "<group>"; };
 		89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTabBarView.swift; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
 		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
@@ -609,23 +587,12 @@
 				897E17FF2AC5C08B008CCFC3 /* InteractiveObject.swift */,
 				89D9F0CF2AD82D1B004727C5 /* Managers */,
 				897E17FE2AC4FB1C008CCFC3 /* Immersive */,
-				89F22EDA2A5F1D9D00918396 /* tower_bridge.mp4 */,
 				EA37BDA72A508ABC0038EF61 /* Modifiers */,
 				EA84F1352A4E7B4A0068623C /* TableViewCells */,
 				EA84F1282A4E7B130068623C /* Model */,
 				EA84F11F2A4E7AF90068623C /* Firebase */,
 				EA84F0D32A4E78B20068623C /* Assets.xcassets */,
-				89D9F0F02AE17974004727C5 /* crystal_shower_falls.mp3 */,
-				897E17FC2AC4C9F5008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 */,
-				89CE28A92A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 */,
-				897E17FA2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg */,
-				89F22EE02A5F4BF600918396 /* César - Louvre Museum.usdz */,
-				898413CB2A847376007870FB /* Immersiveusdz.usdz */,
-				8908ADA92AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg */,
 				89F185B32A94ED9300B17D18 /* newocclusion.usdz */,
-				898E76C92A746F5D00D13B4A /* beachcube.usdz */,
-				898E76C72A746C4800D13B4A /* newbeach.usdz */,
-				89B923452A585D5400712970 /* wall.usdz */,
 				8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */,
 				EA84F0D52A4E78B20068623C /* Preview Content */,
 			);
@@ -858,21 +825,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8908ADAA2AD4B1D700BC485B /* F6452BE8-8F9E-4F1A-BD85-D5BD3F794317_4_5005_c.jpeg in Resources */,
 				EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */,
-				897E17FD2AC4C9F6008CCFC3 /* 360_vr_master_series___free_download___crystal_shower_falls (2160p).mp4 in Resources */,
-				89D9F0F12AE17974004727C5 /* crystal_shower_falls.mp3 in Resources */,
 				89F185B42A94ED9300B17D18 /* newocclusion.usdz in Resources */,
 				897A9F8E2A69E288000838BA /* GoogleService-Info.plist in Resources */,
-				898E76CA2A746F5D00D13B4A /* beachcube.usdz in Resources */,
-				89F22EE12A5F4BF600918396 /* César - Louvre Museum.usdz in Resources */,
-				897E17FB2AC4884B008CCFC3 /* bryan-goff-IuyhXAia8EA-unsplash.jpg in Resources */,
-				89CE28AA2A93A8670008CEEB /* 360_vr_master_series___free_download____pebbly_beach_headland (2160p).mp4 in Resources */,
 				8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */,
-				898413CC2A847377007870FB /* Immersiveusdz.usdz in Resources */,
-				89B923462A585D5400712970 /* wall.usdz in Resources */,
-				898E76C82A746C4800D13B4A /* newbeach.usdz in Resources */,
-				89F22EDB2A5F1D9D00918396 /* tower_bridge.mp4 in Resources */,
 				EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

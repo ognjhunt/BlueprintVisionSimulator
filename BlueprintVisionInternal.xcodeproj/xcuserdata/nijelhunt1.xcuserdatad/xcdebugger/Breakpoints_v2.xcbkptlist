@@ -5798,10 +5798,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "438"
-            endingLineNumber = "438"
-            landmarkName = "updateContentReferencesForUser(_:withNewUserID:)"
-            landmarkType = "7">
+            startingLineNumber = "559"
+            endingLineNumber = "559"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "C081BEE9-7ED5-4BD0-85E4-366B874139BA - 555c8b58f55fe18"
@@ -5846,10 +5846,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "467"
-            endingLineNumber = "467"
-            landmarkName = "createProfile()"
-            landmarkType = "7">
+            startingLineNumber = "588"
+            endingLineNumber = "588"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -6038,10 +6038,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "359"
-            endingLineNumber = "359"
-            landmarkName = "saveUser(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "431"
+            endingLineNumber = "431"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "EAD50C47-222C-42BC-80CF-4F0925188680 - 9c5b9643539e21b9"
@@ -15978,10 +15978,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "465"
-            endingLineNumber = "465"
-            landmarkName = "createProfile()"
-            landmarkType = "7">
+            startingLineNumber = "586"
+            endingLineNumber = "586"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -16456,10 +16456,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "297"
-            endingLineNumber = "297"
-            landmarkName = "saveUser(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "369"
+            endingLineNumber = "369"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -16472,9 +16472,9 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "294"
-            endingLineNumber = "294"
-            landmarkName = "saveUser(completion:)"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
+            landmarkName = "convertTempUserData(tempUserID:newUserID:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -16552,10 +16552,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "306"
-            endingLineNumber = "306"
-            landmarkName = "saveUser(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "378"
+            endingLineNumber = "378"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "9C9BC47B-46A5-4427-9FAC-75A9F64AE9BD - 3ddd0fca7df5cb53"
@@ -16600,10 +16600,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "309"
-            endingLineNumber = "309"
-            landmarkName = "saveUser(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "381"
+            endingLineNumber = "381"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -16664,10 +16664,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Sign Up/SignUpView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "341"
-            endingLineNumber = "341"
-            landmarkName = "saveUser(completion:)"
-            landmarkType = "7">
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "SignUpView"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -17000,7 +17000,7 @@
             startingLineNumber = "521"
             endingLineNumber = "521"
             landmarkName = "calculateSpaceLeft(selectedBlueprintId:completion:)"
-            landmarkType = "9">
+            landmarkType = "7">
             <Locations>
                <Location
                   uuid = "DD03D10F-C6F0-4FD5-B2E3-722118066E1F - 8f1f87189a699780"
@@ -29322,8 +29322,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "450"
-            endingLineNumber = "450"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -29370,8 +29370,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "455"
-            endingLineNumber = "455"
+            startingLineNumber = "449"
+            endingLineNumber = "449"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -29433,8 +29433,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "459"
-            endingLineNumber = "459"
+            startingLineNumber = "453"
+            endingLineNumber = "453"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -29496,8 +29496,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "464"
-            endingLineNumber = "464"
+            startingLineNumber = "458"
+            endingLineNumber = "458"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -29544,8 +29544,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "449"
-            endingLineNumber = "449"
+            startingLineNumber = "443"
+            endingLineNumber = "443"
             landmarkName = "rotateContent()"
             landmarkType = "7">
          </BreakpointContent>
@@ -29560,8 +29560,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "453"
-            endingLineNumber = "453"
+            startingLineNumber = "447"
+            endingLineNumber = "447"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -29608,8 +29608,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "451"
-            endingLineNumber = "451"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
             landmarkName = "rotateContent()"
             landmarkType = "7">
             <Locations>
@@ -32788,8 +32788,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "179"
-            endingLineNumber = "179"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -33430,8 +33430,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "187"
-            endingLineNumber = "187"
+            startingLineNumber = "180"
+            endingLineNumber = "180"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -33446,8 +33446,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "379"
-            endingLineNumber = "379"
+            startingLineNumber = "373"
+            endingLineNumber = "373"
             landmarkName = "VolumetricPortalView"
             landmarkType = "14">
          </BreakpointContent>
@@ -33574,8 +33574,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -33675,175 +33675,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "176"
-            endingLineNumber = "176"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 2e7c2075d30b5159"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "176"
-                  endingLineNumber = "176"
-                  offsetFromSymbolStart = "184">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1736">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2220">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1748">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2232">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1728">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2200">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1740">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2212">
-               </Location>
-               <Location
-                  uuid = "68B540F8-5E6B-47FE-A48E-49C15A77B995 - 740fb1076017451e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;A where A1: SwiftUI.Gesture&gt;(_: A1, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;A where A1: SwiftUI.InsettableShape&gt;(in: A1, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "176"
-                  endingLineNumber = "176"
-                  offsetFromSymbolStart = "184">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB"
+            uuid = "0324FFF6-23A6-471C-8F2B-A0A08DC49750"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -33852,159 +33684,6 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "173"
             endingLineNumber = "173"
-            landmarkName = "body"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - 2e7c2075d30b511f"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "174"
-                  endingLineNumber = "174"
-                  offsetFromSymbolStart = "344">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1736">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2220">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1748">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2232">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1728">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - bcaaf6838a6aa3e2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2200">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "1740">
-               </Location>
-               <Location
-                  uuid = "78DCD411-CE93-4630-AFD7-09AD7E6F75FB - 916b6e6019b0bde1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(6) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0, SwiftUI.TupleView&lt;(SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, SwiftUI._UniformScaleEffect&gt;, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.InsettableShape&gt;(in: &#x3c4;_1_0, displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0&gt;)&gt;&gt; in closure #1 (SwiftUI.GeometryProxy3D) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.VolumetricPortalView.body.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "179"
-                  endingLineNumber = "179"
-                  offsetFromSymbolStart = "2212">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "0324FFF6-23A6-471C-8F2B-A0A08DC49750"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -35955,7 +35634,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "96856F6B-DD2F-4203-894E-1E2CC496838F"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BlueprintVisionInternal/Firebase/FirestoreManager.swift"
@@ -36002,38 +35681,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C90C9D64-D4FD-40E3-B7BE-CC95012B8900"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "264"
-            endingLineNumber = "264"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6CF7B492-014B-44A8-A213-D5C19C77E7C6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "266"
-            endingLineNumber = "266"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "599D953B-71A4-4864-BA63-694A95E6DC75"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -36041,28 +35688,43 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "321"
-            endingLineNumber = "321"
+            startingLineNumber = "315"
+            endingLineNumber = "315"
             landmarkName = "setupAvPlayer(storagePath:completion:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "599D953B-71A4-4864-BA63-694A95E6DC75 - 505772d50781e876"
+                  uuid = "599D953B-71A4-4864-BA63-694A95E6DC75 - 2833c72129f789bc"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.VolumetricPortalView.setupAvPlayer(storagePath: Swift.String, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  symbolName = "BlueprintVisionInternal.VolumetricPortalView.init() -&gt; BlueprintVisionInternal.VolumetricPortalView"
                   moduleName = "BlueprintVisionInternal"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "321"
-                  endingLineNumber = "321"
-                  offsetFromSymbolStart = "1800">
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "1080">
                </Location>
                <Location
-                  uuid = "599D953B-71A4-4864-BA63-694A95E6DC75 - 505772d50781e876"
+                  uuid = "599D953B-71A4-4864-BA63-694A95E6DC75 - 70771c140e24a5b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.VolumetricPortalView.init(scale: Swift.Double, startScale: Swift.Optional&lt;Swift.Double&gt;, interactiveObject: Swift.Optional&lt;BlueprintVisionInternal.InteractiveObject&gt;) -&gt; BlueprintVisionInternal.VolumetricPortalView"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "599D953B-71A4-4864-BA63-694A95E6DC75 - 505772d50781e93c"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -36072,8 +35734,8 @@
                   urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "321"
-                  endingLineNumber = "321"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
                   offsetFromSymbolStart = "552">
                </Location>
             </Locations>
@@ -36089,8 +35751,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "328"
-            endingLineNumber = "328"
+            startingLineNumber = "322"
+            endingLineNumber = "322"
             landmarkName = "setupAvPlayer(storagePath:completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -36105,8 +35767,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "319"
-            endingLineNumber = "319"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "setupAvPlayer(storagePath:completion:)"
             landmarkType = "7">
             <Locations>
@@ -36153,8 +35815,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "214"
-            endingLineNumber = "214"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -36169,8 +35831,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "212"
-            endingLineNumber = "212"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -36185,8 +35847,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "206"
-            endingLineNumber = "206"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -36201,10 +35863,90 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "201"
-            endingLineNumber = "201"
+            startingLineNumber = "194"
+            endingLineNumber = "194"
             landmarkName = "body"
             landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D2778009-E519-4756-B8E5-F96642174F74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "284"
+            endingLineNumber = "284"
+            landmarkName = "fetchPortalData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D2778009-E519-4756-B8E5-F96642174F74 - fb3e911c9af1e6a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;BlueprintVisionInternal.Portal&gt;) -&gt; () in BlueprintVisionInternal.VolumetricPortalView.fetchPortalData() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "1544">
+               </Location>
+               <Location
+                  uuid = "D2778009-E519-4756-B8E5-F96642174F74 - 80a98d5f2480766d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in closure #1 (Swift.Optional&lt;BlueprintVisionInternal.Portal&gt;) -&gt; () in BlueprintVisionInternal.VolumetricPortalView.fetchPortalData() -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "284"
+                  endingLineNumber = "284"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0A0B0D0-9865-4174-BA4F-0D0A7E049F47"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "286"
+            endingLineNumber = "286"
+            landmarkName = "fetchPortalData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44889C52-9F77-49E6-9C4D-99D86E742DD2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Store/Portals/VolumetricPortalView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "fetchPortalData()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
