@@ -54,6 +54,7 @@
 		899137242A881A51005523FE /* InventoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137232A881A51005523FE /* InventoryItem.swift */; };
 		899137262A881A61005523FE /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137252A881A61005523FE /* ImagePicker.swift */; };
 		899137282A89867F005523FE /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137272A89867F005523FE /* CreditsView.swift */; };
+		89B1D18B2AEC0B8F002574C4 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89B1D18A2AEC0B8F002574C4 /* StoreKit.framework */; };
 		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
 		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
@@ -197,6 +198,7 @@
 		899137252A881A61005523FE /* ImagePicker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		899137272A89867F005523FE /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		89B1D18A2AEC0B8F002574C4 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
 		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
 		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
@@ -294,6 +296,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				896F133A2ACCEAB1007733D3 /* FirebaseFirestoreSwift in Frameworks */,
+				89B1D18B2AEC0B8F002574C4 /* StoreKit.framework in Frameworks */,
 				EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */,
 				896F13382ACCEAB1007733D3 /* FirebaseFirestore in Frameworks */,
 				896F13362ACCEAB1007733D3 /* FirebaseAuth in Frameworks */,
@@ -330,6 +333,7 @@
 		897A9F862A69DCDF000838BA /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				89B1D18A2AEC0B8F002574C4 /* StoreKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -1060,7 +1064,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = BlueprintVisionInternal/BlueprintVisionInternal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.01;
 				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
 				DEVELOPMENT_TEAM = 6ZTS4C5F38;
 				ENABLE_PREVIEWS = YES;
@@ -1095,7 +1099,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = BlueprintVisionInternal/BlueprintVisionInternal.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 1.01;
 				DEVELOPMENT_ASSET_PATHS = "\"BlueprintVisionInternal/Preview Content\"";
 				DEVELOPMENT_TEAM = 6ZTS4C5F38;
 				ENABLE_PREVIEWS = YES;

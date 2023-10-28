@@ -70,385 +70,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "5750663F-DE0B-4D02-9675-64AB009EAB88"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "181"
-            endingLineNumber = "181"
-            landmarkName = "logInAction()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5750663F-DE0B-4D02-9675-64AB009EAB88 - b5e1c6ab5b775e6c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "158"
-                  endingLineNumber = "158"
-                  offsetFromSymbolStart = "436">
-               </Location>
-               <Location
-                  uuid = "5750663F-DE0B-4D02-9675-64AB009EAB88 - b5e1c6ab5b775e6c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "158"
-                  endingLineNumber = "158"
-                  offsetFromSymbolStart = "444">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "81308D23-C56D-4219-8C06-B3D515E625F1"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "859"
-            endingLineNumber = "859"
-            landmarkName = "loginUser(email:password:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "863"
-            endingLineNumber = "863"
-            landmarkName = "loginUser(email:password:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC - ba6b9cd3ca9051ba"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "815"
-                  endingLineNumber = "815"
-                  offsetFromSymbolStart = "728">
-               </Location>
-               <Location
-                  uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC - 8fc0ff059044fd8a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "815"
-                  endingLineNumber = "815"
-                  offsetFromSymbolStart = "100">
-               </Location>
-               <Location
-                  uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC - 8fc0ff059044fd8a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "815"
-                  endingLineNumber = "815"
-                  offsetFromSymbolStart = "192">
-               </Location>
-               <Location
-                  uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC - 8fc0ff059044f189"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "846"
-                  endingLineNumber = "846"
-                  offsetFromSymbolStart = "100">
-               </Location>
-               <Location
-                  uuid = "72E0CB4A-0278-4A6D-82B3-26F4D69D89BC - 8fc0ff059044f189"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "846"
-                  endingLineNumber = "846"
-                  offsetFromSymbolStart = "192">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "12389019-AD63-4E15-9792-021A1B903CB6"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "864"
-            endingLineNumber = "864"
-            landmarkName = "loginUser(email:password:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "12389019-AD63-4E15-9792-021A1B903CB6 - 8fc0ff059044f3db"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "864"
-                  endingLineNumber = "864"
-                  offsetFromSymbolStart = "164">
-               </Location>
-               <Location
-                  uuid = "12389019-AD63-4E15-9792-021A1B903CB6 - 8fc0ff059044f3db"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "864"
-                  endingLineNumber = "864"
-                  offsetFromSymbolStart = "204">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B04DA89D-5A3B-4172-B79B-1886881E4EAB"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "867"
-            endingLineNumber = "867"
-            landmarkName = "loginUser(email:password:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B04DA89D-5A3B-4172-B79B-1886881E4EAB - 8fc0ff059044fd06"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "819"
-                  endingLineNumber = "819"
-                  offsetFromSymbolStart = "100">
-               </Location>
-               <Location
-                  uuid = "B04DA89D-5A3B-4172-B79B-1886881E4EAB - 8fc0ff059044fd06"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "819"
-                  endingLineNumber = "819"
-                  offsetFromSymbolStart = "192">
-               </Location>
-               <Location
-                  uuid = "B04DA89D-5A3B-4172-B79B-1886881E4EAB - 8fc0ff059044fd06"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "819"
-                  endingLineNumber = "819"
-                  offsetFromSymbolStart = "140">
-               </Location>
-               <Location
-                  uuid = "B04DA89D-5A3B-4172-B79B-1886881E4EAB - 8fc0ff059044f105"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static BlueprintVisionInternal.FirestoreManager.loginUser(email: Swift.Optional&lt;Swift.String&gt;, password: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Firebase/FirestoreManager.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "850"
-                  endingLineNumber = "850"
-                  offsetFromSymbolStart = "140">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F7F99DE1-AB80-436B-BF72-D107CC3D1559"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "180"
-            endingLineNumber = "180"
-            landmarkName = "logInAction()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "F7F99DE1-AB80-436B-BF72-D107CC3D1559 - 9bc49d36847e982"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "157"
-                  endingLineNumber = "157"
-                  offsetFromSymbolStart = "260">
-               </Location>
-               <Location
-                  uuid = "F7F99DE1-AB80-436B-BF72-D107CC3D1559 - b5e1c6ab5b775e4d"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "157"
-                  endingLineNumber = "157"
-                  offsetFromSymbolStart = "424">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DCBC68A8-D24E-4B2A-9CDE-3F3609C4189F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Sign Up/LogInView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "187"
-            endingLineNumber = "187"
-            landmarkName = "logInAction()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "DCBC68A8-D24E-4B2A-9CDE-3F3609C4189F - 212a5f477a098d84"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.Alert in closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "164"
-                  endingLineNumber = "164"
-                  offsetFromSymbolStart = "780">
-               </Location>
-               <Location
-                  uuid = "DCBC68A8-D24E-4B2A-9CDE-3F3609C4189F - 392097fa59b9a152"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.Alert in closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LogInView.logInAction() -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Sign%20Up/LogInView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "164"
-                  endingLineNumber = "164"
-                  offsetFromSymbolStart = "4">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "DCC90654-DDC8-4663-8F23-F3272097F7B6"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -2428,7 +2049,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "312"
             endingLineNumber = "312"
-            landmarkName = "userCurrentLocation"
+            landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
@@ -5871,54 +5492,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "B8A5393B-C076-4EF3-98F3-A8AFFDC811B3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "122"
-            endingLineNumber = "122"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E7AD7A92-1309-49F9-B3AC-BF272A46CA4A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "124"
-            endingLineNumber = "124"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AC367106-D0C8-40FF-BBF5-9D0481C62401"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "129"
-            endingLineNumber = "129"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "0CD3B395-1189-4D5B-A059-A9D2189B2028"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -5926,8 +5499,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "403"
-            endingLineNumber = "403"
+            startingLineNumber = "426"
+            endingLineNumber = "426"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -5942,8 +5515,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "428"
-            endingLineNumber = "428"
+            startingLineNumber = "451"
+            endingLineNumber = "451"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -5958,8 +5531,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "431"
-            endingLineNumber = "431"
+            startingLineNumber = "454"
+            endingLineNumber = "454"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -5974,8 +5547,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "422"
-            endingLineNumber = "422"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -5990,8 +5563,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "421"
-            endingLineNumber = "421"
+            startingLineNumber = "444"
+            endingLineNumber = "444"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -6006,8 +5579,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "417"
-            endingLineNumber = "417"
+            startingLineNumber = "440"
+            endingLineNumber = "440"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -12486,8 +12059,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "396"
-            endingLineNumber = "396"
+            startingLineNumber = "419"
+            endingLineNumber = "419"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -19460,8 +19033,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "256"
-            endingLineNumber = "256"
+            startingLineNumber = "279"
+            endingLineNumber = "279"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -19523,8 +19096,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "262"
-            endingLineNumber = "262"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -22848,8 +22421,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "406"
             endingLineNumber = "406"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "endSession(sessionId:completion:)"
+            landmarkType = "7">
             <Locations>
                <Location
                   uuid = "1EEDE3BF-D14A-4383-B9AE-C8623BDD841A - 42266d88378c015b"
@@ -23006,8 +22579,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "414"
             endingLineNumber = "414"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "endSession(sessionId:completion:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -24229,7 +23802,7 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "923D33A3-C2C0-4BA6-B34E-52B5E459100C"
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BlueprintVisionInternal/Managers/CachedImageManager.swift"
@@ -25267,8 +24840,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "404"
             endingLineNumber = "404"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "TabBarView"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "D9890906-AF68-481C-9FEA-BD71377E91EF - 42266d88378c01bc"
@@ -25330,8 +24903,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "232"
             endingLineNumber = "232"
-            landmarkName = "locationManager(_:didUpdateLocations:)"
-            landmarkType = "7">
+            landmarkName = "LocationCoordinator"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "3FFCF593-50EF-4ABE-AC8B-46A11678953D - 5b809b039d5c55f8"
@@ -25440,8 +25013,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "408"
             endingLineNumber = "408"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "endSession(sessionId:completion:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -25456,8 +25029,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "410"
             endingLineNumber = "410"
-            landmarkName = "body"
-            landmarkType = "24">
+            landmarkName = "endSession(sessionId:completion:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -26986,7 +26559,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "108"
             endingLineNumber = "108"
-            landmarkName = "createSessionDocument(userID:currentDate:location:completion:)"
+            landmarkName = "initializeSessionIfNeeded(with:completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -27066,8 +26639,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "189"
             endingLineNumber = "189"
-            landmarkName = "createTempUser(completion:)"
-            landmarkType = "7">
+            landmarkName = "LocationCoordinator"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "D3369854-D605-48A8-918D-172D6CCA527F - 33d4de17daf2fdd1"
@@ -27114,8 +26687,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "191"
             endingLineNumber = "191"
-            landmarkName = "createTempUser(completion:)"
-            landmarkType = "7">
+            landmarkName = "LocationCoordinator"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "7CAD9BF0-136B-4A22-A972-D789B55B9293 - 33d4de17daf2fe17"
@@ -27162,8 +26735,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "194"
             endingLineNumber = "194"
-            landmarkName = "createTempUser(completion:)"
-            landmarkType = "7">
+            landmarkName = "LocationCoordinator"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "E9B247A2-A6E4-49B5-A260-60945A2F0A41 - 33d4de17daf2feaa"
@@ -27196,102 +26769,6 @@
                   offsetFromSymbolStart = "828">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "09A23768-4012-44E7-81AA-473BAAED0DF3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/TabBarView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "97"
-            endingLineNumber = "97"
-            landmarkName = "initializeSessionIfNeeded(with:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "09A23768-4012-44E7-81AA-473BAAED0DF3 - f933d391070b78c6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LocationCoordinator.initializeSessionIfNeeded(with: __C.CLLocation, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/TabBarView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "97"
-                  endingLineNumber = "97"
-                  offsetFromSymbolStart = "2764">
-               </Location>
-               <Location
-                  uuid = "09A23768-4012-44E7-81AA-473BAAED0DF3 - b396277c255e5db6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 () -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRDocumentSnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.LocationCoordinator.initializeSessionIfNeeded(with: __C.CLLocation, completion: (Swift.Bool) -&gt; ()) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/TabBarView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "97"
-                  endingLineNumber = "97"
-                  offsetFromSymbolStart = "128">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5357A0C8-8F82-40E4-BB84-8732E5426C6B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/TabBarView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "99"
-            endingLineNumber = "99"
-            landmarkName = "initializeSessionIfNeeded(with:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9B2BF886-BE08-41F5-BC9F-9CF1A9D6B795"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/TabBarView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
-            landmarkName = "initializeSessionIfNeeded(with:completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DF7062F6-E93C-46BF-862A-E19F465058FA"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/TabBarView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "91"
-            endingLineNumber = "91"
-            landmarkName = "initializeSessionIfNeeded(with:completion:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -27481,22 +26958,6 @@
                   offsetFromSymbolStart = "1236">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F76CF3F0-B147-4DE5-A848-710A65BCC664"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/TabBarView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
-            landmarkName = "initializeSessionIfNeeded(with:completion:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -28100,230 +27561,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "AE7CE24A-6319-436F-94C7-FF71293FC452"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "409"
-            endingLineNumber = "409"
-            landmarkName = "mainContentView"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "AE7CE24A-6319-436F-94C7-FF71293FC452 - ad85d17b78b3e0cd"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (BlueprintVisionInternal.PhotoAsset) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;BlueprintVisionInternal.PhotoAssetCollection, Swift.String, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PhotoCollectionView.mainContentView.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "276"
-                  endingLineNumber = "276"
-                  offsetFromSymbolStart = "748">
-               </Location>
-               <Location
-                  uuid = "AE7CE24A-6319-436F-94C7-FF71293FC452 - ad85d17b78b3e7d4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (BlueprintVisionInternal.PhotoAsset) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;BlueprintVisionInternal.PhotoAssetCollection, Swift.String, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PhotoCollectionView.mainContentView.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "283"
-                  endingLineNumber = "283"
-                  offsetFromSymbolStart = "816">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "2C07A02F-1521-45E4-AAD9-A6F53D6B4F2D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "411"
-            endingLineNumber = "411"
-            landmarkName = "mainContentView"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "91431988-C31E-4E4B-BF49-02D79A55C97D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "407"
-            endingLineNumber = "407"
-            landmarkName = "mainContentView"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "921F88A1-2997-4CC7-A459-021C2A35CEE6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "843"
-            endingLineNumber = "843"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "921F88A1-2997-4CC7-A459-021C2A35CEE6 - 176e7d38940abc97"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "620"
-                  endingLineNumber = "620"
-                  offsetFromSymbolStart = "1048">
-               </Location>
-               <Location
-                  uuid = "921F88A1-2997-4CC7-A459-021C2A35CEE6 - c139419a54bdb104"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.CGImagePropertyOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "620"
-                  endingLineNumber = "620"
-                  offsetFromSymbolStart = "380">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "571B173D-A628-4751-B0A8-92C96008F779"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "839"
-            endingLineNumber = "839"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "571B173D-A628-4751-B0A8-92C96008F779 - 176e7d38940abc13"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "616"
-                  endingLineNumber = "616"
-                  offsetFromSymbolStart = "704">
-               </Location>
-               <Location
-                  uuid = "571B173D-A628-4751-B0A8-92C96008F779 - 176e7d38940abc13"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "616"
-                  endingLineNumber = "616"
-                  offsetFromSymbolStart = "764">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CAE6420B-6DE1-4C01-80A4-AD1303992DE2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "841"
-            endingLineNumber = "841"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "89BBAB41-4803-4BD2-AB1F-3D8EB9834AAB"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "837"
-            endingLineNumber = "837"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5F9667B8-CA30-4177-BCA6-71817F103187"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "754"
-            endingLineNumber = "754"
-            landmarkName = "savePhotoToDatabase(asset:blueprintID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "28397FAD-6033-4702-8A04-8BB1CFA038A4"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -28331,405 +27568,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "826"
-            endingLineNumber = "826"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4A37BD4A-0901-4EA9-B557-FD494C132269"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "828"
-            endingLineNumber = "828"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "4A37BD4A-0901-4EA9-B557-FD494C132269 - 176e7d38940abee4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "605"
-                  endingLineNumber = "605"
-                  offsetFromSymbolStart = "704">
-               </Location>
-               <Location
-                  uuid = "4A37BD4A-0901-4EA9-B557-FD494C132269 - 176e7d38940abee4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "605"
-                  endingLineNumber = "605"
-                  offsetFromSymbolStart = "764">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "33ECCD46-12F0-481C-8816-94F830716178"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "865"
-            endingLineNumber = "865"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "33ECCD46-12F0-481C-8816-94F830716178 - 176e7d38940ab1a9"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "642"
-                  endingLineNumber = "642"
-                  offsetFromSymbolStart = "1412">
-               </Location>
-               <Location
-                  uuid = "33ECCD46-12F0-481C-8816-94F830716178 - 296ac8b5f23a0f62"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "642"
-                  endingLineNumber = "642"
-                  offsetFromSymbolStart = "380">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "94B7195D-CCE5-474E-8ED8-2D8C0F37F6F2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "866"
-            endingLineNumber = "866"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "94B7195D-CCE5-474E-8ED8-2D8C0F37F6F2 - 296ac8b5f23a0f45"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "643"
-                  endingLineNumber = "643"
-                  offsetFromSymbolStart = "392">
-               </Location>
-               <Location
-                  uuid = "94B7195D-CCE5-474E-8ED8-2D8C0F37F6F2 - 296ac8b5f23a0f45"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "643"
-                  endingLineNumber = "643"
-                  offsetFromSymbolStart = "740">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "DB4426D1-BFDF-4F57-A329-87C1767A23FC"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "869"
-            endingLineNumber = "869"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "DB4426D1-BFDF-4F57-A329-87C1767A23FC - 296ac8b5f23a0ee6"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "646"
-                  endingLineNumber = "646"
-                  offsetFromSymbolStart = "1008">
-               </Location>
-               <Location
-                  uuid = "DB4426D1-BFDF-4F57-A329-87C1767A23FC - e3648e194030c663"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "646"
-                  endingLineNumber = "646"
-                  offsetFromSymbolStart = "192">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B56FDA9B-D242-49A7-BF08-CD058F73B032"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "883"
-            endingLineNumber = "883"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "B56FDA9B-D242-49A7-BF08-CD058F73B032 - c88d9fa69641502a"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.updatePhotoStoragePathInFirestore(photoID: Swift.String, storagePath: Swift.String, sizeInBytes: Swift.Double) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "672"
-                  endingLineNumber = "672"
-                  offsetFromSymbolStart = "276">
-               </Location>
-               <Location
-                  uuid = "B56FDA9B-D242-49A7-BF08-CD058F73B032 - 296ac8b5f23a0b80"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "672"
-                  endingLineNumber = "672"
-                  offsetFromSymbolStart = "552">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "24E767EE-920E-4139-9C4D-09EABB5B1816"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "893"
-            endingLineNumber = "893"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "24E767EE-920E-4139-9C4D-09EABB5B1816 - 176e7d38940a92fc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "885"
-                  endingLineNumber = "885"
-                  offsetFromSymbolStart = "1828">
-               </Location>
-               <Location
-                  uuid = "24E767EE-920E-4139-9C4D-09EABB5B1816 - 176e7d38940a9140"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "889"
-                  endingLineNumber = "889"
-                  offsetFromSymbolStart = "1828">
-               </Location>
-               <Location
-                  uuid = "24E767EE-920E-4139-9C4D-09EABB5B1816 - 176e7d38940a91c4"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "893"
-                  endingLineNumber = "893"
-                  offsetFromSymbolStart = "1828">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AFAA3702-7974-458F-BB7B-C730E9371ED7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "871"
-            endingLineNumber = "871"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "AFAA3702-7974-458F-BB7B-C730E9371ED7 - e3648e194030ea26"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "865"
-                  endingLineNumber = "865"
-                  offsetFromSymbolStart = "244">
-               </Location>
-               <Location
-                  uuid = "AFAA3702-7974-458F-BB7B-C730E9371ED7 - e3648e194030ea64"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "863"
-                  endingLineNumber = "863"
-                  offsetFromSymbolStart = "356">
-               </Location>
-               <Location
-                  uuid = "AFAA3702-7974-458F-BB7B-C730E9371ED7 - e3648e194030eae0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "867"
-                  endingLineNumber = "867"
-                  offsetFromSymbolStart = "356">
-               </Location>
-               <Location
-                  uuid = "AFAA3702-7974-458F-BB7B-C730E9371ED7 - e3648e194030e57c"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "871"
-                  endingLineNumber = "871"
-                  offsetFromSymbolStart = "356">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9F5582BB-D53D-4B27-9D14-82560CC08929"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "879"
-            endingLineNumber = "879"
+            startingLineNumber = "790"
+            endingLineNumber = "790"
             landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -28792,8 +27632,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "827"
-            endingLineNumber = "827"
+            startingLineNumber = "907"
+            endingLineNumber = "907"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -28808,8 +27648,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "258"
-            endingLineNumber = "258"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -28929,22 +27769,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BEA1F4E8-C1C2-4B19-AFE8-AEC13642BD5D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "747"
-            endingLineNumber = "747"
-            landmarkName = "savePhotoToDatabase(asset:blueprintID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "76D3F260-CA8B-4775-B512-680E68A3A506"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -29009,22 +27833,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "48E24E25-73FE-4774-8B47-17CFAE1BA462"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/CreatedNoteView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "93"
-            endingLineNumber = "93"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "B03AF8AB-CD7E-4E6A-BED3-EFDD3ED8D555"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -29032,8 +27840,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "434"
-            endingLineNumber = "434"
+            startingLineNumber = "457"
+            endingLineNumber = "457"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -29048,8 +27856,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "260"
-            endingLineNumber = "260"
+            startingLineNumber = "283"
+            endingLineNumber = "283"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -29285,8 +28093,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/CreatedNoteView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
@@ -29333,10 +28141,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/CreatedNoteView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "109"
-            endingLineNumber = "109"
-            landmarkName = "fetchNoteData()"
-            landmarkType = "7">
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "body"
+            landmarkType = "24">
             <Locations>
                <Location
                   uuid = "7D2358BA-6971-422A-AB3C-91BC68E877C9 - ef9319852c780f8f"
@@ -29381,10 +28189,10 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/CreatedNoteView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "113"
-            endingLineNumber = "113"
-            landmarkName = "fetchNoteData()"
-            landmarkType = "7">
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "body"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -30557,8 +29365,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "485"
-            endingLineNumber = "485"
+            startingLineNumber = "508"
+            endingLineNumber = "508"
             landmarkName = "openWindowsWithDelay(ids:currentIndex:)"
             landmarkType = "9">
             <Locations>
@@ -30635,8 +29443,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "489"
-            endingLineNumber = "489"
+            startingLineNumber = "512"
+            endingLineNumber = "512"
             landmarkName = "openWindowsWithDelay(ids:currentIndex:)"
             landmarkType = "9">
             <Locations>
@@ -30683,8 +29491,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "493"
-            endingLineNumber = "493"
+            startingLineNumber = "516"
+            endingLineNumber = "516"
             landmarkName = "openWindowsWithDelay(ids:currentIndex:)"
             landmarkType = "9">
          </BreakpointContent>
@@ -30699,8 +29507,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "498"
-            endingLineNumber = "498"
+            startingLineNumber = "521"
+            endingLineNumber = "521"
             landmarkName = "openWindowsWithDelay(ids:currentIndex:)"
             landmarkType = "9">
             <Locations>
@@ -30747,8 +29555,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "504"
-            endingLineNumber = "504"
+            startingLineNumber = "527"
+            endingLineNumber = "527"
             landmarkName = "downloadBlueprintContent()"
             landmarkType = "7">
             <Locations>
@@ -30783,38 +29591,6 @@
                   offsetFromSymbolStart = "1048">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "E008F1B7-44EC-4DE9-A102-FD0BE4853A2F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "915"
-            endingLineNumber = "915"
-            landmarkName = "updatePhotoStoragePathInFirestore(photoID:storagePath:sizeInBytes:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "1A9C1418-C7CE-4A15-A450-BD579328D215"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "916"
-            endingLineNumber = "916"
-            landmarkName = "updatePhotoStoragePathInFirestore(photoID:storagePath:sizeInBytes:)"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -31194,8 +29970,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "577"
-            endingLineNumber = "577"
+            startingLineNumber = "600"
+            endingLineNumber = "600"
             landmarkName = "getObjectDimensions(objectID:)"
             landmarkType = "7">
             <Locations>
@@ -31242,8 +30018,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "483"
-            endingLineNumber = "483"
+            startingLineNumber = "506"
+            endingLineNumber = "506"
             landmarkName = "openWindowsWithDelay(ids:currentIndex:)"
             landmarkType = "9">
             <Locations>
@@ -31278,22 +30054,6 @@
                   offsetFromSymbolStart = "716">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "28DC05A7-AB9A-432C-A966-EDDDBF540FB1"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/CreatedNoteView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "95"
-            endingLineNumber = "95"
-            landmarkName = "body"
-            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -31528,8 +30288,8 @@
             filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "371"
-            endingLineNumber = "371"
+            startingLineNumber = "394"
+            endingLineNumber = "394"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -31569,85 +30329,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7CB1D705-D1B5-495D-AE23-F549F93B7701"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "399"
-            endingLineNumber = "399"
-            landmarkName = "mainContentView"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "945DE224-DF7F-41AF-A1A8-5337BDA8DF27"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "402"
-            endingLineNumber = "402"
-            landmarkName = "mainContentView"
-            landmarkType = "24">
-            <Locations>
-               <Location
-                  uuid = "945DE224-DF7F-41AF-A1A8-5337BDA8DF27 - ad85d17b78b3d145"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (BlueprintVisionInternal.PhotoAsset) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;BlueprintVisionInternal.PhotoAssetCollection, Swift.String, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PhotoCollectionView.mainContentView.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "396"
-                  endingLineNumber = "396"
-                  offsetFromSymbolStart = "800">
-               </Location>
-               <Location
-                  uuid = "945DE224-DF7F-41AF-A1A8-5337BDA8DF27 - ad85d17b78b3d087"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (BlueprintVisionInternal.PhotoAsset) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;BlueprintVisionInternal.PhotoAssetCollection, Swift.String, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PhotoCollectionView.mainContentView.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "398"
-                  endingLineNumber = "398"
-                  offsetFromSymbolStart = "800">
-               </Location>
-               <Location
-                  uuid = "945DE224-DF7F-41AF-A1A8-5337BDA8DF27 - ad85d17b78b3d00b"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (BlueprintVisionInternal.PhotoAsset) -&gt; SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;BlueprintVisionInternal.PhotoAssetCollection, Swift.String, SwiftUI.ModifiedContent&lt;&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PrimitiveButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.AccessibilityAttachmentModifier&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in BlueprintVisionInternal.PhotoCollectionView.mainContentView.getter : some"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "402"
-                  endingLineNumber = "402"
-                  offsetFromSymbolStart = "800">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "89474943-CAE0-4136-971E-B108A21FF444"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -31675,307 +30356,6 @@
             endingLineNumber = "151"
             landmarkName = "body"
             landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "31ED1B67-7DA1-4E8F-839D-4BD43CF53E23"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "887"
-            endingLineNumber = "887"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "31ED1B67-7DA1-4E8F-839D-4BD43CF53E23 - 296ac8b5f23a2cf1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "879"
-                  endingLineNumber = "879"
-                  offsetFromSymbolStart = "2384">
-               </Location>
-               <Location
-                  uuid = "31ED1B67-7DA1-4E8F-839D-4BD43CF53E23 - 296ac8b5f23a2cf1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "879"
-                  endingLineNumber = "879"
-                  offsetFromSymbolStart = "2064">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "0B8601F6-8C18-4420-BF33-817B41D11CEC"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "886"
-            endingLineNumber = "886"
-            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "0B8601F6-8C18-4420-BF33-817B41D11CEC - 296ac8b5f23a2d1e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "878"
-                  endingLineNumber = "878"
-                  offsetFromSymbolStart = "2376">
-               </Location>
-               <Location
-                  uuid = "0B8601F6-8C18-4420-BF33-817B41D11CEC - 296ac8b5f23a2d1e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Swift.String&gt;, __C.UIImageOrientation, Swift.Optional&lt;Swift.Dictionary&lt;Swift.AnyHashable, Any&gt;&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.storeAssetInFirebaseStorage(asset: BlueprintVisionInternal.PhotoAsset, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "878"
-                  endingLineNumber = "878"
-                  offsetFromSymbolStart = "804">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C22E3DB9-6907-4A5F-A93F-D32B6BCBF8D0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "929"
-            endingLineNumber = "929"
-            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "C22E3DB9-6907-4A5F-A93F-D32B6BCBF8D0 - 233a2d16abac89dc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (__C.FIRTransaction, Swift.Optional&lt;Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;__C.NSError&gt;&gt;&gt;) -&gt; Swift.Optional&lt;Any&gt; in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "921"
-                  endingLineNumber = "921"
-                  offsetFromSymbolStart = "252">
-               </Location>
-               <Location
-                  uuid = "C22E3DB9-6907-4A5F-A93F-D32B6BCBF8D0 - a23f09d51aa6663e"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "921"
-                  endingLineNumber = "921"
-                  offsetFromSymbolStart = "640">
-               </Location>
-               <Location
-                  uuid = "C22E3DB9-6907-4A5F-A93F-D32B6BCBF8D0 - 233a2d16abac89dc"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (__C.FIRTransaction, Swift.Optional&lt;Swift.AutoreleasingUnsafeMutablePointer&lt;Swift.Optional&lt;__C.NSError&gt;&gt;&gt;) -&gt; Swift.Optional&lt;Any&gt; in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "921"
-                  endingLineNumber = "921"
-                  offsetFromSymbolStart = "240">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "6E2E1462-D50E-4E12-85C2-7121AA550652"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "952"
-            endingLineNumber = "952"
-            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5636C4A6-A470-4A6B-8FFC-96963AA47F81"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "950"
-            endingLineNumber = "950"
-            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "5636C4A6-A470-4A6B-8FFC-96963AA47F81 - cc6d8e6ae470a3ca"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "942"
-                  endingLineNumber = "942"
-                  offsetFromSymbolStart = "284">
-               </Location>
-               <Location
-                  uuid = "5636C4A6-A470-4A6B-8FFC-96963AA47F81 - cc6d8e6ae470a3ca"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "942"
-                  endingLineNumber = "942"
-                  offsetFromSymbolStart = "396">
-               </Location>
-               <Location
-                  uuid = "5636C4A6-A470-4A6B-8FFC-96963AA47F81 - cc6d8e6ae470a346"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "946"
-                  endingLineNumber = "946"
-                  offsetFromSymbolStart = "396">
-               </Location>
-               <Location
-                  uuid = "5636C4A6-A470-4A6B-8FFC-96963AA47F81 - cc6d8e6ae470a0c2"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #2 (Swift.Optional&lt;Any&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.deletePhotoFromFirestore(blueprintID: Swift.String, photoID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "950"
-                  endingLineNumber = "950"
-                  offsetFromSymbolStart = "396">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "183E4553-3944-40EE-9936-82C3712522C5"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "749"
-            endingLineNumber = "749"
-            landmarkName = "savePhotoToDatabase(asset:blueprintID:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "183E4553-3944-40EE-9936-82C3712522C5 - c9e90bec9ff05a0"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.savePhotoToDatabase(asset: BlueprintVisionInternal.PhotoAsset, blueprintID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "741"
-                  endingLineNumber = "741"
-                  offsetFromSymbolStart = "656">
-               </Location>
-               <Location
-                  uuid = "183E4553-3944-40EE-9936-82C3712522C5 - 2c9800d77b664fe1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.PhotoCollectionView.savePhotoToDatabase(asset: BlueprintVisionInternal.PhotoAsset, blueprintID: Swift.String) -&gt; ()"
-                  moduleName = "BlueprintVisionInternal"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "741"
-                  endingLineNumber = "741"
-                  offsetFromSymbolStart = "92">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -34058,8 +32438,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "236"
             endingLineNumber = "236"
-            landmarkName = "locationManager(_:didUpdateLocations:)"
-            landmarkType = "7">
+            landmarkName = "LocationCoordinator"
+            landmarkType = "3">
             <Locations>
                <Location
                   uuid = "72D3E8CD-02AA-44CB-A637-9D0D64FB47F5 - 5b809b039d5c5a95"
@@ -34584,7 +32964,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "495"
             endingLineNumber = "495"
-            landmarkName = "updateUserTime(userId:elapsedTime:)"
+            landmarkName = "updateProgress(_:)"
             landmarkType = "7">
             <Locations>
                <Location
@@ -34647,7 +33027,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "498"
             endingLineNumber = "498"
-            landmarkName = "updateUserTime(userId:elapsedTime:)"
+            landmarkName = "updateProgress(_:)"
             landmarkType = "7">
             <Locations>
                <Location
@@ -34695,8 +33075,8 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "500"
             endingLineNumber = "500"
-            landmarkName = "updateUserTime(userId:elapsedTime:)"
-            landmarkType = "7">
+            landmarkName = "TabBarView"
+            landmarkType = "14">
             <Locations>
                <Location
                   uuid = "84BEBB7E-3358-4BDF-93CF-AEADE0591D5C - 44f772a87b712eeb"
@@ -36484,6 +34864,625 @@
             endingLineNumber = "289"
             landmarkName = "body"
             landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "438"
+            endingLineNumber = "438"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F - 3554b81afe79fad4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "420"
+                  endingLineNumber = "420"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+               <Location
+                  uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F - d8694bb550b7dbc2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Swift.String&gt;) -&gt; () in closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "420"
+                  endingLineNumber = "420"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F - 3554b81afe79fd48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "432"
+                  endingLineNumber = "432"
+                  offsetFromSymbolStart = "1616">
+               </Location>
+               <Location
+                  uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F - d8694bb550b7dc5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;Swift.String&gt;) -&gt; () in closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "432"
+                  endingLineNumber = "432"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "DEE88AFC-EA64-4605-B626-2CB2D51CFC2F - 3554b81afe79fd48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "432"
+                  endingLineNumber = "432"
+                  offsetFromSymbolStart = "1676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BEC31B0-94BF-47BC-82EC-B40A64F8455C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "441"
+            endingLineNumber = "441"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6BEC31B0-94BF-47BC-82EC-B40A64F8455C - 6759e0c7e1c9cca6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;Swift.String&gt;) -&gt; () in closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "423"
+                  endingLineNumber = "423"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "6BEC31B0-94BF-47BC-82EC-B40A64F8455C - 6759e0c7e1c9ca32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;Swift.String&gt;) -&gt; () in closure #2 () -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.body.getter : some"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "435"
+                  endingLineNumber = "435"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F63475B6-BE33-4D2B-AA9E-B85329A1B042"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "727"
+            endingLineNumber = "727"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F63475B6-BE33-4D2B-AA9E-B85329A1B042 - 95451e4d387abc18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "708"
+                  endingLineNumber = "708"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "F63475B6-BE33-4D2B-AA9E-B85329A1B042 - 95451e4d387abc7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "707"
+                  endingLineNumber = "707"
+                  offsetFromSymbolStart = "2100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2058030C-F1C5-4834-83D2-66F039423989"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "721"
+            endingLineNumber = "721"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC8C8ED1-00C3-4475-816E-9FF29FDF17E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "724"
+            endingLineNumber = "724"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EC8C8ED1-00C3-4475-816E-9FF29FDF17E5 - 95451e4d387ab3b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "705"
+                  endingLineNumber = "705"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "EC8C8ED1-00C3-4475-816E-9FF29FDF17E5 - 95451e4d387ab394"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "704"
+                  endingLineNumber = "704"
+                  offsetFromSymbolStart = "1604">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7ABD21D-5E32-4080-AF8B-1F2E4373E124"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "728"
+            endingLineNumber = "728"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3585C5F-B17D-4E24-B6D8-FA73921F6484"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "716"
+            endingLineNumber = "716"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3585C5F-B17D-4E24-B6D8-FA73921F6484 - 95451e4d387aba0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "755"
+                  endingLineNumber = "755"
+                  offsetFromSymbolStart = "1604">
+               </Location>
+               <Location
+                  uuid = "C3585C5F-B17D-4E24-B6D8-FA73921F6484 - 95451e4d387aba0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "755"
+                  endingLineNumber = "755"
+                  offsetFromSymbolStart = "1080">
+               </Location>
+               <Location
+                  uuid = "C3585C5F-B17D-4E24-B6D8-FA73921F6484 - 5b88d180c1b8fc47"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "755"
+                  endingLineNumber = "755"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92F02ECA-7947-4DA0-B29F-BBB89E9F26B6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "718"
+            endingLineNumber = "718"
+            landmarkName = "performSearch(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "92F02ECA-7947-4DA0-B29F-BBB89E9F26B6 - 95451e4d387abaee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "758"
+                  endingLineNumber = "758"
+                  offsetFromSymbolStart = "2100">
+               </Location>
+               <Location
+                  uuid = "92F02ECA-7947-4DA0-B29F-BBB89E9F26B6 - 5b88d180c1b8fc85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in BlueprintVisionInternal.ObjectsLibraryListView.performSearch(query: Swift.String) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "757"
+                  endingLineNumber = "757"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B9F0865-DEFA-4CA2-8DA6-D72A6132F77E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "674"
+            endingLineNumber = "674"
+            landmarkName = "fetchObjectNames(from:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E48DD61F-9249-4C50-8732-ABED3DA9AEEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "659"
+            endingLineNumber = "659"
+            landmarkName = "fetchObjectNames(from:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E48DD61F-9249-4C50-8732-ABED3DA9AEEA - 8b5dcf27c51570c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.fetchObjectNames(from: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "659"
+                  endingLineNumber = "659"
+                  offsetFromSymbolStart = "1296">
+               </Location>
+               <Location
+                  uuid = "E48DD61F-9249-4C50-8732-ABED3DA9AEEA - 8b5dcf27c51570c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.fetchObjectNames(from: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "659"
+                  endingLineNumber = "659"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "E48DD61F-9249-4C50-8732-ABED3DA9AEEA - 8b5dcf27c51570c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in BlueprintVisionInternal.ObjectsLibraryListView.fetchObjectNames(from: Swift.Array&lt;Swift.String&gt;, completion: (Swift.Array&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "BlueprintVisionInternal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nijelhunt_1/Downloads/BlueprintVisionInternal/BlueprintVisionInternal/Full%20Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "659"
+                  endingLineNumber = "659"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "62E8124C-269D-4A92-AED9-452B0BB863DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "663"
+            endingLineNumber = "663"
+            landmarkName = "fetchObjectNames(from:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E7EE7BC-3E28-4F63-AF21-B6957FD7F883"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/ObjectsLibraryListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "685"
+            endingLineNumber = "685"
+            landmarkName = "fetchAdditionalUserObjects()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CCC02B9-9303-4D2C-901F-D69CF44EF6A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "781"
+            endingLineNumber = "781"
+            landmarkName = "updateCreatedPhotoIDs(for:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91222047-E591-46A2-A656-E2669D89E183"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "817"
+            endingLineNumber = "817"
+            landmarkName = "uploadImageDataToFirebase(imageData:photoRef:photoID:photoFilename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35C187B9-90DE-44C1-8E17-7DA9361805F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "822"
+            endingLineNumber = "822"
+            landmarkName = "uploadImageDataToFirebase(imageData:photoRef:photoID:photoFilename:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CF7614E-6F3E-40F8-9CAA-BD93378D5128"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "803"
+            endingLineNumber = "803"
+            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "148C199B-A218-4631-8B09-93B2BE04BF38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "810"
+            endingLineNumber = "810"
+            landmarkName = "storeAssetInFirebaseStorage(asset:photoID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB77ECED-FF80-48B7-982A-CA52EF379375"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "878"
+            endingLineNumber = "878"
+            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9338753-8163-4A2D-8582-075CCE2022C0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "870"
+            endingLineNumber = "870"
+            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24375B55-C009-4C9A-9848-71C05F464E55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueprintVisionInternal/Full Space/Tabs/Inventory/Photos/PhotoCollectionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "876"
+            endingLineNumber = "876"
+            landmarkName = "deletePhotoFromFirestore(blueprintID:photoID:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
