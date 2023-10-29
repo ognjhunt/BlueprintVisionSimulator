@@ -11,7 +11,6 @@
 		8908ADA82AD2F28300BC485B /* Session.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8908ADA72AD2F28300BC485B /* Session.swift */; };
 		891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */; };
 		891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */; };
-		89245DC82A749DF100930D1D /* PortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89245DC72A749DF100930D1D /* PortalView.swift */; };
 		8933F6D52A71F9DC007BF3A4 /* Sunlight.skybox in Resources */ = {isa = PBXBuildFile; fileRef = 8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */; };
 		894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 894F98102A5C644C00E3E25D /* PortalsListView.swift */; };
 		8950F37E2A8EBCE90009D9EB /* OnboardingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */; };
@@ -21,7 +20,6 @@
 		896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */; };
 		896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */; };
 		896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896118F32A786609006A84C0 /* EditBlueprintNameView.swift */; };
-		896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 896254D92A7189CC00B448FC /* HomeModuleCard.swift */; };
 		896F13362ACCEAB1007733D3 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13352ACCEAB1007733D3 /* FirebaseAuth */; };
 		896F13382ACCEAB1007733D3 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13372ACCEAB1007733D3 /* FirebaseFirestore */; };
 		896F133A2ACCEAB1007733D3 /* FirebaseFirestoreSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 896F13392ACCEAB1007733D3 /* FirebaseFirestoreSwift */; };
@@ -32,7 +30,6 @@
 		897E17EB2AB0A27C008CCFC3 /* Geohasher in Frameworks */ = {isa = PBXBuildFile; productRef = 897E17EA2AB0A27C008CCFC3 /* Geohasher */; };
 		897E17ED2AB0AB42008CCFC3 /* BlueprintSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17EC2AB0AB42008CCFC3 /* BlueprintSelection.swift */; };
 		897E17EF2AB0E7FD008CCFC3 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17EE2AB0E7FD008CCFC3 /* Note.swift */; };
-		897E17F12ABB248C008CCFC3 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F02ABB248C008CCFC3 /* Test.swift */; };
 		897E17F32ABB5B0A008CCFC3 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F22ABB5B0A008CCFC3 /* TimerManager.swift */; };
 		897E17F52ABC7636008CCFC3 /* UserSubscriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F42ABC7636008CCFC3 /* UserSubscriptionView.swift */; };
 		897E17F72ABD0909008CCFC3 /* ReportProblemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E17F62ABD0909008CCFC3 /* ReportProblemView.swift */; };
@@ -41,13 +38,7 @@
 		897E18022AC5D7C5008CCFC3 /* ARKitSessionManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */; };
 		897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */; };
 		897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */; };
-		898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898413BB2A8146A5007870FB /* EditContentNameView.swift */; };
 		898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */; };
-		898CE0E32A7B2D3300EF823C /* ObjectSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E22A7B2D3300EF823C /* ObjectSettingsView.swift */; };
-		898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E42A7B30A000EF823C /* EditContentDescriptionView.swift */; };
-		898CE0E72A7B30CE00EF823C /* EditContentPriceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E62A7B30CE00EF823C /* EditContentPriceView.swift */; };
-		898CE0E92A7C120200EF823C /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0E82A7C120100EF823C /* Page.swift */; };
-		898CE0EB2A7C120900EF823C /* CustomSizeWindow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */; };
 		898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */; };
 		899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8991371F2A881A39005523FE /* InventoryFormVM.swift */; };
 		899137222A881A3D005523FE /* InventoryFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137202A881A3D005523FE /* InventoryFormView.swift */; };
@@ -55,8 +46,6 @@
 		899137262A881A61005523FE /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137252A881A61005523FE /* ImagePicker.swift */; };
 		899137282A89867F005523FE /* CreditsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 899137272A89867F005523FE /* CreditsView.swift */; };
 		89B1D18B2AEC0B8F002574C4 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 89B1D18A2AEC0B8F002574C4 /* StoreKit.framework */; };
-		89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */; };
-		89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */; };
 		89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */; };
 		89D7447A2AA3DA03002C5318 /* StoreVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D744792AA3DA03002C5318 /* StoreVM.swift */; };
 		89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D7447B2AA4D61A002C5318 /* NotesView.swift */; };
@@ -87,7 +76,6 @@
 		89D9F0FB2AE8187D004727C5 /* RemoveBlueprintContentNotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */; };
 		89D9F0FD2AE95AC6004727C5 /* PrivacyPolicyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */; };
 		89D9F0FF2AE96229004727C5 /* TermsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89D9F0FE2AE96229004727C5 /* TermsView.swift */; };
-		89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F722A71C08700EE00F5 /* PortalProfileView.swift */; };
 		89E67F822A71C86500EE00F5 /* VolumetricPortalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */; };
 		89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */; };
 		89EB09572A97ABE10013211B /* MinimizedBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */; };
@@ -101,27 +89,19 @@
 		89F185C32A957C5D00B17D18 /* InventoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C22A957C5D00B17D18 /* InventoryView.swift */; };
 		89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C42A96538A00B17D18 /* TabBarView.swift */; };
 		89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */; };
-		89FBFE902AABD6F200570CEF /* EditTabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */; };
 		EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */; };
 		EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */; };
 		EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */; };
-		EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDAE2A5092F10038EF61 /* ObjectView.swift */; };
-		EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA37BDB42A52165B0038EF61 /* HomeView.swift */; };
 		EA84F0CC2A4E78B10068623C /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = EA84F0CB2A4E78B10068623C /* RealityKitContent */; };
 		EA84F0CE2A4E78B10068623C /* BlueprintVisionInternalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */; };
 		EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0D12A4E78B10068623C /* ImmersiveView.swift */; };
 		EA84F0D42A4E78B20068623C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA84F0D32A4E78B20068623C /* Assets.xcassets */; };
 		EA84F0D72A4E78B20068623C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA84F0D62A4E78B20068623C /* Preview Assets.xcassets */; };
 		EA84F0E12A4E78B20068623C /* BlueprintVisionInternalTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */; };
-		EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0F52A4E7A5A0068623C /* LaunchView.swift */; };
-		EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */; };
 		EA84F0FD2A4E7A7E0068623C /* VolumetricObjectView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */; };
-		EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */; };
 		EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1022A4E7AB00068623C /* UserSettingsView.swift */; };
 		EA84F10D2A4E7AB00068623C /* UserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1042A4E7AB00068623C /* UserProfileView.swift */; };
 		EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */; };
-		EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */; };
-		EA84F1112A4E7AB00068623C /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1082A4E7AB00068623C /* SearchView.swift */; };
 		EA84F1182A4E7AC90068623C /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1132A4E7AC90068623C /* ForgotPasswordView.swift */; };
 		EA84F1192A4E7AC90068623C /* CreateAccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1142A4E7AC90068623C /* CreateAccountView.swift */; };
 		EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1152A4E7AC90068623C /* LogInView.swift */; };
@@ -132,14 +112,10 @@
 		EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1212A4E7B040068623C /* FirebaseAuthHelper.swift */; };
 		EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1222A4E7B040068623C /* FirestoreManager.swift */; };
 		EA84F1272A4E7B040068623C /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1232A4E7B040068623C /* StorageManager.swift */; };
-		EA84F12F2A4E7B250068623C /* Texture.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1292A4E7B250068623C /* Texture.swift */; };
-		EA84F1302A4E7B250068623C /* Style.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12A2A4E7B250068623C /* Style.swift */; };
 		EA84F1312A4E7B250068623C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12B2A4E7B250068623C /* Model.swift */; };
 		EA84F1322A4E7B250068623C /* Anchor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12C2A4E7B250068623C /* Anchor.swift */; };
 		EA84F1332A4E7B250068623C /* Blueprint.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12D2A4E7B250068623C /* Blueprint.swift */; };
 		EA84F1342A4E7B250068623C /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F12E2A4E7B250068623C /* User.swift */; };
-		EA84F1572A4E7CBD0068623C /* Module.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1562A4E7CBD0068623C /* Module.swift */; };
-		EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA84F1582A4E7CE70068623C /* ModuleCard.swift */; };
 		EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */; };
 /* End PBXBuildFile section */
 
@@ -158,7 +134,6 @@
 		8908ADA72AD2F28300BC485B /* Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Session.swift; sourceTree = "<group>"; };
 		891D92142ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintStorageNotificationView.swift; sourceTree = "<group>"; };
 		891D92162ACC83D700B9EECA /* InventoryNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryNotificationView.swift; sourceTree = "<group>"; };
-		89245DC72A749DF100930D1D /* PortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalView.swift; sourceTree = "<group>"; };
 		8933F6D42A71F9DC007BF3A4 /* Sunlight.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = Sunlight.skybox; sourceTree = "<group>"; };
 		894F98102A5C644C00E3E25D /* PortalsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalsListView.swift; sourceTree = "<group>"; };
 		8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingManager.swift; sourceTree = "<group>"; };
@@ -168,14 +143,12 @@
 		896118EF2A7861A0006A84C0 /* EditBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F12A786480006A84C0 /* EnterBlueprintPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnterBlueprintPasswordView.swift; sourceTree = "<group>"; };
 		896118F32A786609006A84C0 /* EditBlueprintNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditBlueprintNameView.swift; sourceTree = "<group>"; };
-		896254D92A7189CC00B448FC /* HomeModuleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeModuleCard.swift; sourceTree = "<group>"; };
 		896F133D2ACDAF95007733D3 /* ObjectsNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectsNotificationView.swift; sourceTree = "<group>"; };
 		8971B4842A8D696D00F682F5 /* ChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistView.swift; sourceTree = "<group>"; };
 		897A9F8D2A69E288000838BA /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		897A9F932A69EC0F000838BA /* BlueprintVisionInternal.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BlueprintVisionInternal.entitlements; sourceTree = "<group>"; };
 		897E17EC2AB0AB42008CCFC3 /* BlueprintSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSelection.swift; sourceTree = "<group>"; };
 		897E17EE2AB0E7FD008CCFC3 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
-		897E17F02ABB248C008CCFC3 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		897E17F22ABB5B0A008CCFC3 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
 		897E17F42ABC7636008CCFC3 /* UserSubscriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserSubscriptionView.swift; sourceTree = "<group>"; };
 		897E17F62ABD0909008CCFC3 /* ReportProblemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportProblemView.swift; sourceTree = "<group>"; };
@@ -184,13 +157,7 @@
 		897E18012AC5D7C5008CCFC3 /* ARKitSessionManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitSessionManager.swift; sourceTree = "<group>"; };
 		897E18032AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "simd_float4x4+Coordinate.swift"; sourceTree = "<group>"; };
 		897E18072AC86B51008CCFC3 /* ARKitViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ARKitViewModel.swift; sourceTree = "<group>"; };
-		898413BB2A8146A5007870FB /* EditContentNameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentNameView.swift; sourceTree = "<group>"; };
 		898CE0E02A7ACF5E00EF823C /* UserBlueprintsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserBlueprintsListView.swift; sourceTree = "<group>"; };
-		898CE0E22A7B2D3300EF823C /* ObjectSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectSettingsView.swift; sourceTree = "<group>"; };
-		898CE0E42A7B30A000EF823C /* EditContentDescriptionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentDescriptionView.swift; sourceTree = "<group>"; };
-		898CE0E62A7B30CE00EF823C /* EditContentPriceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditContentPriceView.swift; sourceTree = "<group>"; };
-		898CE0E82A7C120100EF823C /* Page.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
-		898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomSizeWindow.swift; sourceTree = "<group>"; };
 		898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrnamentAlignment.swift; sourceTree = "<group>"; };
 		8991371F2A881A39005523FE /* InventoryFormVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormVM.swift; sourceTree = "<group>"; };
 		899137202A881A3D005523FE /* InventoryFormView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InventoryFormView.swift; sourceTree = "<group>"; };
@@ -199,8 +166,6 @@
 		899137272A89867F005523FE /* CreditsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditsView.swift; sourceTree = "<group>"; };
 		89A9F4012A5B0F4100339826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		89B1D18A2AEC0B8F002574C4 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
-		89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricSceneDelegate.swift; sourceTree = "<group>"; };
-		89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VVUSceneDelegate.swift; sourceTree = "<group>"; };
 		89B9233F2A584BF300712970 /* BlueprintSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintSettingsView.swift; sourceTree = "<group>"; };
 		89D744782AA3D8A2002C5318 /* product.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = product.storekit; sourceTree = "<group>"; };
 		89D744792AA3DA03002C5318 /* StoreVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreVM.swift; sourceTree = "<group>"; };
@@ -232,7 +197,6 @@
 		89D9F0FA2AE8187C004727C5 /* RemoveBlueprintContentNotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveBlueprintContentNotificationView.swift; sourceTree = "<group>"; };
 		89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyPolicyView.swift; sourceTree = "<group>"; };
 		89D9F0FE2AE96229004727C5 /* TermsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TermsView.swift; sourceTree = "<group>"; };
-		89E67F722A71C08700EE00F5 /* PortalProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortalProfileView.swift; sourceTree = "<group>"; };
 		89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VolumetricPortalView.swift; sourceTree = "<group>"; };
 		89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedTabBarView.swift; sourceTree = "<group>"; };
 		89EB09562A97ABE10013211B /* MinimizedBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimizedBlueprintView.swift; sourceTree = "<group>"; };
@@ -246,12 +210,9 @@
 		89F185C22A957C5D00B17D18 /* InventoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InventoryView.swift; sourceTree = "<group>"; };
 		89F185C42A96538A00B17D18 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
 		89F185C62A966B1900B17D18 /* PhotoLibraryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoLibraryView.swift; sourceTree = "<group>"; };
-		89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTabBarView.swift; sourceTree = "<group>"; };
 		EA37BDA82A508AD30038EF61 /* DragRotationModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragRotationModifier.swift; sourceTree = "<group>"; };
 		EA37BDA92A508AD60038EF61 /* TypeTextModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeTextModifier.swift; sourceTree = "<group>"; };
 		EA37BDAA2A508AD80038EF61 /* PlacementGesturesModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlacementGesturesModifier.swift; sourceTree = "<group>"; };
-		EA37BDAE2A5092F10038EF61 /* ObjectView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObjectView.swift; sourceTree = "<group>"; };
-		EA37BDB42A52165B0038EF61 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		EA84F0C62A4E78B10068623C /* BlueprintVisionInternal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueprintVisionInternal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA84F0CA2A4E78B10068623C /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintVisionInternalApp.swift; sourceTree = "<group>"; };
@@ -260,15 +221,10 @@
 		EA84F0D62A4E78B20068623C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EA84F0DC2A4E78B20068623C /* BlueprintVisionInternalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlueprintVisionInternalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA84F0E02A4E78B20068623C /* BlueprintVisionInternalTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueprintVisionInternalTests.swift; sourceTree = "<group>"; };
-		EA84F0F52A4E7A5A0068623C /* LaunchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
-		EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceBlueprintInstructionsView.swift; sourceTree = "<group>"; };
 		EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VolumetricObjectView.swift; sourceTree = "<group>"; };
-		EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ObjectProfileView.swift; sourceTree = "<group>"; };
 		EA84F1022A4E7AB00068623C /* UserSettingsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettingsView.swift; sourceTree = "<group>"; };
 		EA84F1042A4E7AB00068623C /* UserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserProfileView.swift; sourceTree = "<group>"; };
 		EA84F1052A4E7AB00068623C /* EditUserProfileView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditUserProfileView.swift; sourceTree = "<group>"; };
-		EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditBlueprintView.swift; sourceTree = "<group>"; };
-		EA84F1082A4E7AB00068623C /* SearchView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		EA84F1132A4E7AC90068623C /* ForgotPasswordView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
 		EA84F1142A4E7AC90068623C /* CreateAccountView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountView.swift; sourceTree = "<group>"; };
 		EA84F1152A4E7AC90068623C /* LogInView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
@@ -279,14 +235,10 @@
 		EA84F1212A4E7B040068623C /* FirebaseAuthHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirebaseAuthHelper.swift; sourceTree = "<group>"; };
 		EA84F1222A4E7B040068623C /* FirestoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirestoreManager.swift; sourceTree = "<group>"; };
 		EA84F1232A4E7B040068623C /* StorageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
-		EA84F1292A4E7B250068623C /* Texture.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Texture.swift; sourceTree = "<group>"; };
-		EA84F12A2A4E7B250068623C /* Style.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Style.swift; sourceTree = "<group>"; };
 		EA84F12B2A4E7B250068623C /* Model.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		EA84F12C2A4E7B250068623C /* Anchor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Anchor.swift; sourceTree = "<group>"; };
 		EA84F12D2A4E7B250068623C /* Blueprint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Blueprint.swift; sourceTree = "<group>"; };
 		EA84F12E2A4E7B250068623C /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
-		EA84F1562A4E7CBD0068623C /* Module.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Module.swift; sourceTree = "<group>"; };
-		EA84F1582A4E7CE70068623C /* ModuleCard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModuleCard.swift; sourceTree = "<group>"; };
 		EA8AB91A2A539EB7008B2A3F /* CreateBlueprintView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateBlueprintView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -382,28 +334,6 @@
 			path = Photos;
 			sourceTree = "<group>";
 		};
-		89E67F702A71C05700EE00F5 /* Object Profile */ = {
-			isa = PBXGroup;
-			children = (
-				EA37BDAE2A5092F10038EF61 /* ObjectView.swift */,
-				EA84F1012A4E7AB00068623C /* ObjectProfileView.swift */,
-				898CE0E22A7B2D3300EF823C /* ObjectSettingsView.swift */,
-				898413BB2A8146A5007870FB /* EditContentNameView.swift */,
-				898CE0E42A7B30A000EF823C /* EditContentDescriptionView.swift */,
-				898CE0E62A7B30CE00EF823C /* EditContentPriceView.swift */,
-			);
-			path = "Object Profile";
-			sourceTree = "<group>";
-		};
-		89E67F712A71C07000EE00F5 /* Portal Profile */ = {
-			isa = PBXGroup;
-			children = (
-				89E67F722A71C08700EE00F5 /* PortalProfileView.swift */,
-				89245DC72A749DF100930D1D /* PortalView.swift */,
-			);
-			path = "Portal Profile";
-			sourceTree = "<group>";
-		};
 		89E67F782A71C4C900EE00F5 /* Tabs */ = {
 			isa = PBXGroup;
 			children = (
@@ -441,7 +371,6 @@
 			children = (
 				894F98102A5C644C00E3E25D /* PortalsListView.swift */,
 				89E67F812A71C86500EE00F5 /* VolumetricPortalView.swift */,
-				89E67F712A71C07000EE00F5 /* Portal Profile */,
 				8991371E2A8819E7005523FE /* Portal Upload */,
 			);
 			path = Portals;
@@ -450,7 +379,6 @@
 		89E67F7C2A71C5FE00EE00F5 /* Blueprints */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F1072A4E7AB00068623C /* EditBlueprintView.swift */,
 				89F185C02A957C0200B17D18 /* BlueprintsView.swift */,
 				89D9F0E72ADCAB0C004727C5 /* CommunityBlueprintsView.swift */,
 			);
@@ -476,10 +404,8 @@
 		89F185BD2A957AF500B17D18 /* Objects */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F1082A4E7AB00068623C /* SearchView.swift */,
 				89D7448B2AA7EE11002C5318 /* ObjectsListView.swift */,
 				89D9F0E52AD9C0D4004727C5 /* ObjectWebsiteView.swift */,
-				89E67F702A71C05700EE00F5 /* Object Profile */,
 			);
 			path = Objects;
 			sourceTree = "<group>";
@@ -544,10 +470,8 @@
 				897A9F8D2A69E288000838BA /* GoogleService-Info.plist */,
 				EA84F0CD2A4E78B10068623C /* BlueprintVisionInternalApp.swift */,
 				89F185C42A96538A00B17D18 /* TabBarView.swift */,
-				89FBFE8F2AABD6F200570CEF /* EditTabBarView.swift */,
 				89EB09542A97AB5D0013211B /* MinimizedTabBarView.swift */,
 				89D744792AA3DA03002C5318 /* StoreVM.swift */,
-				897E17F02ABB248C008CCFC3 /* Test.swift */,
 				897E17F22ABB5B0A008CCFC3 /* TimerManager.swift */,
 				89D9F0FC2AE95AC6004727C5 /* PrivacyPolicyView.swift */,
 				89D9F0FE2AE96229004727C5 /* TermsView.swift */,
@@ -597,7 +521,6 @@
 		EA84F0F42A4E7A500068623C /* Shared Space */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F0F52A4E7A5A0068623C /* LaunchView.swift */,
 				896118EE2A786167006A84C0 /* Blueprint */,
 				EA84F0F92A4E7A740068623C /* Roam */,
 			);
@@ -607,10 +530,7 @@
 		EA84F0F92A4E7A740068623C /* Roam */ = {
 			isa = PBXGroup;
 			children = (
-				EA84F0FA2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift */,
 				EA84F0FB2A4E7A7E0068623C /* VolumetricObjectView.swift */,
-				89B779FF2A75856500C379D3 /* VVUSceneDelegate.swift */,
-				89B779FD2A7581B400C379D3 /* VolumetricSceneDelegate.swift */,
 			);
 			path = Roam;
 			sourceTree = "<group>";
@@ -623,7 +543,6 @@
 				897E17F82ABF7469008CCFC3 /* BillingView.swift */,
 				899137272A89867F005523FE /* CreditsView.swift */,
 				8971B4842A8D696D00F682F5 /* ChecklistView.swift */,
-				EA37BDB42A52165B0038EF61 /* HomeView.swift */,
 				89083D692A75E42C0077264F /* SubscriptionViewModel.swift */,
 				EA84F1122A4E7ABA0068623C /* Sign Up */,
 				89E67F782A71C4C900EE00F5 /* Tabs */,
@@ -663,17 +582,10 @@
 				897E17EE2AB0E7FD008CCFC3 /* Note.swift */,
 				89D9F0EE2ADEE3DD004727C5 /* Photo.swift */,
 				89F185B52A950E3800B17D18 /* Portal.swift */,
-				EA84F12A2A4E7B250068623C /* Style.swift */,
 				8908ADA72AD2F28300BC485B /* Session.swift */,
 				899137232A881A51005523FE /* InventoryItem.swift */,
-				EA84F1292A4E7B250068623C /* Texture.swift */,
 				EA84F12E2A4E7B250068623C /* User.swift */,
-				EA84F1562A4E7CBD0068623C /* Module.swift */,
-				EA84F1582A4E7CE70068623C /* ModuleCard.swift */,
-				896254D92A7189CC00B448FC /* HomeModuleCard.swift */,
-				898CE0E82A7C120100EF823C /* Page.swift */,
 				898CE0EC2A7C121200EF823C /* OrnamentAlignment.swift */,
-				898CE0EA2A7C120900EF823C /* CustomSizeWindow.swift */,
 				8950F37D2A8EBCE90009D9EB /* OnboardingManager.swift */,
 			);
 			path = Model;
@@ -795,32 +707,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				898CE0E72A7B30CE00EF823C /* EditContentPriceView.swift in Sources */,
-				89FBFE902AABD6F200570CEF /* EditTabBarView.swift in Sources */,
 				8959F6872A7C50DA00AB3F5C /* LegacyTextField.swift in Sources */,
 				EA84F1242A4E7B040068623C /* FirebaseStorageHelper.swift in Sources */,
 				8971B4852A8D696D00F682F5 /* ChecklistView.swift in Sources */,
 				89D9F0E62AD9C0D4004727C5 /* ObjectWebsiteView.swift in Sources */,
 				897E18082AC86B51008CCFC3 /* ARKitViewModel.swift in Sources */,
-				89B779FE2A7581B400C379D3 /* VolumetricSceneDelegate.swift in Sources */,
 				89D744902AA7FE31002C5318 /* PortalsLibraryListView.swift in Sources */,
 				EA84F11E2A4E7AD10068623C /* SubscriptionView.swift in Sources */,
-				898CE0E32A7B2D3300EF823C /* ObjectSettingsView.swift in Sources */,
 				89D9F0E02AD82E93004727C5 /* PhotoAssetCollection.swift in Sources */,
 				899137222A881A3D005523FE /* InventoryFormView.swift in Sources */,
 				895343442A9B81140036B877 /* OnboardingFinishView.swift in Sources */,
 				89D9F0D32AD82D2D004727C5 /* DataModel.swift in Sources */,
 				EA84F10B2A4E7AB00068623C /* UserSettingsView.swift in Sources */,
 				89D7447C2AA4D61A002C5318 /* NotesView.swift in Sources */,
-				896254DA2A7189CC00B448FC /* HomeModuleCard.swift in Sources */,
 				89D9F0D52AD82D3A004727C5 /* PhotoCollection.swift in Sources */,
 				EA8AB91B2A539EB8008B2A3F /* CreateBlueprintView.swift in Sources */,
 				89D7448E2AA7F34E002C5318 /* StoreView.swift in Sources */,
 				8908ADA82AD2F28300BC485B /* Session.swift in Sources */,
-				898CE0E92A7C120200EF823C /* Page.swift in Sources */,
 				89F185C72A966B1900B17D18 /* PhotoLibraryView.swift in Sources */,
 				EA84F1342A4E7B250068623C /* User.swift in Sources */,
-				89B77A002A75856500C379D3 /* VVUSceneDelegate.swift in Sources */,
 				898CE0E12A7ACF5E00EF823C /* UserBlueprintsListView.swift in Sources */,
 				89083D6A2A75E42C0077264F /* SubscriptionViewModel.swift in Sources */,
 				89EB09612A9A5DA30013211B /* OnboardingObjectView.swift in Sources */,
@@ -830,18 +735,14 @@
 				896118F02A7861A0006A84C0 /* EditBlueprintPasswordView.swift in Sources */,
 				89D9F0FF2AE96229004727C5 /* TermsView.swift in Sources */,
 				89D9F0E42AD82EAA004727C5 /* Camera.swift in Sources */,
-				EA84F0FC2A4E7A7E0068623C /* PlaceBlueprintInstructionsView.swift in Sources */,
 				89D9F0D12AD82D28004727C5 /* CachedImageManager.swift in Sources */,
-				EA37BDAF2A5092F10038EF61 /* ObjectView.swift in Sources */,
 				891D92172ACC83D700B9EECA /* InventoryNotificationView.swift in Sources */,
-				EA84F0F62A4E7A5A0068623C /* LaunchView.swift in Sources */,
 				89D744862AA4FAE8002C5318 /* SelectedPhotoView.swift in Sources */,
 				899137212A881A3D005523FE /* InventoryFormVM.swift in Sources */,
 				89D7448A2AA7B120002C5318 /* UploadPortalVM.swift in Sources */,
 				896118F42A786609006A84C0 /* EditBlueprintNameView.swift in Sources */,
 				897E17F52ABC7636008CCFC3 /* UserSubscriptionView.swift in Sources */,
 				89D9F0FD2AE95AC6004727C5 /* PrivacyPolicyView.swift in Sources */,
-				898413BC2A8146A5007870FB /* EditContentNameView.swift in Sources */,
 				894F98112A5C644C00E3E25D /* PortalsListView.swift in Sources */,
 				896118F22A786480006A84C0 /* EnterBlueprintPasswordView.swift in Sources */,
 				EA84F11B2A4E7AC90068623C /* CreateUsernameView.swift in Sources */,
@@ -858,25 +759,19 @@
 				89D9F0DD2AD82E05004727C5 /* PhotoAsset.swift in Sources */,
 				89F185C52A96538A00B17D18 /* TabBarView.swift in Sources */,
 				EA84F1252A4E7B040068623C /* FirebaseAuthHelper.swift in Sources */,
-				89245DC82A749DF100930D1D /* PortalView.swift in Sources */,
 				EA84F11A2A4E7AC90068623C /* LogInView.swift in Sources */,
 				89D744812AA4D67A002C5318 /* GrowingTextInputView.swift in Sources */,
 				EA84F1322A4E7B250068623C /* Anchor.swift in Sources */,
-				EA37BDB52A52165B0038EF61 /* HomeView.swift in Sources */,
-				EA84F12F2A4E7B250068623C /* Texture.swift in Sources */,
 				89D9F0E82ADCAB0C004727C5 /* CommunityBlueprintsView.swift in Sources */,
 				EA37BDAC2A508AD80038EF61 /* TypeTextModifier.swift in Sources */,
 				896F133E2ACDAF95007733D3 /* ObjectsNotificationView.swift in Sources */,
 				EA84F1262A4E7B040068623C /* FirestoreManager.swift in Sources */,
-				EA84F1572A4E7CBD0068623C /* Module.swift in Sources */,
 				897E18042AC67DCA008CCFC3 /* simd_float4x4+Coordinate.swift in Sources */,
 				EA84F10E2A4E7AB00068623C /* EditUserProfileView.swift in Sources */,
 				89EB09552A97AB5D0013211B /* MinimizedTabBarView.swift in Sources */,
 				89D9F0FB2AE8187D004727C5 /* RemoveBlueprintContentNotificationView.swift in Sources */,
 				EA37BDAD2A508AD80038EF61 /* PlacementGesturesModifier.swift in Sources */,
-				EA84F1302A4E7B250068623C /* Style.swift in Sources */,
 				89D7447A2AA3DA03002C5318 /* StoreVM.swift in Sources */,
-				898CE0E52A7B30A000EF823C /* EditContentDescriptionView.swift in Sources */,
 				89EB09592A97C31F0013211B /* OnboardingView.swift in Sources */,
 				899137282A89867F005523FE /* CreditsView.swift in Sources */,
 				891D92152ACBEF5900B9EECA /* BlueprintStorageNotificationView.swift in Sources */,
@@ -886,17 +781,12 @@
 				EA84F0D22A4E78B10068623C /* ImmersiveView.swift in Sources */,
 				89D7448C2AA7EE11002C5318 /* ObjectsListView.swift in Sources */,
 				EA84F1192A4E7AC90068623C /* CreateAccountView.swift in Sources */,
-				EA84F1592A4E7CE70068623C /* ModuleCard.swift in Sources */,
 				EA84F0FD2A4E7A7E0068623C /* VolumetricObjectView.swift in Sources */,
-				EA84F1112A4E7AB00068623C /* SearchView.swift in Sources */,
-				EA84F1102A4E7AB00068623C /* EditBlueprintView.swift in Sources */,
 				EA37BDAB2A508AD80038EF61 /* DragRotationModifier.swift in Sources */,
 				897E17F92ABF7469008CCFC3 /* BillingView.swift in Sources */,
-				898CE0EB2A7C120900EF823C /* CustomSizeWindow.swift in Sources */,
 				897E17ED2AB0AB42008CCFC3 /* BlueprintSelection.swift in Sources */,
 				89EB095F2A995E7D0013211B /* OnboardingPortalView.swift in Sources */,
 				898CE0ED2A7C121200EF823C /* OrnamentAlignment.swift in Sources */,
-				89E67F732A71C08700EE00F5 /* PortalProfileView.swift in Sources */,
 				89D9F0DB2AD82DF4004727C5 /* PhotoItemView.swift in Sources */,
 				899137242A881A51005523FE /* InventoryItem.swift in Sources */,
 				89D9F0E22AD82E9B004727C5 /* PhotoLibrary.swift in Sources */,
@@ -908,8 +798,6 @@
 				89B923402A584BF300712970 /* BlueprintSettingsView.swift in Sources */,
 				89EB095B2A97CF890013211B /* WelcomeView.swift in Sources */,
 				89D7447E2AA4D626002C5318 /* CreatedNoteView.swift in Sources */,
-				897E17F12ABB248C008CCFC3 /* Test.swift in Sources */,
-				EA84F10A2A4E7AB00068623C /* ObjectProfileView.swift in Sources */,
 				89D9F0EF2ADEE3DD004727C5 /* Photo.swift in Sources */,
 				897E17EF2AB0E7FD008CCFC3 /* Note.swift in Sources */,
 				897E17F72ABD0909008CCFC3 /* ReportProblemView.swift in Sources */,
